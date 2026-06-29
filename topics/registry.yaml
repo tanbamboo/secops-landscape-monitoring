@@ -1,4 +1,30 @@
 topics:
+- id: manual-spectrum-security
+  slug: spectrum-security
+  name: Spectrum Security
+  type: startup
+  categories:
+  - detection_response
+  - data_ai
+  status: published
+  priority: high
+  discovered_at: '2026-06-29'
+  last_researched_at: '2026-06-29'
+  sources:
+  - url: https://www.spectrum.security/
+    tier: C
+    label: Company website
+  - url: https://fintech.global/2026/04/23/spectrum-security-raises-19m-in-seed-funding-round/
+    tier: A
+    label: FinTech Global funding coverage
+  - url: https://www.spectrum.security/blog/spectrum-emerges-from-stealth-with-19m-to-reinvent-detection-for-the-ai-era
+    tier: C
+    label: Stealth launch blog post
+  incumbent_comparison:
+  - detection_response
+  - data_ai
+  snippet: AI-driven detection lifecycle automation startup; $19M seed (Apr 2026); automates gap analysis, detection authoring, deployment across SIEM/EDR
+  discovery_source: manual
 - id: github-github-funnywolf-agentic-soc-platform
   slug: funnywolf-agentic-soc-platform
   name: FunnyWolf/agentic-soc-platform
