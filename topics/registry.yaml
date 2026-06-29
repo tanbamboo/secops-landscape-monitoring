@@ -1,0 +1,26 @@
+topics:
+- id: github-github-funnywolf-agentic-soc-platform
+  slug: funnywolf-agentic-soc-platform
+  name: FunnyWolf/agentic-soc-platform
+  type: technology
+  categories:
+  - detection_response
+  status: published
+  priority: high
+  discovered_at: '2026-06-29'
+  last_researched_at: '2026-06-29'
+  sources:
+  - url: https://github.com/FunnyWolf/agentic-soc-platform
+    tier: B
+    label: GitHub
+  incumbent_comparison:
+  - data_ai
+  - automation_orchestration
+  - detection_response
+  snippet: 'Agentic SOC Platform: A powerful, flexible, open-source, and agent-centric
+    automated security operations platform (AI SOC)'
+  discovery_source: github
+  metadata:
+    stars: 925
+    language: Python
+    updated_at: '2026-06-28T15:51:56Z'

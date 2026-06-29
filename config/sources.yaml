@@ -1,0 +1,75 @@
+# Discovery source watchlist
+
+rss:
+  - name: SecurityWeek
+    url: https://www.securityweek.com/feed/
+    tier: A
+    categories: [detection_response, cloud_identity, data_ai]
+  - name: The Hacker News
+    url: https://feeds.feedburner.com/TheHackersNews
+    tier: A
+    categories: [detection_response, vuln_exposure, cloud_identity]
+  - name: Dark Reading
+    url: https://www.darkreading.com/rss.xml
+    tier: A
+    categories: [detection_response, automation_orchestration, cloud_identity]
+
+github:
+  # GitHub Search API: q parameter, sorted by updated
+  base_url: https://api.github.com/search/repositories
+  per_page: 10
+  queries:
+    - q: "topic:siem stars:>50 pushed:>2025-01-01"
+      categories: [detection_response]
+    - q: "topic:soar stars:>20 pushed:>2025-01-01"
+      categories: [automation_orchestration]
+    - q: "topic:xdr stars:>20 pushed:>2025-01-01"
+      categories: [detection_response]
+    - q: "topic:threat-hunting stars:>30 pushed:>2025-01-01"
+      categories: [detection_response]
+    - q: "topic:cnapp stars:>10 pushed:>2025-01-01"
+      categories: [cloud_identity]
+    - q: "topic:cspm stars:>20 pushed:>2025-01-01"
+      categories: [cloud_identity]
+    - q: "autonomous soc security stars:>10 pushed:>2025-01-01"
+      categories: [data_ai, automation_orchestration]
+    - q: "llm security agent stars:>20 pushed:>2025-01-01"
+      categories: [data_ai]
+    - q: "attack surface management stars:>10 pushed:>2025-01-01"
+      categories: [vuln_exposure]
+    - q: "security orchestration stars:>15 pushed:>2025-01-01"
+      categories: [automation_orchestration]
+
+hackernews:
+  base_url: https://hn.algolia.com/api/v1/search
+  queries:
+    - query: "security startup"
+      tags: "story"
+      categories: [detection_response, data_ai]
+    - query: "SIEM alternative"
+      tags: "story"
+      categories: [detection_response]
+    - query: "autonomous SOC"
+      tags: "story"
+      categories: [data_ai, automation_orchestration]
+    - query: "SOAR security"
+      tags: "story"
+      categories: [automation_orchestration]
+    - query: "CNAPP cloud security"
+      tags: "story"
+      categories: [cloud_identity]
+
+arxiv:
+  base_url: http://export.arxiv.org/api/query
+  category: cs.CR
+  max_results: 15
+  search_terms:
+    - "large language model security operations"
+    - "autonomous cyber defense"
+    - "threat detection machine learning"
+  categories: [data_ai, detection_response]
+
+dedupe:
+  # Normalize names/URLs when checking for duplicates
+  normalize_url: true
+  normalize_name: true

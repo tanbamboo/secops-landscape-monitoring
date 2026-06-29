@@ -1,0 +1,49 @@
+---
+description: Report writing standards for SecOps landscape reports
+globs: reports/**/*.md,research/**/*.md
+alwaysApply: false
+---
+
+# Report Writing Standards
+
+## Structure
+
+Follow `templates/report.md` sections in order:
+
+1. Executive Summary
+2. Landscape Context
+3. What It Is
+4. Evidence-Backed Deep Dive
+5. Key Findings
+6. Differentiation Analysis
+7. Risks and Open Questions
+8. Sources
+
+## Tone
+
+- Analytical and neutral—not promotional.
+- Write for a security practitioner audience (SOC leads, detection engineers, architects).
+- Prefer specific technical detail over adjectives.
+
+## Citations
+
+- Every Key Finding bullet requires an inline citation.
+- Sources table must tag each entry A, B, or C.
+- Minimum 5 sources total; at least 3 must be tier A or B.
+
+## Claims Handling
+
+- State vendor claims with attribution: "The vendor claims X [tier C source]; this was verified/unverified by [tier B source]."
+- Use "appears to", "evidence suggests" only when confidence is partial.
+- Never present tier C-only claims as established fact.
+
+## Differentiation Tables
+
+- Reference incumbents from `config/taxonomy.yaml` for the topic's categories.
+- Note when a comparison is incomplete due to missing public information.
+
+## File Naming
+
+Published reports: `reports/YYYY-MM-{slug}.md`
+
+After publishing, add a row to `reports/INDEX.md`.

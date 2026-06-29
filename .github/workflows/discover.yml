@@ -1,0 +1,42 @@
+name: Weekly Discovery
+
+on:
+  schedule:
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -e .
+
+      - name: Run discovery
+        run: python scripts/discover.py
+
+      - name: Create PR if inbox changed
+        uses: peter-evans/create-pull-request@v6
+        with:
+          commit-message: "chore: weekly discovery inbox update"
+          title: "Weekly SecOps discovery inbox update"
+          body: |
+            Automated weekly discovery run.
+
+            Review new items in `topics/inbox.yaml` and triage with:
+            ```
+            python scripts/triage.py inbox
+            python scripts/triage.py promote <inbox-id> --priority high
+            ```
+          branch: discovery/weekly-inbox
+          delete-branch: true

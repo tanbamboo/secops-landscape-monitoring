@@ -1,0 +1,51 @@
+---
+description: Fact-grounded SecOps landscape research standards
+alwaysApply: true
+---
+
+# SecOps Research Standards
+
+When researching startups, products, or technologies for this repository:
+
+## Source Requirements
+
+1. **Minimum 3 tier A/B sources** before drawing conclusions.
+2. **Tier A** — Independent news, HN, practitioner blogs, community discussions.
+3. **Tier B** — GitHub, arXiv, conference talks, patents, SEC filings, technical docs.
+4. **Tier C** — Vendor blogs, press releases, landing pages. Use only to record claims; verify elsewhere.
+
+Never base conclusions solely on tier C sources.
+
+## Workflow (mandatory)
+
+1. Check `topics/registry.yaml` for the topic slug and status.
+2. Create working files under `research/{slug}/` using templates in `templates/`.
+3. Complete `claims-evidence.md` before drafting the report.
+4. Compare against incumbents listed in `config/taxonomy.yaml`.
+5. Write the report from `templates/report.md` into `reports/YYYY-MM-{slug}.md`.
+6. Run `python scripts/validate_report.py reports/YYYY-MM-{slug}.md` before marking published.
+7. Update `reports/INDEX.md` and set registry status via `python scripts/triage.py status {slug} published`.
+
+## Differentiation Analysis
+
+For each topic, assess against taxonomy incumbents on:
+
+- Architecture (data model, deployment, agent vs centralized)
+- Detection/response approach
+- Integration surface
+- Openness (API, data export, on-prem/hybrid)
+- Pricing (only if publicly knowable)
+
+Explicitly separate **genuinely new** from **repackaged existing tech**.
+
+## Evidence Discipline
+
+- Build a claims-evidence table; confidence must be `verified` or `partial` for report facts.
+- Use web search and primary sources (GitHub README, papers, filings)—not marketing copy.
+- Flag unverified claims in the report under "Risks and Open Questions".
+- Avoid weasel words ("revolutionary", "best-in-class") unless quoted and attributed.
+
+## Citation Format
+
+- Inline: `[Source Name](url)` at point of claim.
+- Bibliography table at end with tier tags (A/B/C).

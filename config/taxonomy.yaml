@@ -1,0 +1,131 @@
+# SecOps taxonomy with incumbent baselines for differentiation analysis.
+# Baselines are reference points, not endorsements.
+
+categories:
+  detection_response:
+    label: Detection & Response
+    description: SIEM, XDR, EDR, MDR, threat hunting, alert triage
+    incumbents:
+      - Splunk Enterprise Security
+      - Elastic Security
+      - Microsoft Sentinel
+      - CrowdStrike Falcon
+      - Palo Alto Cortex XDR
+    signals:
+      - siem
+      - xdr
+      - edr
+      - mdr
+      - threat-hunting
+      - detection-engineering
+
+  automation_orchestration:
+    label: Automation & Orchestration
+    description: SOAR, playbooks, case management, workflow automation
+    incumbents:
+      - Splunk SOAR
+      - Palo Alto Cortex XSOAR
+      - Torq
+      - Tines
+      - Swimlane
+    signals:
+      - soar
+      - security-automation
+      - playbook
+      - case-management
+
+  cloud_identity:
+    label: Cloud & Identity Security
+    description: CNAPP, CSPM, CIEM, IAM, zero trust, SaaS security
+    incumbents:
+      - Wiz
+      - Palo Alto Prisma Cloud
+      - Okta
+      - Zscaler
+      - Microsoft Defender for Cloud
+    signals:
+      - cnapp
+      - cspm
+      - ciem
+      - zero-trust
+      - identity-security
+      - cloud-security
+
+  data_ai:
+    label: Data Pipeline & AI in SecOps
+    description: LLM agents, autonomous SOC, ML detection, security data lakes
+    incumbents:
+      - Splunk (data platform)
+      - Elastic (data platform)
+      - Google Chronicle
+      - Dropzone AI
+      - Prophet Security
+    signals:
+      - llm-security
+      - autonomous-soc
+      - ai-soc
+      - security-llm
+      - ml-detection
+      - security-data-lake
+
+  vuln_exposure:
+    label: Vulnerability & Exposure Management
+    description: ASM, EASM, VM, attack surface discovery
+    incumbents:
+      - Tenable
+      - Rapid7
+      - Censys
+      - Mandiant Attack Surface Management
+      - Qualys
+    signals:
+      - asm
+      - easm
+      - vulnerability-management
+      - attack-surface
+      - exposure-management
+
+topic_types:
+  - startup
+  - product
+  - technology
+  - research
+
+lifecycle_statuses:
+  - inbox
+  - new
+  - researching
+  - draft
+  - published
+  - stale
+  - archived
+
+priorities:
+  - high
+  - medium
+  - low
+
+source_tiers:
+  A:
+    label: Independent / community
+    examples:
+      - SecurityWeek
+      - The Hacker News
+      - Hacker News discussions
+      - Practitioner blogs
+      - Reddit r/blueteamsec
+  B:
+    label: Primary technical
+    examples:
+      - GitHub repositories
+      - arXiv papers
+      - Conference talks (BSides, Black Hat, DEF CON)
+      - Patents
+      - SEC filings
+      - Technical documentation
+  C:
+    label: Vendor / marketing
+    examples:
+      - Vendor blog posts
+      - Press releases
+      - Product landing pages
+    note: Use for claims to verify, not for conclusions

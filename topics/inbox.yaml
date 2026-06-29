@@ -1,0 +1,1725 @@
+items:
+- id: rss-securityweek-chinese-framework-powers-200-000-scam-sites
+  name: Chinese Framework Powers 200,000 Scam Sites
+  discovered_at: '2026-06-29'
+  source: rss
+  source_name: SecurityWeek
+  source_url: https://www.securityweek.com/chinese-framework-powers-200000-scam-sites/
+  source_tier: A
+  categories: &id001
+  - detection_response
+  - cloud_identity
+  - data_ai
+  snippet: 'Threat actors are selling investment scam templates created using the
+    legitimate DCloud Uni-App toolkit.
+
+    The post Chinese Framework Powers 200,000 Scam Sites appeared first on SecurityWeek.'
+  status: inbox
+- id: rss-securityweek-amazon-q-flaw-enabled-cloud-credential-theft-via-malicious-repositories
+  name: Amazon Q Flaw Enabled Cloud Credential Theft via Malicious Repositories
+  discovered_at: '2026-06-29'
+  source: rss
+  source_name: SecurityWeek
+  source_url: https://www.securityweek.com/amazon-q-flaw-enabled-cloud-credential-theft-via-malicious-repositories/
+  source_tier: A
+  categories: *id001
+  snippet: 'AWS has patched the vulnerability and published its own advisory to inform
+    customers about the potential impact. 
+
+    The post Amazon Q Flaw Enabled Cloud Credential Theft via Malicious Repositories
+    appeared first on SecurityWeek.'
+  status: inbox
+- id: rss-securityweek-more-klue-breach-victims-identified-as-hackers-get-hacked
+  name: More Klue Breach Victims Identified as Hackers Get Hacked
+  discovered_at: '2026-06-29'
+  source: rss
+  source_name: SecurityWeek
+  source_url: https://www.securityweek.com/more-klue-breach-victims-identified-as-hackers-get-hacked/
+  source_tier: A
+  categories: *id001
+  snippet: 'Roughly two dozen companies have notified their customers of the Klue-Salesforce
+    incident impact.
+
+    The post More Klue Breach Victims Identified as Hackers Get Hacked appeared first
+    on SecurityWeek.'
+  status: inbox
+- id: rss-securityweek-in-other-news-chinese-mythos-like-ai-tata-electronics-breach-snyk-layoffs
+  name: 'In Other News: Chinese Mythos-Like AI, Tata Electronics Breach, Snyk Layoffs'
+  discovered_at: '2026-06-29'
+  source: rss
+  source_name: SecurityWeek
+  source_url: https://www.securityweek.com/in-other-news-chinese-mythos-like-ai-tata-electronics-breach-snyk-layoffs/
+  source_tier: A
+  categories: *id001
+  snippet: 'Other noteworthy stories that might have slipped under the radar: Russia
+    used Cellebrite to hack activist’s phone, Five Eyes issue urgent AI threat warning,
+    macOS Gaslight backdoor, Scattered Spider guilty pleas.
+
+    The post In Other News: Chinese Mythos-Like AI, Tata Electronics Breach, Snyk
+    Layoffs appeared first on SecurityWeek'
+  status: inbox
+- id: rss-securityweek-nebulock-raises-25-million-for-ai-native-contextual-security
+  name: Nebulock Raises $25 Million for AI-Native Contextual Security
+  discovered_at: '2026-06-29'
+  source: rss
+  source_name: SecurityWeek
+  source_url: https://www.securityweek.com/nebulock-raises-25-million-for-ai-native-contextual-security/
+  source_tier: A
+  categories: *id001
+  snippet: 'The cybersecurity startup provides threat hunting, proactive detection,
+    and behavioral security analytics.
+
+    The post Nebulock Raises $25 Million for AI-Native Contextual Security appeared
+    first on SecurityWeek.'
+  status: inbox
+- id: rss-securityweek-linux-foundation-unveils-new-open-source-security-project-akrites
+  name: Linux Foundation Unveils New Open Source Security Project Akrites
+  discovered_at: '2026-06-29'
+  source: rss
+  source_name: SecurityWeek
+  source_url: https://www.securityweek.com/linux-foundation-unveils-new-open-source-security-project-akrites/
+  source_tier: A
+  categories: *id001
+  snippet: 'It will provide the tools and channels to report, patch, and disclose
+    open source software vulnerabilities.
+
+    The post Linux Foundation Unveils New Open Source Security Project Akrites appeared
+    first on SecurityWeek.'
+  status: inbox
+- id: rss-securityweek-3-million-reportedly-stolen-in-polymarket-hack
+  name: $3 Million Reportedly Stolen in Polymarket Hack
+  discovered_at: '2026-06-29'
+  source: rss
+  source_name: SecurityWeek
+  source_url: https://www.securityweek.com/3-million-reportedly-stolen-in-polymarket-hack/
+  source_tier: A
+  categories: *id001
+  snippet: 'The decentralized prediction market said hackers targeted some of its
+    users through a compromise of a third-party vendor.
+
+    The post $3 Million Reportedly Stolen in Polymarket Hack appeared first on SecurityWeek.'
+  status: inbox
+- id: rss-securityweek-russian-apt-deploys-stockstay-backdoor-against-ukrainian-targets
+  name: Russian APT Deploys ‘StockStay’ Backdoor Against Ukrainian Targets
+  discovered_at: '2026-06-29'
+  source: rss
+  source_name: SecurityWeek
+  source_url: https://www.securityweek.com/russian-apt-deploys-stockstay-backdoor-against-ukrainian-targets/
+  source_tier: A
+  categories: *id001
+  snippet: 'Turla has been using the backdoor against government and military organizations
+    in Ukraine for espionage.
+
+    The post Russian APT Deploys &#8216;StockStay&#8217; Backdoor Against Ukrainian
+    Targets appeared first on SecurityWeek.'
+  status: inbox
+- id: rss-securityweek-first-ever-exploitation-of-ptc-windchill-vulnerability-discovered-in-the-wild
+  name: First-Ever Exploitation of PTC Windchill Vulnerability Discovered in the Wild
+  discovered_at: '2026-06-29'
+  source: rss
+  source_name: SecurityWeek
+  source_url: https://www.securityweek.com/first-ever-exploitation-of-ptc-windchill-vulnerability-discovered-in-the-wild/
+  source_tier: A
+  categories: *id001
+  snippet: 'CISA has added the remote code execution flaw CVE-2026-12569 to its Known
+    Exploited Vulnerabilities catalog.
+
+    The post First-Ever Exploitation of PTC Windchill Vulnerability Discovered in
+    the Wild appeared first on SecurityWeek.'
+  status: inbox
+- id: rss-securityweek-new-enterprise-ready-mcp-specification-brings-new-security-challenges
+  name: New Enterprise-Ready MCP Specification Brings New Security Challenges
+  discovered_at: '2026-06-29'
+  source: rss
+  source_name: SecurityWeek
+  source_url: https://www.securityweek.com/new-enterprise-ready-mcp-specification-brings-new-security-challenges/
+  source_tier: A
+  categories: *id001
+  snippet: 'A major overhaul of the Model Context Protocol shifts critical security
+    responsibilities from the protocol itself to developers and platform operators.
+
+    The post New Enterprise-Ready MCP Specification Brings New Security Challenges
+    appeared first on SecurityWeek.'
+  status: inbox
+- id: rss-thehackernews-ukraine-says-russian-intelligence-used-fake-support-texts-to-steal-messaging-cre
+  name: Ukraine Says Russian Intelligence Used Fake Support Texts to Steal Messaging
+    Credentials
+  discovered_at: '2026-06-29'
+  source: rss
+  source_name: The Hacker News
+  source_url: https://thehackernews.com/2026/06/ukraine-says-russian-intelligence-used.html
+  source_tier: A
+  categories: &id002
+  - detection_response
+  - vuln_exposure
+  - cloud_identity
+  snippet: 'The Security Service of Ukraine (SSU) said it, together with the U.S.
+    Federal Bureau of Investigation (FBI), uncovered a long-running campaign orchestrated
+    by Russian intelligence services to break into the messaging accounts of government
+    officials, military personnel, politicians, and activists in Ukraine, Europe,
+    and the U.S.
+
+
+    The systematic cyber attacks aimed at stealing sensitive'
+  status: inbox
+- id: rss-thehackernews-openai-previews-gpt-5-6-sol-with-restricted-access-and-stronger-cyber-safeguards
+  name: OpenAI Previews GPT-5.6 Sol With Restricted Access and Stronger Cyber Safeguards
+  discovered_at: '2026-06-29'
+  source: rss
+  source_name: The Hacker News
+  source_url: https://thehackernews.com/2026/06/openai-limits-gpt-56-rollout-as-sol.html
+  source_tier: A
+  categories: *id002
+  snippet: 'OpenAI on Friday released three versions of GPT-5.6, called Sol, Terra,
+    and Luna, as a limited preview to a small number of companies as part of an ongoing
+    engagement with the U.S. government.
+
+
+    While Sol is the latest flagship model and the most powerful, Terra strikes a
+    balance between efficiency and power, and Luna is fine-tuned for speed and affordability.
+
+
+    "GPT‑5.6 Sol launches with our most'
+  status: inbox
+- id: rss-thehackernews-fbi-warns-russian-intelligence-hackers-target-signal-backup-recovery-keys
+  name: FBI Warns Russian Intelligence Hackers Target Signal Backup Recovery Keys
+  discovered_at: '2026-06-29'
+  source: rss
+  source_name: The Hacker News
+  source_url: https://thehackernews.com/2026/06/fbi-warns-russian-intelligence-hackers.html
+  source_tier: A
+  categories: *id002
+  snippet: 'The FBI and CISA have updated&nbsp;their March warning&nbsp;about Russian
+    intelligence phishing Signal accounts, and the operators have added a step: they
+    now coax targets into handing over their Signal Backup Recovery Key.
+
+
+    Hand it over once, and the attacker can restore the account''s backup, read the
+    private and group message history, and take over the account. Worse, the key keeps
+    working.'
+  status: inbox
+- id: rss-thehackernews-new-sharkloader-malware-deploys-cobalt-strike-in-strikeshark-cyberattacks
+  name: New SharkLoader Malware Deploys Cobalt Strike in StrikeShark Cyberattacks
+  discovered_at: '2026-06-29'
+  source: rss
+  source_name: The Hacker News
+  source_url: https://thehackernews.com/2026/06/new-sharkloader-malware-deploys-cobalt.html
+  source_tier: A
+  categories: *id002
+  snippet: 'A newly discovered cyber attack campaign has been observed delivering
+    a previously undocumented malware family called SharkLoader that acts as a loader
+    for deploying Cobalt Strike Beacon on compromised hosts.
+
+
+    Kaspersky, which is tracking the activity under the moniker StrikeShark, said
+    the campaign has targeted a diplomatic organization in Indonesia, government organizations
+    in Taiwan,'
+  status: inbox
+- id: rss-thehackernews-chinese-speaking-apt-deploys-new-tinyrct-backdoor-in-southeast-asia-campaign
+  name: Chinese-Speaking APT Deploys New TinyRCT Backdoor in Southeast Asia Campaign
+  discovered_at: '2026-06-29'
+  source: rss
+  source_name: The Hacker News
+  source_url: https://thehackernews.com/2026/06/chinese-speaking-apt-deploys-new.html
+  source_tier: A
+  categories: *id002
+  snippet: 'A Chinese-speaking advanced persistent threat (APT) actor has been linked
+    to a new custom backdoor called TinyRCT as part of cyber attacks aimed at government
+    entities and critical infrastructure in Southeast Asia.
+
+
+    The activity, particularly aimed at state-owned enterprises in the energy and
+    government sectors, has been attributed to a threat actor called CL-STA-1062,
+    which Palo Alto Networks'
+  status: inbox
+- id: rss-thehackernews-new-linux-pedit-cow-exploit-enables-root-access-by-poisoning-cached-binaries
+  name: New Linux pedit COW Exploit Enables Root Access by Poisoning Cached Binaries
+  discovered_at: '2026-06-29'
+  source: rss
+  source_name: The Hacker News
+  source_url: https://thehackernews.com/2026/06/new-linux-pedit-cow-exploit-enables.html
+  source_tier: A
+  categories: *id002
+  snippet: 'A flaw in the Linux kernel''s traffic-control subsystem can let a local
+    unprivileged user gain root on affected systems.
+
+
+    CVE-2026-46331, nicknamed "pedit COW," is an out-of-bounds write in the packet-editing
+    action (act_pedit) that corrupts shared page-cache memory. A&nbsp;public, working
+    exploit&nbsp;appeared within a day of the CVE assignment on June 16. Red Hat&nbsp;rates
+    the flaw as'
+  status: inbox
+- id: rss-thehackernews-amazon-q-developer-flaw-could-let-malicious-repos-run-code-via-mcp-configs
+  name: Amazon Q Developer Flaw Could Let Malicious Repos Run Code via MCP Configs
+  discovered_at: '2026-06-29'
+  source: rss
+  source_name: The Hacker News
+  source_url: https://thehackernews.com/2026/06/amazon-q-developer-flaw-could-let.html
+  source_tier: A
+  categories: *id002
+  snippet: 'A high-severity flaw in Amazon Q Developer let a malicious repository
+    run commands and steal a developer''s cloud credentials. The path was short: a
+    developer opens the repo, trusts the workspace, and Amazon Q does the rest. Amazon
+    has patched it.
+
+
+    Tracked as&nbsp;CVE-2026-12957&nbsp;(CVSS 8.5), the bug sat in how Amazon''s AI
+    coding assistant handled Model Context Protocol (MCP) servers.
+
+
+    Wiz'
+  status: inbox
+- id: rss-thehackernews-cisa-adds-exploited-ptc-windchill-rce-flaw-to-kev-as-web-shell-attacks-continue
+  name: CISA Adds Exploited PTC Windchill RCE Flaw to KEV as Web Shell Attacks Continue
+  discovered_at: '2026-06-29'
+  source: rss
+  source_name: The Hacker News
+  source_url: https://thehackernews.com/2026/06/cisa-adds-exploited-ptc-windchill-rce.html
+  source_tier: A
+  categories: *id002
+  snippet: 'The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday
+    added a critical remote code execution vulnerability impacting PTC Windchill PDMlink
+    and PTC FlexPLM enterprise Product Data Management (PDM) and Product Lifecycle
+    Management (PLM) software to its Known Exploited Vulnerabilities (KEV) catalog,
+    citing evidence of active exploitation.
+
+
+    The vulnerability in question is'
+  status: inbox
+- id: rss-thehackernews-new-dirtyclone-linux-kernel-flaw-lets-local-users-gain-root-via-cloned-packets
+  name: New DirtyClone Linux Kernel Flaw Lets Local Users Gain Root via Cloned Packets
+  discovered_at: '2026-06-29'
+  source: rss
+  source_name: The Hacker News
+  source_url: https://thehackernews.com/2026/06/new-dirtyclone-linux-kernel-flaw-lets.html
+  source_tier: A
+  categories: *id002
+  snippet: 'DirtyClone is a new Linux kernel privilege escalation in the DirtyFrag
+    family.&nbsp;JFrog Security Research published a working exploit walkthrough&nbsp;for
+    the flaw on June 25, the first public demonstration for this variant.
+
+
+    Tracked as&nbsp;CVE-2026-43503&nbsp;(CVSS 8.8), it lets a local user corrupt file-backed
+    memory through a cloned network packet and gain root. The patch landed in'
+  status: inbox
+- id: rss-thehackernews-guardian-agents-the-next-layer-of-identity-governance
+  name: 'Guardian Agents: The Next Layer of Identity Governance'
+  discovered_at: '2026-06-29'
+  source: rss
+  source_name: The Hacker News
+  source_url: https://thehackernews.com/2026/06/guardian-agents-next-layer-of-identity.html
+  source_tier: A
+  categories: *id002
+  snippet: AI agents are moving through enterprise environments, inheriting permissions,
+    traversing systems, and executing decisions at machine speed with minimal oversight.
+    The identity infrastructure built to govern human access wasn't designed for autonomous
+    actors, and the gap between what enterprises are deploying and what their governance
+    programs actually cover is widening fast. This guide breaks
+  status: inbox
+- id: rss-thehackernews-miasma-malware-targets-npm-packages-and-github-actions-in-supply-chain-attack
+  name: Miasma Malware Targets npm Packages and GitHub Actions in Supply Chain Attack
+  discovered_at: '2026-06-29'
+  source: rss
+  source_name: The Hacker News
+  source_url: https://thehackernews.com/2026/06/miasma-malware-targets-npm-packages-and.html
+  source_tier: A
+  categories: *id002
+  snippet: 'Cybersecurity researchers have flagged yet another evolution of the supply
+    chain attack linked to the Mini Shai-Hulud, Miasma, and Hades malware family that
+    has compromised a new set of npm packages, even as it has propagated to the Go
+    ecosystem.
+
+
+    "The latest activity includes malicious npm releases affecting LeoPlatform and
+    RStreams packages, GitHub Actions workflow abuse, and a related Go'
+  status: inbox
+- id: rss-thehackernews-microsoft-warns-of-photo-zip-phishing-campaign-targeting-hotels-with-node-js-imp
+  name: Microsoft Warns of Photo ZIP Phishing Campaign Targeting Hotels with Node.js
+    Implant
+  discovered_at: '2026-06-29'
+  source: rss
+  source_name: The Hacker News
+  source_url: https://thehackernews.com/2026/06/microsoft-warns-of-photo-zip-phishing.html
+  source_tier: A
+  categories: *id002
+  snippet: 'An active phishing campaign has been targeting hotel and other hospitality
+    organizations across Europe and Asia since April 2026, using photo-themed ZIP
+    files to drop a Node.js implant and dig into front-desk machines, Microsoft says.
+
+
+    The company has&nbsp;not attributed&nbsp;the activity to a known threat actor,
+    and the operators'' end goal is still unclear.
+
+
+    The lure plays to how hotels work.'
+  status: inbox
+- id: rss-thehackernews-russia-used-cellebrite-on-jailed-activist-s-iphone-months-after-sales-cutoff
+  name: Russia Used Cellebrite on Jailed Activist's iPhone Months After Sales Cutoff
+  discovered_at: '2026-06-29'
+  source: rss
+  source_name: The Hacker News
+  source_url: https://thehackernews.com/2026/06/russia-used-cellebrite-on-jailed.html
+  source_tier: A
+  categories: *id002
+  snippet: 'Russian authorities used Cellebrite''s UFED forensic tools to break into
+    the iPhone of detained opposition activist Andrey Pivovarov in June 2021, three
+    months after Cellebrite said it would stop selling its tools and services to Russia
+    and Belarus.
+
+
+    The finding, published&nbsp;June 25 by the Citizen Lab, rests on two things that
+    rarely line up: traces on the phone itself and an official Russian'
+  status: inbox
+- id: rss-thehackernews-google-details-turla-s-new-stockstay-backdoor-used-in-ukraine-espionage-attacks
+  name: Google Details Turla's New STOCKSTAY Backdoor Used in Ukraine Espionage Attacks
+  discovered_at: '2026-06-29'
+  source: rss
+  source_name: The Hacker News
+  source_url: https://thehackernews.com/2026/06/google-details-turlas-new-stockstay.html
+  source_tier: A
+  categories: *id002
+  snippet: 'The Russian state-sponsored threat actor known as Turla has been attributed
+    to a previously undocumented .NET backdoor called STOCKSTAY that has been deployed
+    against government and military organizations in Ukraine, and entities that have
+    an interest in Italian foreign policy.
+
+
+    Describing the Windows backdoor as continually developed by the hacking group,
+    Google Threat Intelligence Group ('
+  status: inbox
+- id: rss-thehackernews-chrome-ad-blocker-with-10m-installs-found-with-dormant-script-injection-capabili
+  name: Chrome Ad Blocker with 10M+ Installs Found with Dormant Script Injection Capability
+  discovered_at: '2026-06-29'
+  source: rss
+  source_name: The Hacker News
+  source_url: https://thehackernews.com/2026/06/chrome-ad-blocker-with-10m-installs.html
+  source_tier: A
+  categories: *id002
+  snippet: 'An analysis of a popular Google Chrome ad block extension for YouTube
+    has uncovered the ability to execute arbitrary JavaScript code.
+
+
+    According to Island, the extension, named Adblock for YouTube (ID: cmedhionkhpnakcndndgjdbohmhepckk),
+    has more than 10 million installs and carries a Featured badge on the Chrome Web
+    Store.
+
+
+    The extension description states that it allows users to prevent web'
+  status: inbox
+- id: rss-darkreading-third-party-breaches-teach-education-sector-a-costly-lesson-in-vendor-risk
+  name: Third-Party Breaches Teach Education Sector a Costly Lesson in Vendor Risk
+  discovered_at: '2026-06-29'
+  source: rss
+  source_name: Dark Reading
+  source_url: https://www.darkreading.com/cyber-risk/third-party-breaches-teaches-education-lesson-vendor-risk
+  source_tier: A
+  categories: &id003
+  - detection_response
+  - automation_orchestration
+  - cloud_identity
+  snippet: Rising threats from third-party actors are forcing institutions to play
+    defense to protect student data from ransomware and other attacks.
+  status: inbox
+- id: rss-darkreading-ai-decline-confidence-in-autonomous-penetration-testing-falls
+  name: AI Decline? Confidence in Autonomous Penetration Testing Falls
+  discovered_at: '2026-06-29'
+  source: rss
+  source_name: Dark Reading
+  source_url: https://www.darkreading.com/cybersecurity-operations/ai-decline-confidence-autonomous-penetration-testing
+  source_tier: A
+  categories: *id003
+  snippet: Companies are still experimenting with automated AI systems to find security
+    weaknesses, but fewer are relying on the technology.
+  status: inbox
+- id: rss-darkreading-cisco-adds-nhi-to-security-stack-with-astrix-widefield-acquisitions
+  name: Cisco Adds NHI to Security Stack With Astrix, WideField Acquisitions
+  discovered_at: '2026-06-29'
+  source: rss
+  source_name: Dark Reading
+  source_url: https://www.darkreading.com/identity-access-management-security/cisco-adds-nhi-security-stack-with-astrix-widefield
+  source_tier: A
+  categories: *id003
+  snippet: Cisco joins a growing list of security platform providers that are betting
+    that securing the agentic workforce means turning identity into the primary control
+    plane.
+  status: inbox
+- id: rss-darkreading-new-initiative-tackles-security-for-end-of-life-open-source-software
+  name: New Initiative Tackles Security for End-of-Life Open Source Software
+  discovered_at: '2026-06-29'
+  source: rss
+  source_name: Dark Reading
+  source_url: https://www.darkreading.com/application-security/initiative-tackles-security-end-of-life-open-source
+  source_tier: A
+  categories: *id003
+  snippet: The Open Source Sustainability Initiative's goal is to help enterprises
+    manage and secure aging open source projects while maintaining regulatory compliance.
+  status: inbox
+- id: rss-darkreading-ai-won-t-wipe-out-entry-level-cybersecurity-jobs
+  name: AI Won't Wipe-Out Entry-Level Cybersecurity Jobs
+  discovered_at: '2026-06-29'
+  source: rss
+  source_name: Dark Reading
+  source_url: https://www.darkreading.com/cybersecurity-operations/ai-wont-wipe-out-entry-level-cybersecurity-jobs
+  source_tier: A
+  categories: *id003
+  snippet: Instead of eliminating jobs for early-career cyber pros, AI is creating
+    new opportunities for candidates with strong human decision-making skills.
+  status: inbox
+- id: rss-darkreading-meeting-trump-s-2030-quantum-deadline-will-be-expensive-complex
+  name: Meeting Trump's 2030 Quantum Deadline Will be Expensive, Complex
+  discovered_at: '2026-06-29'
+  source: rss
+  source_name: Dark Reading
+  source_url: https://www.darkreading.com/cybersecurity-operations/meeting-2030-quantum-deadline-expensive-complex
+  source_tier: A
+  categories: *id003
+  snippet: Getting accurate visibility into IT and OT systems will be compounded by
+    multivendor environments, misaligned update life cycles, and interoperability
+    gaps.
+  status: inbox
+- id: rss-darkreading-thanks-for-crushing-the-submissions-inbox-we-re-trying-to-keep-up
+  name: Thanks for Crushing the Submissions Inbox. We're Trying to Keep Up
+  discovered_at: '2026-06-29'
+  source: rss
+  source_name: Dark Reading
+  source_url: https://www.darkreading.com/cybersecurity-operations/submissions-guidelines-reminder
+  source_tier: A
+  categories: *id003
+  snippet: It might be taking a bit longer than usual to respond to your submissions
+    — here's why.
+  status: inbox
+- id: rss-darkreading-robinhood-cuts-access-approval-time-to-support-high-velocity-development
+  name: Robinhood Cuts Access Approval Time to Support High-Velocity Development
+  discovered_at: '2026-06-29'
+  source: rss
+  source_name: Dark Reading
+  source_url: https://www.darkreading.com/application-security/robinhood-reengineered-access-approvals-for-high-velocity-development
+  source_tier: A
+  categories: *id003
+  snippet: The fintech company's engineering-first application security team reengineered
+    the process for granting system access, making it easier and more secure for developers
+    working on their projects. Here are the lessons learned from Robinhood's experience.
+  status: inbox
+- id: rss-darkreading-in-less-than-24-hours-attackers-weaponize-cisco-cucm-flaw
+  name: In Less Than 24 Hours, Attackers Weaponize Cisco CUCM Flaw
+  discovered_at: '2026-06-29'
+  source: rss
+  source_name: Dark Reading
+  source_url: https://www.darkreading.com/cyberattacks-data-breaches/less-than-24-hours-attackers-weaponize-cisco-cucm-flaw
+  source_tier: A
+  categories: *id003
+  snippet: The flaw enables server-side request forgery (SSRF) and escalates privileges
+    to root, impacting Cisco Unified CM and Unified CM SME deployments.
+  status: inbox
+- id: rss-darkreading-russian-apt-gamaredon-upgrades-its-arsenal-requiring-new-defenses
+  name: Russian APT 'Gamaredon' Upgrades Its Arsenal, Requiring New Defenses
+  discovered_at: '2026-06-29'
+  source: rss
+  source_name: Dark Reading
+  source_url: https://www.darkreading.com/threat-intelligence/russia-apt-gamaredon-arsenal-defense
+  source_tier: A
+  categories: *id003
+  snippet: The FSB state-sponsored operation has gotten a lot better at loading its
+    malware and hiding its servers.
+  status: inbox
+- id: rss-darkreading-edtech-attackers-shift-from-schools-to-their-software-suppliers
+  name: EdTech Attackers Shift From Schools to Their Software Suppliers
+  discovered_at: '2026-06-29'
+  source: rss
+  source_name: Dark Reading
+  source_url: https://www.darkreading.com/cyberattacks-data-breaches/edtech-attackers-shift-schools-software-suppliers
+  source_tier: A
+  categories: *id003
+  snippet: Educational institutions, the edtech companies they rely on, and, more
+    concerningly, the challenges they pose for schools are the focus of the latest
+    Reporters' Notebook video series.
+  status: inbox
+- id: rss-darkreading-local-police-collusion-hampers-crackdown-on-asian-scam-centers
+  name: Local Police Collusion Hampers Crackdown on Asian Scam Centers
+  discovered_at: '2026-06-29'
+  source: rss
+  source_name: Dark Reading
+  source_url: https://www.darkreading.com/threat-intelligence/police-collusion-crackdown-asian-scam-centers
+  source_tier: A
+  categories: *id003
+  snippet: With tens of billions of dollars flowing into regional economies from cybercrime,
+    scam centers continue to flourish, despite international and law-enforcement efforts.
+  status: inbox
+- id: rss-darkreading-europe-evolves-into-ransomware-s-favorite-region
+  name: Europe Evolves Into Ransomware's Favorite Region
+  discovered_at: '2026-06-29'
+  source: rss
+  source_name: Dark Reading
+  source_url: https://www.darkreading.com/cybersecurity-analytics/europe-evolves-ransomware-favorite-region
+  source_tier: A
+  categories: *id003
+  snippet: 'After a global lull, ransomware gangs are setting sights on a rich new
+    arena: attacking EU organizations and their suppliers.'
+  status: inbox
+- id: rss-darkreading-attackers-hit-cisco-sd-wan-flaw-2-months-before-disclosure
+  name: Attackers Hit Cisco SD-WAN Flaw 2 Months Before Disclosure
+  discovered_at: '2026-06-29'
+  source: rss
+  source_name: Dark Reading
+  source_url: https://www.darkreading.com/cyberattacks-data-breaches/attackers-hit-cisco-sd-wan-flaw-2-months-before-disclosure
+  source_tier: A
+  categories: *id003
+  snippet: Researchers believe rogue peering was used to connect to the victim's SD-WAN
+    devices to gain admin privileges and root-level access.
+  status: inbox
+- id: rss-darkreading-2026-fifa-world-cup-faces-surge-in-cyber-threats
+  name: 2026 FIFA World Cup Faces Surge in Cyber Threats
+  discovered_at: '2026-06-29'
+  source: rss
+  source_name: Dark Reading
+  source_url: https://www.darkreading.com/cybersecurity-operations/2026-fifa-world-cup-faces-surge-cyber-threats
+  source_tier: A
+  categories: *id003
+  snippet: Persistent cybercrime, social engineering, and infrastructure threats continue
+    to plague the FIFA 2026 World Cup across the US, Canada, and Mexico.
+  status: inbox
+- id: github-github-mthcht-awesome-lists
+  name: mthcht/awesome-lists
+  discovered_at: '2026-06-29'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/mthcht/awesome-lists
+  source_tier: B
+  categories: &id004
+  - detection_response
+  snippet: Awesome Security lists for SOC/CERT/CTI
+  metadata:
+    stars: 1678
+    language: YARA
+    updated_at: '2026-06-29T01:46:07Z'
+  status: inbox
+- id: github-github-beenuar-aisoc
+  name: beenuar/AiSOC
+  discovered_at: '2026-06-29'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/beenuar/AiSOC
+  source_tier: B
+  categories: *id004
+  snippet: Open-source AI-powered Security Operations Center — alert fusion, purple-team
+    drills, agent-assisted triage, MITRE ATT&CK investigation. MIT-licensed, self-hostable.
+  metadata:
+    stars: 1453
+    language: Python
+    updated_at: '2026-06-29T00:48:10Z'
+  status: inbox
+- id: github-github-timescale-rsigma
+  name: timescale/rsigma
+  discovered_at: '2026-06-29'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/timescale/rsigma
+  source_tier: B
+  categories: *id004
+  snippet: 'A complete Sigma detection engineering toolkit: parser, linter, evaluator,
+    correlation engine, conversion framework, streaming daemon, MCP and LSP servers
+    :crab:'
+  metadata:
+    stars: 80
+    language: Rust
+    updated_at: '2026-06-28T22:02:15Z'
+  status: inbox
+- id: github-github-wazuh-wazuh
+  name: wazuh/wazuh
+  discovered_at: '2026-06-29'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/wazuh/wazuh
+  source_tier: B
+  categories: *id004
+  snippet: Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection
+    for endpoints and cloud workloads.
+  metadata:
+    stars: 15963
+    language: C++
+    updated_at: '2026-06-29T01:23:28Z'
+  status: inbox
+- id: github-github-fabriziosalmi-wildbox
+  name: fabriziosalmi/wildbox
+  discovered_at: '2026-06-29'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/fabriziosalmi/wildbox
+  source_tier: B
+  categories: *id004
+  snippet: An open-source security platform for the community. Unified SIEM, SOAR,
+    WAF, and more in a single, self-hosted solution.
+  metadata:
+    stars: 127
+    language: Python
+    updated_at: '2026-06-28T12:46:39Z'
+  status: inbox
+- id: github-github-victoriametrics-victorialogs
+  name: VictoriaMetrics/VictoriaLogs
+  discovered_at: '2026-06-29'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/VictoriaMetrics/VictoriaLogs
+  source_tier: B
+  categories: *id004
+  snippet: Fast and easy to use database for logs, which can efficiently handle terabytes
+    of logs
+  metadata:
+    stars: 1983
+    language: Go
+    updated_at: '2026-06-28T18:49:07Z'
+  status: inbox
+- id: github-github-graylog2-graylog2-server
+  name: Graylog2/graylog2-server
+  discovered_at: '2026-06-29'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/Graylog2/graylog2-server
+  source_tier: B
+  categories: *id004
+  snippet: Free and open log management
+  metadata:
+    stars: 8073
+    language: Java
+    updated_at: '2026-06-28T08:23:41Z'
+  status: inbox
+- id: github-github-panther-labs-panther-analysis
+  name: panther-labs/panther-analysis
+  discovered_at: '2026-06-29'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/panther-labs/panther-analysis
+  source_tier: B
+  categories: *id004
+  snippet: Built-in Panther detection rules and policies
+  metadata:
+    stars: 455
+    language: Python
+    updated_at: '2026-06-26T15:37:01Z'
+  status: inbox
+- id: github-github-tenzir-tenzir
+  name: tenzir/tenzir
+  discovered_at: '2026-06-29'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/tenzir/tenzir
+  source_tier: B
+  categories: *id004
+  snippet: Tenzir is the data pipeline engine for security teams.
+  metadata:
+    stars: 743
+    language: C++
+    updated_at: '2026-06-26T15:14:17Z'
+  status: inbox
+- id: github-github-hookprobe-hookprobe
+  name: hookprobe/hookprobe
+  discovered_at: '2026-06-29'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/hookprobe/hookprobe
+  source_tier: B
+  categories: &id005
+  - automation_orchestration
+  snippet: 🛡️ Free AI that blocks hackers while you sleep. Runs on cheap hardware.
+    When someone in Tokyo gets attacked, you're protected in 30 seconds. No fees.
+    No experts needed. Just protection. One node's detection → everyone's protection.
+  metadata:
+    stars: 42
+    language: Python
+    updated_at: '2026-06-28T17:02:41Z'
+  status: inbox
+- id: github-github-guanguans-soar-php
+  name: guanguans/soar-php
+  discovered_at: '2026-06-29'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/guanguans/soar-php
+  source_tier: B
+  categories: *id005
+  snippet: SQL optimizer and rewriter(assisted SQL tuning). - SQL 优化器和重写器(辅助 SQL 调优)。
+  metadata:
+    stars: 196
+    language: PHP
+    updated_at: '2026-06-27T11:42:36Z'
+  status: inbox
+- id: github-github-sekoia-io-automation-library
+  name: SEKOIA-IO/automation-library
+  discovered_at: '2026-06-29'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/SEKOIA-IO/automation-library
+  source_tier: B
+  categories: *id005
+  snippet: 'Automate your SOC with SEKOIA.IO''s Automation Library. Pull Requests
+    are always welcome and highly appreciated! '
+  metadata:
+    stars: 22
+    language: Python
+    updated_at: '2026-06-26T09:01:51Z'
+  status: inbox
+- id: github-github-shuffle-shuffle
+  name: Shuffle/Shuffle
+  discovered_at: '2026-06-29'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/Shuffle/Shuffle
+  source_tier: B
+  categories: *id005
+  snippet: 'Shuffle: A general purpose security automation platform. Our focus is
+    on collaboration and resource sharing.'
+  metadata:
+    stars: 2331
+    language: JavaScript
+    updated_at: '2026-06-28T08:37:49Z'
+  status: inbox
+- id: github-github-utmstack-utmstack
+  name: utmstack/UTMStack
+  discovered_at: '2026-06-29'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/utmstack/UTMStack
+  source_tier: B
+  categories: *id005
+  snippet: Enterprise-ready SIEM, SOAR and Compliance powered by real-time correlation
+    and threat intelligence.
+  metadata:
+    stars: 573
+    language: TypeScript
+    updated_at: '2026-06-25T18:08:26Z'
+  status: inbox
+- id: github-github-mangod12-onealert
+  name: mangod12/OneAlert
+  discovered_at: '2026-06-29'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/mangod12/OneAlert
+  source_tier: B
+  categories: *id005
+  snippet: AI-powered SOC for OT/ICS networks — 6 autonomous agents, MITRE ATT&CK
+    mapping, Suricata/Zeek ingestion, human-in-the-loop response, 330+ tests. Open-source
+    alternative to Claroty/Dragos for SMBs.
+  metadata:
+    stars: 30
+    language: Python
+    updated_at: '2026-06-25T07:26:33Z'
+  status: inbox
+- id: github-github-guanguans-laravel-soar
+  name: guanguans/laravel-soar
+  discovered_at: '2026-06-29'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/guanguans/laravel-soar
+  source_tier: B
+  categories: *id005
+  snippet: SQL optimizer and rewriter for laravel. - laravel 的 SQL 优化器和重写器。
+  metadata:
+    stars: 222
+    language: PHP
+    updated_at: '2026-06-24T14:38:56Z'
+  status: inbox
+- id: github-github-gen0sec-synapse
+  name: gen0sec/synapse
+  discovered_at: '2026-06-29'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/gen0sec/synapse
+  source_tier: B
+  categories: &id006
+  - detection_response
+  snippet: Active NDR solution with eBPF-powered active fingerprint blocking, firewall
+    and proxy. Protect your system -- east-west and north-south.
+  metadata:
+    stars: 155
+    language: Rust
+    updated_at: '2026-06-28T18:44:09Z'
+  status: inbox
+- id: github-github-alexverboon-defenderresourcehub
+  name: alexverboon/DefenderResourceHub
+  discovered_at: '2026-06-29'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/alexverboon/DefenderResourceHub
+  source_tier: B
+  categories: *id006
+  snippet: Defender Resource Hub
+  metadata:
+    stars: 32
+    language: PowerShell
+    updated_at: '2026-06-28T17:03:09Z'
+  status: inbox
+- id: github-github-hydradragonantivirus-hydradragonantivirus
+  name: HydraDragonAntivirus/HydraDragonAntivirus
+  discovered_at: '2026-06-29'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/HydraDragonAntivirus/HydraDragonAntivirus
+  source_tier: B
+  categories: *id006
+  snippet: Dynamic and static analysis with Real Time Malware Analysis with Antivirus
+    for Windows, including open-source XDR (3 EDR projects), ClamAV, YARA-X, machine
+    learning AI, behavioral analysis, Unpacker, Deobfuscator, Decompiler, website
+    signatures, Ghidra, Suricata, Sigma, Kernel, Hypervisior based protection and
+    much more than you can imagine.
+  metadata:
+    stars: 210
+    language: C++
+    updated_at: '2026-06-27T17:17:11Z'
+  status: inbox
+- id: github-github-dcache-oncrpc4j
+  name: dCache/oncrpc4j
+  discovered_at: '2026-06-29'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/dCache/oncrpc4j
+  source_tier: B
+  categories: *id006
+  snippet: Pure Java implementation of ONCRPC/SUNRPC
+  metadata:
+    stars: 33
+    language: Java
+    updated_at: '2026-06-25T15:50:30Z'
+  status: inbox
+- id: github-github-knudsenmorten-securityinsight
+  name: KnudsenMorten/SecurityInsight
+  discovered_at: '2026-06-29'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/KnudsenMorten/SecurityInsight
+  source_tier: B
+  categories: *id006
+  snippet: 'Rethink Secure Score: risk-based scoring across Defender XDR, Entra, AD,
+    Azure, ExposureGraph, and Shodan — weighted by consequence, Tier 0–3 criticality,
+    and risk factors. Fix what attackers reach for first. Asset profiling, ready-to-use
+    reports, executive summary. Zero footprint, MVP-built, free.'
+  metadata:
+    stars: 38
+    language: PowerShell
+    updated_at: '2026-06-18T12:03:09Z'
+  status: inbox
+- id: github-github-waydabber-betterdisplay
+  name: waydabber/BetterDisplay
+  discovered_at: '2026-06-29'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/waydabber/BetterDisplay
+  source_tier: B
+  categories: *id006
+  snippet: Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra
+    brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override
+    and lots more!
+  metadata:
+    stars: 32400
+    language: null
+    updated_at: '2026-06-29T02:23:16Z'
+  status: inbox
+- id: github-github-niklasr22-brightintosh
+  name: niklasr22/BrightIntosh
+  discovered_at: '2026-06-29'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/niklasr22/BrightIntosh
+  source_tier: B
+  categories: *id006
+  snippet: Unlock the full brightness of the XDR display of your MacBook Pro
+  metadata:
+    stars: 530
+    language: Swift
+    updated_at: '2026-06-25T21:20:07Z'
+  status: inbox
+- id: github-github-depalmar-ai-for-the-win
+  name: depalmar/ai_for_the_win
+  discovered_at: '2026-06-29'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/depalmar/ai_for_the_win
+  source_tier: B
+  categories: *id006
+  snippet: Build AI-powered security tools. 50+ hands-on labs covering ML, LLMs, RAG,
+    threat detection, DFIR, and red teaming. Includes Colab notebooks, Docker environment,
+    and CTF challenges.
+  metadata:
+    stars: 150
+    language: Python
+    updated_at: '2026-06-24T09:10:08Z'
+  status: inbox
+- id: github-github-alin23-lunar
+  name: alin23/Lunar
+  discovered_at: '2026-06-29'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/alin23/Lunar
+  source_tier: B
+  categories: *id006
+  snippet: Intelligent adaptive brightness for your external monitors
+  metadata:
+    stars: 5623
+    language: Swift
+    updated_at: '2026-06-28T14:30:54Z'
+  status: inbox
+- id: github-github-bert-janp-open-source-threat-intel-feeds
+  name: Bert-JanP/Open-Source-Threat-Intel-Feeds
+  discovered_at: '2026-06-29'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/Bert-JanP/Open-Source-Threat-Intel-Feeds
+  source_tier: B
+  categories: &id007
+  - detection_response
+  snippet: This repository contains Open Source freely usable Threat Intel feeds that
+    can be used without additional requirements. Contains multiple types such as IP,
+    URL, CVE and Hash.
+  metadata:
+    stars: 856
+    language: Python
+    updated_at: '2026-06-29T02:05:48Z'
+  status: inbox
+- id: github-github-spydisec-spydithreatintel
+  name: spydisec/spydithreatintel
+  discovered_at: '2026-06-29'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/spydisec/spydithreatintel
+  source_tier: B
+  categories: *id007
+  snippet: Spydi ThreatIntel Feed is built on open-source threat intelligence, community-maintained
+    blocklists, and public security research.
+  metadata:
+    stars: 54
+    language: null
+    updated_at: '2026-06-29T02:05:34Z'
+  status: inbox
+- id: github-github-drb-ra-c2intelfeeds
+  name: drb-ra/C2IntelFeeds
+  discovered_at: '2026-06-29'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/drb-ra/C2IntelFeeds
+  source_tier: B
+  categories: *id007
+  snippet: Automatically created C2 Feeds
+  metadata:
+    stars: 727
+    language: REXX
+    updated_at: '2026-06-28T22:47:26Z'
+  status: inbox
+- id: github-github-yamato-security-hayabusa
+  name: Yamato-Security/hayabusa
+  discovered_at: '2026-06-29'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/Yamato-Security/hayabusa
+  source_tier: B
+  categories: *id007
+  snippet: Hayabusa (隼) is a sigma-based threat hunting and fast forensics timeline
+    generator for Windows event logs.
+  metadata:
+    stars: 3229
+    language: Rust
+    updated_at: '2026-06-28T22:45:24Z'
+  status: inbox
+- id: github-github-spmedia-crypto-scam-and-crypto-phishing-threat-intel-feed
+  name: spmedia/Crypto-Scam-and-Crypto-Phishing-Threat-Intel-Feed
+  discovered_at: '2026-06-29'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/spmedia/Crypto-Scam-and-Crypto-Phishing-Threat-Intel-Feed
+  source_tier: B
+  categories: *id007
+  snippet: A fresh feed of crypto phishing and crypto scam websites. Automatically
+    updated daily/frequently.
+  metadata:
+    stars: 63
+    language: null
+    updated_at: '2026-06-28T20:58:28Z'
+  status: inbox
+- id: github-github-spmedia-threat-actor-usernames-scrape
+  name: spmedia/Threat-Actor-Usernames-Scrape
+  discovered_at: '2026-06-29'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/spmedia/Threat-Actor-Usernames-Scrape
+  source_tier: B
+  categories: *id007
+  snippet: A collection & lists of intel and usernames scraped from various cybercrime
+    sources & forums. DarkForums, HackForums, Patched, Cracked, BreachForums, OGUser,
+    XSS, Dread, & more
+  metadata:
+    stars: 223
+    language: null
+    updated_at: '2026-06-28T20:10:32Z'
+  status: inbox
+- id: github-github-the-privacy-commons-institute-chrome-mal-ids
+  name: The-Privacy-Commons-Institute/chrome-mal-ids
+  discovered_at: '2026-06-29'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/The-Privacy-Commons-Institute/chrome-mal-ids
+  source_tier: B
+  categories: *id007
+  snippet: Effort to list and aggregate known malicious Google Chrome Extension IDs
+  metadata:
+    stars: 67
+    language: Python
+    updated_at: '2026-06-28T15:04:43Z'
+  status: inbox
+- id: github-github-benscha-kqladvancedhunting
+  name: benscha/KQLAdvancedHunting
+  discovered_at: '2026-06-29'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/benscha/KQLAdvancedHunting
+  source_tier: B
+  categories: *id007
+  snippet: Production-ready KQL queries for Microsoft Defender XDR and Microsoft Sentinel.
+    Focused on Threat Hunting, Detection Engineering, and MITRE ATT&CK mapping.
+  metadata:
+    stars: 112
+    language: PowerShell
+    updated_at: '2026-06-28T13:54:51Z'
+  status: inbox
+- id: github-github-fhightower-ioc-finder
+  name: fhightower/ioc-finder
+  discovered_at: '2026-06-29'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/fhightower/ioc-finder
+  source_tier: B
+  categories: *id007
+  snippet: 'Simple, effective, and modular package for parsing observables (indicators
+    of compromise (IOCs), network data, and other, security related information) from
+    text. It uses grammars rather than regexes which makes it more readable, maintainable,
+    and hackable. Explore our interactive documentation here: https://hightower.space/ioc-finder/'
+  metadata:
+    stars: 183
+    language: Python
+    updated_at: '2026-06-28T11:46:35Z'
+  status: inbox
+- id: github-github-turbot-steampipe
+  name: turbot/steampipe
+  discovered_at: '2026-06-29'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/turbot/steampipe
+  source_tier: B
+  categories: &id008
+  - cloud_identity
+  snippet: Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL.
+    No DB required.
+  metadata:
+    stars: 7872
+    language: Go
+    updated_at: '2026-06-27T14:40:33Z'
+  status: inbox
+- id: github-github-turbot-powerpipe
+  name: turbot/powerpipe
+  discovered_at: '2026-06-29'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/turbot/powerpipe
+  source_tier: B
+  categories: *id008
+  snippet: 'Powerpipe: Dashboards for DevOps. Visualize cloud configurations. Assess
+    security posture against a massive library of benchmarks. Build custom dashboards
+    with code.'
+  metadata:
+    stars: 511
+    language: TypeScript
+    updated_at: '2026-06-27T13:08:19Z'
+  status: inbox
+- id: github-github-deepfence-threatmapper
+  name: deepfence/ThreatMapper
+  discovered_at: '2026-06-29'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/deepfence/ThreatMapper
+  source_tier: B
+  categories: *id008
+  snippet: Open Source Cloud Native Application Protection Platform (CNAPP)
+  metadata:
+    stars: 5290
+    language: TypeScript
+    updated_at: '2026-06-27T07:49:19Z'
+  status: inbox
+- id: github-github-g4r-tech-awesome-cloud-guardrails
+  name: g4r-tech/awesome-cloud-guardrails
+  discovered_at: '2026-06-29'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/g4r-tech/awesome-cloud-guardrails
+  source_tier: B
+  categories: *id008
+  snippet: Schema-driven awesome list of cloud security guardrails powering cloudguardrail.com/tools
+  metadata:
+    stars: 93
+    language: JavaScript
+    updated_at: '2026-06-12T05:52:44Z'
+  status: inbox
+- id: github-github-someengineering-fixinventory
+  name: someengineering/fixinventory
+  discovered_at: '2026-06-29'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/someengineering/fixinventory
+  source_tier: B
+  categories: *id008
+  snippet: Fix Inventory helps you identify and remove the most critical risks in
+    AWS, GCP, Azure and Kubernetes.
+  metadata:
+    stars: 2072
+    language: Python
+    updated_at: '2026-06-16T19:34:33Z'
+  status: inbox
+- id: github-github-chanduusc-prismacloud-demo
+  name: chanduusc/prismacloud-demo
+  discovered_at: '2026-06-29'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/chanduusc/prismacloud-demo
+  source_tier: B
+  categories: *id008
+  snippet: Complete CNAPP Demo using Prisma Cloud
+  metadata:
+    stars: 17
+    language: HCL
+    updated_at: '2026-03-04T00:57:05Z'
+  status: inbox
+- id: github-github-prowler-cloud-prowler
+  name: prowler-cloud/prowler
+  discovered_at: '2026-06-29'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/prowler-cloud/prowler
+  source_tier: B
+  categories: &id009
+  - cloud_identity
+  snippet: Prowler is the world’s most widely used open-source cloud security platform
+    that automates security and compliance across any cloud environment.
+  metadata:
+    stars: 14062
+    language: Python
+    updated_at: '2026-06-28T18:43:25Z'
+  status: inbox
+- id: github-github-cloudquery-cloudquery
+  name: cloudquery/cloudquery
+  discovered_at: '2026-06-29'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/cloudquery/cloudquery
+  source_tier: B
+  categories: *id009
+  snippet: Data pipelines for cloud config and security data. Build cloud asset inventory,
+    CSPM, FinOps, and vulnerability management solutions. Extract from AWS, Azure,
+    GCP, and 70+ cloud and SaaS sources.
+  metadata:
+    stars: 6445
+    language: Go
+    updated_at: '2026-06-27T01:09:08Z'
+  status: inbox
+- id: github-github-elastic-cloudbeat
+  name: elastic/cloudbeat
+  discovered_at: '2026-06-29'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/elastic/cloudbeat
+  source_tier: B
+  categories: *id009
+  snippet: Analyzing Cloud Security Posture
+  metadata:
+    stars: 59
+    language: Go
+    updated_at: '2026-06-26T11:32:01Z'
+  status: inbox
+- id: github-github-stackql-stackql
+  name: stackql/stackql
+  discovered_at: '2026-06-29'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/stackql/stackql
+  source_tier: B
+  categories: *id009
+  snippet: Query, provision and operate Cloud, SaaS, API and Model Context Protocol
+    (MCP) resources through a unified SQL-based framework for humans and AI agents.
+  metadata:
+    stars: 861
+    language: Go
+    updated_at: '2026-06-25T09:28:56Z'
+  status: inbox
+- id: github-github-openshield-org-openshield
+  name: openshield-org/openshield
+  discovered_at: '2026-06-29'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/openshield-org/openshield
+  source_tier: B
+  categories: *id009
+  snippet: Open source CSPM for Azure - scan for misconfigurations and quantum-unsafe
+    cryptography, map findings to CIS/NIST/ISO27001/SOC2, and fix them with one command
+  metadata:
+    stars: 54
+    language: Python
+    updated_at: '2026-06-22T00:05:51Z'
+  status: inbox
+- id: github-github-tocconsulting-awsmap
+  name: TocConsulting/awsmap
+  discovered_at: '2026-06-29'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/TocConsulting/awsmap
+  source_tier: B
+  categories: *id009
+  snippet: A fast, comprehensive tool for mapping and inventorying AWS resources across
+    150+ services and all regions.
+  metadata:
+    stars: 94
+    language: Python
+    updated_at: '2026-06-22T19:58:53Z'
+  status: inbox
+- id: github-github-antgroup-cloudrec
+  name: antgroup/CloudRec
+  discovered_at: '2026-06-29'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/antgroup/CloudRec
+  source_tier: B
+  categories: *id009
+  snippet: CloudRec is an open source multi-cloud security posture management (CSPM)
+    platform designed to help organizations improve the security of their cloud environments.
+  metadata:
+    stars: 186
+    language: Go
+    updated_at: '2026-06-27T16:37:16Z'
+  status: inbox
+- id: github-github-cogensec-gideon
+  name: Cogensec/Gideon
+  discovered_at: '2026-06-29'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/Cogensec/Gideon
+  source_tier: B
+  categories: &id010
+  - data_ai
+  - automation_orchestration
+  snippet: Open-Source autonomous security operations and red teaming agent built
+    to help defenders investigate threats, analyze vulnerabilities, assess indicators
+    of compromise, generate hardening guidance, and execute security research through
+    an auditable agent workflow.
+  metadata:
+    stars: 25
+    language: TypeScript
+    updated_at: '2026-06-25T16:55:14Z'
+  status: inbox
+- id: github-github-securityclaw-securityclaw
+  name: SecurityClaw/SecurityClaw
+  discovered_at: '2026-06-29'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/SecurityClaw/SecurityClaw
+  source_tier: B
+  categories: *id010
+  snippet: A modular, skill-based autonomous Security Operations Center (SOC) agent
+    that monitors OpenSearch/Elasticsearch data, builds RAG-based behavioral memory,
+    and validates real-time anomalies using LLMs.
+  metadata:
+    stars: 251
+    language: Python
+    updated_at: '2026-06-25T05:58:18Z'
+  status: inbox
+- id: github-github-ousher-tia-framework
+  name: ousher/tia-framework
+  discovered_at: '2026-06-29'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/ousher/tia-framework
+  source_tier: B
+  categories: *id010
+  snippet: Autonomous AI Security Operations — 35 agents replacing $300K/year SOC
+    teams for $50/year
+  metadata:
+    stars: 24
+    language: HTML
+    updated_at: '2026-06-09T07:33:44Z'
+  status: inbox
+- id: github-github-nicholasmagner-autonomous-soc-analyst
+  name: nicholasmagner/autonomous-soc-analyst
+  discovered_at: '2026-06-29'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/nicholasmagner/autonomous-soc-analyst
+  source_tier: B
+  categories: *id010
+  snippet: Autonomous SOC Analyst (Agentic AI Security Automation)
+  metadata:
+    stars: 11
+    language: Python
+    updated_at: '2026-03-29T17:24:23Z'
+  status: inbox
+- id: hn-washingtonpost-apple-loses-copyright-battle-against-security-startup-corellium
+  name: Apple loses copyright battle against security startup Corellium
+  discovered_at: '2026-06-29'
+  source: hackernews
+  source_name: Hacker News
+  source_url: https://www.washingtonpost.com/technology/2020/12/29/apple-corellium-lawsuit/
+  source_tier: A
+  categories: &id011
+  - detection_response
+  - data_ai
+  snippet: ''
+  metadata:
+    points: 288
+    num_comments: 58
+  status: inbox
+- id: hn-reuters-apple-loses-copyright-claims-in-lawsuit-against-u-s-security-bug-startup
+  name: Apple loses copyright claims in lawsuit against U.S. security bug startup
+  discovered_at: '2026-06-29'
+  source: hackernews
+  source_name: Hacker News
+  source_url: https://www.reuters.com/article/us-apple-corellium-idUSKBN29320J
+  source_tier: A
+  categories: *id011
+  snippet: ''
+  metadata:
+    points: 74
+    num_comments: 8
+  status: inbox
+- id: hn-geektime-google-acquires-israeli-security-startup-slicklogin
+  name: Google acquires Israeli security startup SlickLogin
+  discovered_at: '2026-06-29'
+  source: hackernews
+  source_name: Hacker News
+  source_url: http://www.geektime.com/2014/02/16/google-acquires-slicklogin/
+  source_tier: A
+  categories: *id011
+  snippet: ''
+  metadata:
+    points: 64
+    num_comments: 26
+  status: inbox
+- id: hn-tinfoilsecurity-show-hn-tinfoil-security-security-for-startups-launching-soon
+  name: 'Show HN: Tinfoil Security -- Security For Startups. Launching soon'
+  discovered_at: '2026-06-29'
+  source: hackernews
+  source_name: Hacker News
+  source_url: http://www.tinfoilsecurity.com
+  source_tier: A
+  categories: *id011
+  snippet: ''
+  metadata:
+    points: 36
+    num_comments: 8
+  status: inbox
+- id: hn-scanmysite-show-hn-web-startup-security-is-failing-and-we-re-fixing-it
+  name: 'Show HN: Web startup security is failing and we''re fixing it'
+  discovered_at: '2026-06-29'
+  source: hackernews
+  source_name: Hacker News
+  source_url: http://www.scanmysite.net/
+  source_tier: A
+  categories: *id011
+  snippet: ''
+  metadata:
+    points: 33
+    num_comments: 25
+  status: inbox
+- id: hn-forbes-darpa-backed-iot-sensing-security-startup-qadium-raises-20m-series-a
+  name: DARPA-backed IoT-sensing security startup Qadium raises 20M Series A
+  discovered_at: '2026-06-29'
+  source: hackernews
+  source_name: Hacker News
+  source_url: http://www.forbes.com/sites/thomasbrewster/2016/06/05/qadium-iot-google-security-darpa-cia/
+  source_tier: A
+  categories: *id011
+  snippet: ''
+  metadata:
+    points: 17
+    num_comments: 1
+  status: inbox
+- id: hn-news-ask-hn-what-are-the-interesting-security-startups
+  name: 'Ask HN: What are the interesting security startups?'
+  discovered_at: '2026-06-29'
+  source: hackernews
+  source_name: Hacker News
+  source_url: https://news.ycombinator.com/item?id=15738523
+  source_tier: A
+  categories: *id011
+  snippet: ''
+  metadata:
+    points: 16
+    num_comments: 11
+  status: inbox
+- id: hn-techcrunch-sauron-home-security-startup-plucks-ceo-out-of-sonos
+  name: Sauron, home security startup, plucks CEO out of Sonos
+  discovered_at: '2026-06-29'
+  source: hackernews
+  source_name: Hacker News
+  source_url: https://techcrunch.com/2025/12/28/from-sonos-to-sauron-new-ceo-takes-on-high-end-home-security-startup-still-in-development/
+  source_tier: A
+  categories: *id011
+  snippet: ''
+  metadata:
+    points: 14
+    num_comments: 20
+  status: inbox
+- id: hn-github-sentinel-enterprise-siem-for-startups-splunk-alternative-free
+  name: Sentinel – Enterprise SIEM for startups (Splunk alternative, free)
+  discovered_at: '2026-06-29'
+  source: hackernews
+  source_name: Hacker News
+  source_url: https://github.com/yourusername/sentinel
+  source_tier: A
+  categories:
+  - detection_response
+  snippet: ''
+  metadata:
+    points: 3
+    num_comments: 4
+  status: inbox
+- id: hn-canopycanopycanopy-decentralized-autonomous-society
+  name: Decentralized Autonomous Society
+  discovered_at: '2026-06-29'
+  source: hackernews
+  source_name: Hacker News
+  source_url: http://www.canopycanopycanopy.com/contents/decentralized-autonomous-society-transcript
+  source_tier: A
+  categories: &id012
+  - data_ai
+  - automation_orchestration
+  snippet: ''
+  metadata:
+    points: 4
+    num_comments: 0
+  status: inbox
+- id: hn-en-volga-german-autonomous-soviet-socialist-republic
+  name: Volga German Autonomous Soviet Socialist Republic
+  discovered_at: '2026-06-29'
+  source: hackernews
+  source_name: Hacker News
+  source_url: https://en.wikipedia.org/wiki/Volga_German_Autonomous_Soviet_Socialist_Republic
+  source_tier: A
+  categories: *id012
+  snippet: ''
+  metadata:
+    points: 3
+    num_comments: 0
+  status: inbox
+- id: hn-venturebeat-devo-technology-announces-100m-in-funding-to-develop-autonomous-soc
+  name: Devo Technology announces $100M in funding to develop ‘autonomous SoC’
+  discovered_at: '2026-06-29'
+  source: hackernews
+  source_name: Hacker News
+  source_url: https://venturebeat.com/2022/06/02/devo-technology-attack-surface/
+  source_tier: A
+  categories: *id012
+  snippet: ''
+  metadata:
+    points: 1
+    num_comments: 1
+  status: inbox
+- id: hn-raeng-autonomous-systems-social-legal-and-ethical-issues
+  name: 'Autonomous Systems: social, legal and ethical issues'
+  discovered_at: '2026-06-29'
+  source: hackernews
+  source_name: Hacker News
+  source_url: http://www.raeng.org.uk/news/releases/shownews.htm?NewsID=511
+  source_tier: A
+  categories: *id012
+  snippet: ''
+  metadata:
+    points: 1
+    num_comments: 0
+  status: inbox
+- id: hn-motherboard-driving-is-social-autonomous-cars-aren-t-argues-computer-scientist
+  name: Driving Is Social. Autonomous Cars Aren't, Argues Computer Scientist
+  discovered_at: '2026-06-29'
+  source: hackernews
+  source_name: Hacker News
+  source_url: https://motherboard.vice.com/en_us/article/driving-is-social-autonomous-cars-arent-argues-computer-scientist
+  source_tier: A
+  categories: *id012
+  snippet: ''
+  metadata:
+    points: 2
+    num_comments: 0
+  status: inbox
+- id: hn-youtube-show-hn-autonomous-ai-agent-societies-game-demo-video
+  name: 'Show HN: Autonomous AI Agent Societies Game Demo [video]'
+  discovered_at: '2026-06-29'
+  source: hackernews
+  source_name: Hacker News
+  source_url: https://www.youtube.com/watch?v=-Eyae2dl0IA
+  source_tier: A
+  categories: *id012
+  snippet: ''
+  metadata:
+    points: 4
+    num_comments: 0
+  status: inbox
+- id: hn-bair-autonomous-vehicles-for-social-good-learning-to-solve-congestion
+  name: 'Autonomous Vehicles for Social Good: Learning to Solve Congestion'
+  discovered_at: '2026-06-29'
+  source: hackernews
+  source_name: Hacker News
+  source_url: https://bair.berkeley.edu/blog/2019/06/03/benchmarks/
+  source_tier: A
+  categories: *id012
+  snippet: ''
+  metadata:
+    points: 3
+    num_comments: 1
+  status: inbox
+- id: hn-pcworld-make-your-own-socially-awkward-autonomous-flying-robot
+  name: Make your own Socially Awkward Autonomous Flying Robot
+  discovered_at: '2026-06-29'
+  source: hackernews
+  source_name: Hacker News
+  source_url: http://www.pcworld.com/article/228122/Socially_Awkward_Blimp_Stalks_People_isnt_as_creepy_as_it_sounds.html
+  source_tier: A
+  categories: *id012
+  snippet: ''
+  metadata:
+    points: 2
+    num_comments: 0
+  status: inbox
+- id: hn-github-autogpt-social-an-autonomous-instagram-bot-to-automate-your-social-campaigns
+  name: AutoGPT-Social, an autonomous Instagram bot to automate your social campaigns
+  discovered_at: '2026-06-29'
+  source: hackernews
+  source_name: Hacker News
+  source_url: https://github.com/WillReynolds5/AutoGPT-Social
+  source_tier: A
+  categories: *id012
+  snippet: ''
+  metadata:
+    points: 1
+    num_comments: 0
+  status: inbox
+- id: hn-reuters-cyber-technology-shares-soar-as-security-attacks-pile-up
+  name: Cyber technology shares soar as security attacks pile up
+  discovered_at: '2026-06-29'
+  source: hackernews
+  source_name: Hacker News
+  source_url: https://www.reuters.com/article/us-usa-stocks-cyber/cyber-technology-shares-soar-as-security-attacks-pile-up-idUSKBN28S2TU
+  source_tier: A
+  categories: &id013
+  - automation_orchestration
+  snippet: ''
+  metadata:
+    points: 3
+    num_comments: 0
+  status: inbox
+- id: hn-thenewstack-kubernetes-security-in-2023-adoption-soars-security-lags
+  name: 'Kubernetes Security in 2023: Adoption Soars, Security Lags'
+  discovered_at: '2026-06-29'
+  source: hackernews
+  source_name: Hacker News
+  source_url: https://thenewstack.io/kubernetes-security-in-2023-adoption-soars-security-lags/
+  source_tier: A
+  categories: *id013
+  snippet: ''
+  metadata:
+    points: 1
+    num_comments: 0
+  status: inbox
+- id: hn-github-show-hn-tracecat-open-source-security-alert-automation-soar-alternative
+  name: 'Show HN: Tracecat – Open-source security alert automation / SOAR alternative'
+  discovered_at: '2026-06-29'
+  source: hackernews
+  source_name: Hacker News
+  source_url: https://github.com/TracecatHQ/tracecat
+  source_tier: A
+  categories: *id013
+  snippet: ''
+  metadata:
+    points: 264
+    num_comments: 65
+  status: inbox
+- id: hn-techcrunch-fireeye-shares-jump-16-points-in-first-day-of-public-trading
+  name: FireEye Shares Jump 16 Points In First Day Of Public Trading
+  discovered_at: '2026-06-29'
+  source: hackernews
+  source_name: Hacker News
+  source_url: http://techcrunch.com/2013/09/21/fireeye-shares-jump-16-points-in-first-day-of-public-trading-and-raises-304m-as-interest-soars-for-security-companies/
+  source_tier: A
+  categories: *id013
+  snippet: ''
+  metadata:
+    points: 1
+    num_comments: 0
+  status: inbox
+- id: hn-logichub-overcoming-soar-hurdles-with-security-automation-on-demand
+  name: Overcoming SOAR Hurdles with Security Automation on Demand
+  discovered_at: '2026-06-29'
+  source: hackernews
+  source_name: Hacker News
+  source_url: https://www.logichub.com/blog/overcoming-soar-hurdles-security-automation-demand
+  source_tier: A
+  categories: *id013
+  snippet: ''
+  metadata:
+    points: 1
+    num_comments: 0
+  status: inbox
+- id: hn-positive-urlscan-io-s-soar-spot-chatty-security-tools-leaking-private-data
+  name: 'Urlscan.io’s SOAR spot: Chatty security tools leaking private data'
+  discovered_at: '2026-06-29'
+  source: hackernews
+  source_name: Hacker News
+  source_url: https://positive.security/blog/urlscan-data-leaks
+  source_tier: A
+  categories: *id013
+  snippet: ''
+  metadata:
+    points: 65
+    num_comments: 7
+  status: inbox
+- id: hn-bloomberg-security-stocks-soar
+  name: Security stocks soar
+  discovered_at: '2026-06-29'
+  source: hackernews
+  source_name: Hacker News
+  source_url: http://www.bloomberg.com/news/articles/2015-07-08/cyber-security-stocks-surged-on-the-back-of-the-big-nyse-trading-halt
+  source_tier: A
+  categories: *id013
+  snippet: ''
+  metadata:
+    points: 3
+    num_comments: 0
+  status: inbox
+- id: hn-theglobeandmail-it-security-breaches-soar-in-2009
+  name: 'IT security breaches soar in 2009 '
+  discovered_at: '2026-06-29'
+  source: hackernews
+  source_name: Hacker News
+  source_url: http://www.theglobeandmail.com/news/technology/it-security-breaches-soar-in-2009/article1305011/
+  source_tier: A
+  categories: *id013
+  snippet: ''
+  metadata:
+    points: 1
+    num_comments: 0
+  status: inbox
+- id: hn-vin01-you-cannot-simply-publicly-access-private-secure-links-can-you
+  name: You cannot simply publicly access private secure links, can you?
+  discovered_at: '2026-06-29'
+  source: hackernews
+  source_name: Hacker News
+  source_url: https://vin01.github.io/piptagole/security-tools/soar/urlscan/hybrid-analysis/data-leaks/urlscan.io/cloudflare-radar%22/2024/03/07/url-database-leaks-private-urls.html
+  source_tier: A
+  categories: *id013
+  snippet: ''
+  metadata:
+    points: 420
+    num_comments: 218
+  status: inbox
+- id: hn-mekinpesen-soar-fiction-the-playbooks
+  name: 'Soar Fiction: The Playbooks'
+  discovered_at: '2026-06-29'
+  source: hackernews
+  source_name: Hacker News
+  source_url: https://www.mekinpesen.com/security-monitoring/soar-fiction-the-playbooks/
+  source_tier: A
+  categories: *id013
+  snippet: ''
+  metadata:
+    points: 2
+    num_comments: 0
+  status: inbox
