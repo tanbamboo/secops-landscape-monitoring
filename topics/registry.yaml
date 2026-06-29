@@ -23,7 +23,8 @@ topics:
   incumbent_comparison:
   - detection_response
   - data_ai
-  snippet: AI-driven detection lifecycle automation startup; $19M seed (Apr 2026); automates gap analysis, detection authoring, deployment across SIEM/EDR
+  snippet: AI-driven detection lifecycle automation startup; $19M seed (Apr 2026);
+    automates gap analysis, detection authoring, deployment across SIEM/EDR
   discovery_source: manual
 - id: github-github-funnywolf-agentic-soc-platform
   slug: funnywolf-agentic-soc-platform
@@ -50,3 +51,2560 @@ topics:
     stars: 925
     language: Python
     updated_at: '2026-06-28T15:51:56Z'
+- id: rss-securityweek-chinese-framework-powers-200-000-scam-sites
+  slug: chinese-framework-powers-200-000-scam-sites
+  name: Chinese Framework Powers 200,000 Scam Sites
+  type: technology
+  categories: &id001
+  - detection_response
+  - cloud_identity
+  - data_ai
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.securityweek.com/chinese-framework-powers-200000-scam-sites/
+    tier: A
+    label: SecurityWeek
+  incumbent_comparison: *id001
+  snippet: 'Threat actors are selling investment scam templates created using the
+    legitimate DCloud Uni-App toolkit.
+
+    The post Chinese Framework Powers 200,000 Scam Sites appeared first on SecurityWeek.'
+  discovery_source: rss
+  triage_score: 8
+- id: rss-securityweek-amazon-q-flaw-enabled-cloud-credential-theft-via-malicious-repositories
+  slug: amazon-q-flaw-enabled-cloud-credential-theft-via-malicious-repositories
+  name: Amazon Q Flaw Enabled Cloud Credential Theft via Malicious Repositories
+  type: technology
+  categories: *id001
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.securityweek.com/amazon-q-flaw-enabled-cloud-credential-theft-via-malicious-repositories/
+    tier: A
+    label: SecurityWeek
+  incumbent_comparison: *id001
+  snippet: 'AWS has patched the vulnerability and published its own advisory to inform
+    customers about the potential impact. 
+
+    The post Amazon Q Flaw Enabled Cloud Credential Theft via Malicious Repositories
+    appeared first on SecurityWeek.'
+  discovery_source: rss
+  triage_score: 16
+- id: rss-securityweek-more-klue-breach-victims-identified-as-hackers-get-hacked
+  slug: more-klue-breach-victims-identified-as-hackers-get-hacked
+  name: More Klue Breach Victims Identified as Hackers Get Hacked
+  type: technology
+  categories: *id001
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.securityweek.com/more-klue-breach-victims-identified-as-hackers-get-hacked/
+    tier: A
+    label: SecurityWeek
+  incumbent_comparison: *id001
+  snippet: 'Roughly two dozen companies have notified their customers of the Klue-Salesforce
+    incident impact.
+
+    The post More Klue Breach Victims Identified as Hackers Get Hacked appeared first
+    on SecurityWeek.'
+  discovery_source: rss
+  triage_score: 8
+- id: rss-securityweek-in-other-news-chinese-mythos-like-ai-tata-electronics-breach-snyk-layoffs
+  slug: in-other-news-chinese-mythos-like-ai-tata-electronics-breach-snyk-layoffs
+  name: 'In Other News: Chinese Mythos-Like AI, Tata Electronics Breach, Snyk Layoffs'
+  type: technology
+  categories: *id001
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.securityweek.com/in-other-news-chinese-mythos-like-ai-tata-electronics-breach-snyk-layoffs/
+    tier: A
+    label: SecurityWeek
+  incumbent_comparison: *id001
+  snippet: 'Other noteworthy stories that might have slipped under the radar: Russia
+    used Cellebrite to hack activist’s phone, Five Eyes issue urgent AI threat warning,
+    macOS Gaslight backdoor, Scattered Spider guilty pleas.
+
+    The post In Other News: Chinese Mythos-Like AI, Tata Electronics Breach, Snyk
+    Layoffs appeared first on SecurityWeek'
+  discovery_source: rss
+  triage_score: 8
+- id: rss-securityweek-nebulock-raises-25-million-for-ai-native-contextual-security
+  slug: nebulock-raises-25-million-for-ai-native-contextual-security
+  name: Nebulock Raises $25 Million for AI-Native Contextual Security
+  type: startup
+  categories: *id001
+  status: published
+  priority: high
+  discovered_at: '2026-06-29'
+  last_researched_at: '2026-06-29'
+  sources:
+  - url: https://www.securityweek.com/nebulock-raises-25-million-for-ai-native-contextual-security/
+    tier: A
+    label: SecurityWeek
+  incumbent_comparison: *id001
+  snippet: 'The cybersecurity startup provides threat hunting, proactive detection,
+    and behavioral security analytics.
+
+    The post Nebulock Raises $25 Million for AI-Native Contextual Security appeared
+    first on SecurityWeek.'
+  discovery_source: rss
+  triage_score: 72
+- id: rss-securityweek-linux-foundation-unveils-new-open-source-security-project-akrites
+  slug: linux-foundation-unveils-new-open-source-security-project-akrites
+  name: Linux Foundation Unveils New Open Source Security Project Akrites
+  type: technology
+  categories: *id001
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.securityweek.com/linux-foundation-unveils-new-open-source-security-project-akrites/
+    tier: A
+    label: SecurityWeek
+  incumbent_comparison: *id001
+  snippet: 'It will provide the tools and channels to report, patch, and disclose
+    open source software vulnerabilities.
+
+    The post Linux Foundation Unveils New Open Source Security Project Akrites appeared
+    first on SecurityWeek.'
+  discovery_source: rss
+  triage_score: 8
+- id: rss-securityweek-3-million-reportedly-stolen-in-polymarket-hack
+  slug: 3-million-reportedly-stolen-in-polymarket-hack
+  name: $3 Million Reportedly Stolen in Polymarket Hack
+  type: startup
+  categories: *id001
+  status: archived
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.securityweek.com/3-million-reportedly-stolen-in-polymarket-hack/
+    tier: A
+    label: SecurityWeek
+  incumbent_comparison: *id001
+  snippet: 'The decentralized prediction market said hackers targeted some of its
+    users through a compromise of a third-party vendor.
+
+    The post $3 Million Reportedly Stolen in Polymarket Hack appeared first on SecurityWeek.'
+  discovery_source: rss
+  triage_score: 0
+- id: rss-securityweek-russian-apt-deploys-stockstay-backdoor-against-ukrainian-targets
+  slug: russian-apt-deploys-stockstay-backdoor-against-ukrainian-targets
+  name: Russian APT Deploys ‘StockStay’ Backdoor Against Ukrainian Targets
+  type: technology
+  categories: *id001
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.securityweek.com/russian-apt-deploys-stockstay-backdoor-against-ukrainian-targets/
+    tier: A
+    label: SecurityWeek
+  incumbent_comparison: *id001
+  snippet: 'Turla has been using the backdoor against government and military organizations
+    in Ukraine for espionage.
+
+    The post Russian APT Deploys &#8216;StockStay&#8217; Backdoor Against Ukrainian
+    Targets appeared first on SecurityWeek.'
+  discovery_source: rss
+  triage_score: 8
+- id: rss-securityweek-first-ever-exploitation-of-ptc-windchill-vulnerability-discovered-in-the-wild
+  slug: first-ever-exploitation-of-ptc-windchill-vulnerability-discovered-in-the-wild
+  name: First-Ever Exploitation of PTC Windchill Vulnerability Discovered in the Wild
+  type: technology
+  categories: *id001
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.securityweek.com/first-ever-exploitation-of-ptc-windchill-vulnerability-discovered-in-the-wild/
+    tier: A
+    label: SecurityWeek
+  incumbent_comparison: *id001
+  snippet: 'CISA has added the remote code execution flaw CVE-2026-12569 to its Known
+    Exploited Vulnerabilities catalog.
+
+    The post First-Ever Exploitation of PTC Windchill Vulnerability Discovered in
+    the Wild appeared first on SecurityWeek.'
+  discovery_source: rss
+  triage_score: 16
+- id: rss-securityweek-new-enterprise-ready-mcp-specification-brings-new-security-challenges
+  slug: new-enterprise-ready-mcp-specification-brings-new-security-challenges
+  name: New Enterprise-Ready MCP Specification Brings New Security Challenges
+  type: product
+  categories: *id001
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.securityweek.com/new-enterprise-ready-mcp-specification-brings-new-security-challenges/
+    tier: A
+    label: SecurityWeek
+  incumbent_comparison: *id001
+  snippet: 'A major overhaul of the Model Context Protocol shifts critical security
+    responsibilities from the protocol itself to developers and platform operators.
+
+    The post New Enterprise-Ready MCP Specification Brings New Security Challenges
+    appeared first on SecurityWeek.'
+  discovery_source: rss
+  triage_score: 8
+- id: rss-thehackernews-ukraine-says-russian-intelligence-used-fake-support-texts-to-steal-messaging-cre
+  slug: ukraine-says-russian-intelligence-used-fake-support-texts-to-steal-messaging-cre
+  name: Ukraine Says Russian Intelligence Used Fake Support Texts to Steal Messaging
+    Credentials
+  type: technology
+  categories: &id002
+  - detection_response
+  - vuln_exposure
+  - cloud_identity
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://thehackernews.com/2026/06/ukraine-says-russian-intelligence-used.html
+    tier: A
+    label: The Hacker News
+  incumbent_comparison: *id002
+  snippet: 'The Security Service of Ukraine (SSU) said it, together with the U.S.
+    Federal Bureau of Investigation (FBI), uncovered a long-running campaign orchestrated
+    by Russian intelligence services to break into the messaging accounts of government
+    officials, military personnel, politicians, and activists in Ukraine, Europe,
+    and the U.S.
+
+
+    The systematic cyber attacks aimed at stealing sensitive'
+  discovery_source: rss
+  triage_score: 8
+- id: rss-thehackernews-openai-previews-gpt-5-6-sol-with-restricted-access-and-stronger-cyber-safeguards
+  slug: openai-previews-gpt-5-6-sol-with-restricted-access-and-stronger-cyber-safeguards
+  name: OpenAI Previews GPT-5.6 Sol With Restricted Access and Stronger Cyber Safeguards
+  type: technology
+  categories: *id002
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://thehackernews.com/2026/06/openai-limits-gpt-56-rollout-as-sol.html
+    tier: A
+    label: The Hacker News
+  incumbent_comparison: *id002
+  snippet: 'OpenAI on Friday released three versions of GPT-5.6, called Sol, Terra,
+    and Luna, as a limited preview to a small number of companies as part of an ongoing
+    engagement with the U.S. government.
+
+
+    While Sol is the latest flagship model and the most powerful, Terra strikes a
+    balance between efficiency and power, and Luna is fine-tuned for speed and affordability.
+
+
+    "GPT‑5.6 Sol launches with our most'
+  discovery_source: rss
+  triage_score: 8
+- id: rss-thehackernews-fbi-warns-russian-intelligence-hackers-target-signal-backup-recovery-keys
+  slug: fbi-warns-russian-intelligence-hackers-target-signal-backup-recovery-keys
+  name: FBI Warns Russian Intelligence Hackers Target Signal Backup Recovery Keys
+  type: technology
+  categories: *id002
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://thehackernews.com/2026/06/fbi-warns-russian-intelligence-hackers.html
+    tier: A
+    label: The Hacker News
+  incumbent_comparison: *id002
+  snippet: 'The FBI and CISA have updated&nbsp;their March warning&nbsp;about Russian
+    intelligence phishing Signal accounts, and the operators have added a step: they
+    now coax targets into handing over their Signal Backup Recovery Key.
+
+
+    Hand it over once, and the attacker can restore the account''s backup, read the
+    private and group message history, and take over the account. Worse, the key keeps
+    working.'
+  discovery_source: rss
+  triage_score: 8
+- id: rss-thehackernews-new-sharkloader-malware-deploys-cobalt-strike-in-strikeshark-cyberattacks
+  slug: new-sharkloader-malware-deploys-cobalt-strike-in-strikeshark-cyberattacks
+  name: New SharkLoader Malware Deploys Cobalt Strike in StrikeShark Cyberattacks
+  type: technology
+  categories: *id002
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://thehackernews.com/2026/06/new-sharkloader-malware-deploys-cobalt.html
+    tier: A
+    label: The Hacker News
+  incumbent_comparison: *id002
+  snippet: 'A newly discovered cyber attack campaign has been observed delivering
+    a previously undocumented malware family called SharkLoader that acts as a loader
+    for deploying Cobalt Strike Beacon on compromised hosts.
+
+
+    Kaspersky, which is tracking the activity under the moniker StrikeShark, said
+    the campaign has targeted a diplomatic organization in Indonesia, government organizations
+    in Taiwan,'
+  discovery_source: rss
+  triage_score: 8
+- id: rss-thehackernews-chinese-speaking-apt-deploys-new-tinyrct-backdoor-in-southeast-asia-campaign
+  slug: chinese-speaking-apt-deploys-new-tinyrct-backdoor-in-southeast-asia-campaign
+  name: Chinese-Speaking APT Deploys New TinyRCT Backdoor in Southeast Asia Campaign
+  type: technology
+  categories: *id002
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://thehackernews.com/2026/06/chinese-speaking-apt-deploys-new.html
+    tier: A
+    label: The Hacker News
+  incumbent_comparison: *id002
+  snippet: 'A Chinese-speaking advanced persistent threat (APT) actor has been linked
+    to a new custom backdoor called TinyRCT as part of cyber attacks aimed at government
+    entities and critical infrastructure in Southeast Asia.
+
+
+    The activity, particularly aimed at state-owned enterprises in the energy and
+    government sectors, has been attributed to a threat actor called CL-STA-1062,
+    which Palo Alto Networks'
+  discovery_source: rss
+  triage_score: 8
+- id: rss-thehackernews-new-linux-pedit-cow-exploit-enables-root-access-by-poisoning-cached-binaries
+  slug: new-linux-pedit-cow-exploit-enables-root-access-by-poisoning-cached-binaries
+  name: New Linux pedit COW Exploit Enables Root Access by Poisoning Cached Binaries
+  type: technology
+  categories: *id002
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://thehackernews.com/2026/06/new-linux-pedit-cow-exploit-enables.html
+    tier: A
+    label: The Hacker News
+  incumbent_comparison: *id002
+  snippet: 'A flaw in the Linux kernel''s traffic-control subsystem can let a local
+    unprivileged user gain root on affected systems.
+
+
+    CVE-2026-46331, nicknamed "pedit COW," is an out-of-bounds write in the packet-editing
+    action (act_pedit) that corrupts shared page-cache memory. A&nbsp;public, working
+    exploit&nbsp;appeared within a day of the CVE assignment on June 16. Red Hat&nbsp;rates
+    the flaw as'
+  discovery_source: rss
+  triage_score: 8
+- id: rss-thehackernews-amazon-q-developer-flaw-could-let-malicious-repos-run-code-via-mcp-configs
+  slug: amazon-q-developer-flaw-could-let-malicious-repos-run-code-via-mcp-configs
+  name: Amazon Q Developer Flaw Could Let Malicious Repos Run Code via MCP Configs
+  type: technology
+  categories: *id002
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://thehackernews.com/2026/06/amazon-q-developer-flaw-could-let.html
+    tier: A
+    label: The Hacker News
+  incumbent_comparison: *id002
+  snippet: 'A high-severity flaw in Amazon Q Developer let a malicious repository
+    run commands and steal a developer''s cloud credentials. The path was short: a
+    developer opens the repo, trusts the workspace, and Amazon Q does the rest. Amazon
+    has patched it.
+
+
+    Tracked as&nbsp;CVE-2026-12957&nbsp;(CVSS 8.5), the bug sat in how Amazon''s AI
+    coding assistant handled Model Context Protocol (MCP) servers.
+
+
+    Wiz'
+  discovery_source: rss
+  triage_score: 8
+- id: rss-thehackernews-cisa-adds-exploited-ptc-windchill-rce-flaw-to-kev-as-web-shell-attacks-continue
+  slug: cisa-adds-exploited-ptc-windchill-rce-flaw-to-kev-as-web-shell-attacks-continue
+  name: CISA Adds Exploited PTC Windchill RCE Flaw to KEV as Web Shell Attacks Continue
+  type: technology
+  categories: *id002
+  status: new
+  priority: medium
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://thehackernews.com/2026/06/cisa-adds-exploited-ptc-windchill-rce.html
+    tier: A
+    label: The Hacker News
+  incumbent_comparison: *id002
+  snippet: 'The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday
+    added a critical remote code execution vulnerability impacting PTC Windchill PDMlink
+    and PTC FlexPLM enterprise Product Data Management (PDM) and Product Lifecycle
+    Management (PLM) software to its Known Exploited Vulnerabilities (KEV) catalog,
+    citing evidence of active exploitation.
+
+
+    The vulnerability in question is'
+  discovery_source: rss
+  triage_score: 24
+- id: rss-thehackernews-new-dirtyclone-linux-kernel-flaw-lets-local-users-gain-root-via-cloned-packets
+  slug: new-dirtyclone-linux-kernel-flaw-lets-local-users-gain-root-via-cloned-packets
+  name: New DirtyClone Linux Kernel Flaw Lets Local Users Gain Root via Cloned Packets
+  type: technology
+  categories: *id002
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://thehackernews.com/2026/06/new-dirtyclone-linux-kernel-flaw-lets.html
+    tier: A
+    label: The Hacker News
+  incumbent_comparison: *id002
+  snippet: 'DirtyClone is a new Linux kernel privilege escalation in the DirtyFrag
+    family.&nbsp;JFrog Security Research published a working exploit walkthrough&nbsp;for
+    the flaw on June 25, the first public demonstration for this variant.
+
+
+    Tracked as&nbsp;CVE-2026-43503&nbsp;(CVSS 8.8), it lets a local user corrupt file-backed
+    memory through a cloned network packet and gain root. The patch landed in'
+  discovery_source: rss
+  triage_score: 8
+- id: rss-thehackernews-guardian-agents-the-next-layer-of-identity-governance
+  slug: guardian-agents-the-next-layer-of-identity-governance
+  name: 'Guardian Agents: The Next Layer of Identity Governance'
+  type: technology
+  categories: *id002
+  status: new
+  priority: medium
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://thehackernews.com/2026/06/guardian-agents-next-layer-of-identity.html
+    tier: A
+    label: The Hacker News
+  incumbent_comparison: *id002
+  snippet: AI agents are moving through enterprise environments, inheriting permissions,
+    traversing systems, and executing decisions at machine speed with minimal oversight.
+    The identity infrastructure built to govern human access wasn't designed for autonomous
+    actors, and the gap between what enterprises are deploying and what their governance
+    programs actually cover is widening fast. This guide breaks
+  discovery_source: rss
+  triage_score: 24
+- id: rss-thehackernews-miasma-malware-targets-npm-packages-and-github-actions-in-supply-chain-attack
+  slug: miasma-malware-targets-npm-packages-and-github-actions-in-supply-chain-attack
+  name: Miasma Malware Targets npm Packages and GitHub Actions in Supply Chain Attack
+  type: product
+  categories: *id002
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://thehackernews.com/2026/06/miasma-malware-targets-npm-packages-and.html
+    tier: A
+    label: The Hacker News
+  incumbent_comparison: *id002
+  snippet: 'Cybersecurity researchers have flagged yet another evolution of the supply
+    chain attack linked to the Mini Shai-Hulud, Miasma, and Hades malware family that
+    has compromised a new set of npm packages, even as it has propagated to the Go
+    ecosystem.
+
+
+    "The latest activity includes malicious npm releases affecting LeoPlatform and
+    RStreams packages, GitHub Actions workflow abuse, and a related Go'
+  discovery_source: rss
+  triage_score: 16
+- id: rss-thehackernews-microsoft-warns-of-photo-zip-phishing-campaign-targeting-hotels-with-node-js-imp
+  slug: microsoft-warns-of-photo-zip-phishing-campaign-targeting-hotels-with-node-js-imp
+  name: Microsoft Warns of Photo ZIP Phishing Campaign Targeting Hotels with Node.js
+    Implant
+  type: technology
+  categories: *id002
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://thehackernews.com/2026/06/microsoft-warns-of-photo-zip-phishing.html
+    tier: A
+    label: The Hacker News
+  incumbent_comparison: *id002
+  snippet: 'An active phishing campaign has been targeting hotel and other hospitality
+    organizations across Europe and Asia since April 2026, using photo-themed ZIP
+    files to drop a Node.js implant and dig into front-desk machines, Microsoft says.
+
+
+    The company has&nbsp;not attributed&nbsp;the activity to a known threat actor,
+    and the operators'' end goal is still unclear.
+
+
+    The lure plays to how hotels work.'
+  discovery_source: rss
+  triage_score: 8
+- id: rss-thehackernews-russia-used-cellebrite-on-jailed-activist-s-iphone-months-after-sales-cutoff
+  slug: russia-used-cellebrite-on-jailed-activist-s-iphone-months-after-sales-cutoff
+  name: Russia Used Cellebrite on Jailed Activist's iPhone Months After Sales Cutoff
+  type: technology
+  categories: *id002
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://thehackernews.com/2026/06/russia-used-cellebrite-on-jailed.html
+    tier: A
+    label: The Hacker News
+  incumbent_comparison: *id002
+  snippet: 'Russian authorities used Cellebrite''s UFED forensic tools to break into
+    the iPhone of detained opposition activist Andrey Pivovarov in June 2021, three
+    months after Cellebrite said it would stop selling its tools and services to Russia
+    and Belarus.
+
+
+    The finding, published&nbsp;June 25 by the Citizen Lab, rests on two things that
+    rarely line up: traces on the phone itself and an official Russian'
+  discovery_source: rss
+  triage_score: 8
+- id: rss-thehackernews-google-details-turla-s-new-stockstay-backdoor-used-in-ukraine-espionage-attacks
+  slug: google-details-turla-s-new-stockstay-backdoor-used-in-ukraine-espionage-attacks
+  name: Google Details Turla's New STOCKSTAY Backdoor Used in Ukraine Espionage Attacks
+  type: technology
+  categories: *id002
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://thehackernews.com/2026/06/google-details-turlas-new-stockstay.html
+    tier: A
+    label: The Hacker News
+  incumbent_comparison: *id002
+  snippet: 'The Russian state-sponsored threat actor known as Turla has been attributed
+    to a previously undocumented .NET backdoor called STOCKSTAY that has been deployed
+    against government and military organizations in Ukraine, and entities that have
+    an interest in Italian foreign policy.
+
+
+    Describing the Windows backdoor as continually developed by the hacking group,
+    Google Threat Intelligence Group ('
+  discovery_source: rss
+  triage_score: 8
+- id: rss-thehackernews-chrome-ad-blocker-with-10m-installs-found-with-dormant-script-injection-capabili
+  slug: chrome-ad-blocker-with-10m-installs-found-with-dormant-script-injection-capabili
+  name: Chrome Ad Blocker with 10M+ Installs Found with Dormant Script Injection Capability
+  type: startup
+  categories: *id002
+  status: new
+  priority: medium
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://thehackernews.com/2026/06/chrome-ad-blocker-with-10m-installs.html
+    tier: A
+    label: The Hacker News
+  incumbent_comparison: *id002
+  snippet: 'An analysis of a popular Google Chrome ad block extension for YouTube
+    has uncovered the ability to execute arbitrary JavaScript code.
+
+
+    According to Island, the extension, named Adblock for YouTube (ID: cmedhionkhpnakcndndgjdbohmhepckk),
+    has more than 10 million installs and carries a Featured badge on the Chrome Web
+    Store.
+
+
+    The extension description states that it allows users to prevent web'
+  discovery_source: rss
+  triage_score: 48
+- id: rss-darkreading-third-party-breaches-teach-education-sector-a-costly-lesson-in-vendor-risk
+  slug: third-party-breaches-teach-education-sector-a-costly-lesson-in-vendor-risk
+  name: Third-Party Breaches Teach Education Sector a Costly Lesson in Vendor Risk
+  type: technology
+  categories: &id003
+  - detection_response
+  - automation_orchestration
+  - cloud_identity
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.darkreading.com/cyber-risk/third-party-breaches-teaches-education-lesson-vendor-risk
+    tier: A
+    label: Dark Reading
+  incumbent_comparison: *id003
+  snippet: Rising threats from third-party actors are forcing institutions to play
+    defense to protect student data from ransomware and other attacks.
+  discovery_source: rss
+  triage_score: 8
+- id: rss-darkreading-ai-decline-confidence-in-autonomous-penetration-testing-falls
+  slug: ai-decline-confidence-in-autonomous-penetration-testing-falls
+  name: AI Decline? Confidence in Autonomous Penetration Testing Falls
+  type: technology
+  categories: *id003
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.darkreading.com/cybersecurity-operations/ai-decline-confidence-autonomous-penetration-testing
+    tier: A
+    label: Dark Reading
+  incumbent_comparison: *id003
+  snippet: Companies are still experimenting with automated AI systems to find security
+    weaknesses, but fewer are relying on the technology.
+  discovery_source: rss
+  triage_score: 8
+- id: rss-darkreading-cisco-adds-nhi-to-security-stack-with-astrix-widefield-acquisitions
+  slug: cisco-adds-nhi-to-security-stack-with-astrix-widefield-acquisitions
+  name: Cisco Adds NHI to Security Stack With Astrix, WideField Acquisitions
+  type: product
+  categories: *id003
+  status: new
+  priority: medium
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.darkreading.com/identity-access-management-security/cisco-adds-nhi-security-stack-with-astrix-widefield
+    tier: A
+    label: Dark Reading
+  incumbent_comparison: *id003
+  snippet: Cisco joins a growing list of security platform providers that are betting
+    that securing the agentic workforce means turning identity into the primary control
+    plane.
+  discovery_source: rss
+  triage_score: 24
+- id: rss-darkreading-new-initiative-tackles-security-for-end-of-life-open-source-software
+  slug: new-initiative-tackles-security-for-end-of-life-open-source-software
+  name: New Initiative Tackles Security for End-of-Life Open Source Software
+  type: technology
+  categories: *id003
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.darkreading.com/application-security/initiative-tackles-security-end-of-life-open-source
+    tier: A
+    label: Dark Reading
+  incumbent_comparison: *id003
+  snippet: The Open Source Sustainability Initiative's goal is to help enterprises
+    manage and secure aging open source projects while maintaining regulatory compliance.
+  discovery_source: rss
+  triage_score: 8
+- id: rss-darkreading-ai-won-t-wipe-out-entry-level-cybersecurity-jobs
+  slug: ai-won-t-wipe-out-entry-level-cybersecurity-jobs
+  name: AI Won't Wipe-Out Entry-Level Cybersecurity Jobs
+  type: technology
+  categories: *id003
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.darkreading.com/cybersecurity-operations/ai-wont-wipe-out-entry-level-cybersecurity-jobs
+    tier: A
+    label: Dark Reading
+  incumbent_comparison: *id003
+  snippet: Instead of eliminating jobs for early-career cyber pros, AI is creating
+    new opportunities for candidates with strong human decision-making skills.
+  discovery_source: rss
+  triage_score: 16
+- id: rss-darkreading-meeting-trump-s-2030-quantum-deadline-will-be-expensive-complex
+  slug: meeting-trump-s-2030-quantum-deadline-will-be-expensive-complex
+  name: Meeting Trump's 2030 Quantum Deadline Will be Expensive, Complex
+  type: technology
+  categories: *id003
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.darkreading.com/cybersecurity-operations/meeting-2030-quantum-deadline-expensive-complex
+    tier: A
+    label: Dark Reading
+  incumbent_comparison: *id003
+  snippet: Getting accurate visibility into IT and OT systems will be compounded by
+    multivendor environments, misaligned update life cycles, and interoperability
+    gaps.
+  discovery_source: rss
+  triage_score: 8
+- id: rss-darkreading-thanks-for-crushing-the-submissions-inbox-we-re-trying-to-keep-up
+  slug: thanks-for-crushing-the-submissions-inbox-we-re-trying-to-keep-up
+  name: Thanks for Crushing the Submissions Inbox. We're Trying to Keep Up
+  type: technology
+  categories: *id003
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.darkreading.com/cybersecurity-operations/submissions-guidelines-reminder
+    tier: A
+    label: Dark Reading
+  incumbent_comparison: *id003
+  snippet: It might be taking a bit longer than usual to respond to your submissions
+    — here's why.
+  discovery_source: rss
+  triage_score: 8
+- id: rss-darkreading-robinhood-cuts-access-approval-time-to-support-high-velocity-development
+  slug: robinhood-cuts-access-approval-time-to-support-high-velocity-development
+  name: Robinhood Cuts Access Approval Time to Support High-Velocity Development
+  type: technology
+  categories: *id003
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.darkreading.com/application-security/robinhood-reengineered-access-approvals-for-high-velocity-development
+    tier: A
+    label: Dark Reading
+  incumbent_comparison: *id003
+  snippet: The fintech company's engineering-first application security team reengineered
+    the process for granting system access, making it easier and more secure for developers
+    working on their projects. Here are the lessons learned from Robinhood's experience.
+  discovery_source: rss
+  triage_score: 8
+- id: rss-darkreading-in-less-than-24-hours-attackers-weaponize-cisco-cucm-flaw
+  slug: in-less-than-24-hours-attackers-weaponize-cisco-cucm-flaw
+  name: In Less Than 24 Hours, Attackers Weaponize Cisco CUCM Flaw
+  type: technology
+  categories: *id003
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.darkreading.com/cyberattacks-data-breaches/less-than-24-hours-attackers-weaponize-cisco-cucm-flaw
+    tier: A
+    label: Dark Reading
+  incumbent_comparison: *id003
+  snippet: The flaw enables server-side request forgery (SSRF) and escalates privileges
+    to root, impacting Cisco Unified CM and Unified CM SME deployments.
+  discovery_source: rss
+  triage_score: 8
+- id: rss-darkreading-russian-apt-gamaredon-upgrades-its-arsenal-requiring-new-defenses
+  slug: russian-apt-gamaredon-upgrades-its-arsenal-requiring-new-defenses
+  name: Russian APT 'Gamaredon' Upgrades Its Arsenal, Requiring New Defenses
+  type: technology
+  categories: *id003
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.darkreading.com/threat-intelligence/russia-apt-gamaredon-arsenal-defense
+    tier: A
+    label: Dark Reading
+  incumbent_comparison: *id003
+  snippet: The FSB state-sponsored operation has gotten a lot better at loading its
+    malware and hiding its servers.
+  discovery_source: rss
+  triage_score: 8
+- id: rss-darkreading-edtech-attackers-shift-from-schools-to-their-software-suppliers
+  slug: edtech-attackers-shift-from-schools-to-their-software-suppliers
+  name: EdTech Attackers Shift From Schools to Their Software Suppliers
+  type: technology
+  categories: *id003
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.darkreading.com/cyberattacks-data-breaches/edtech-attackers-shift-schools-software-suppliers
+    tier: A
+    label: Dark Reading
+  incumbent_comparison: *id003
+  snippet: Educational institutions, the edtech companies they rely on, and, more
+    concerningly, the challenges they pose for schools are the focus of the latest
+    Reporters' Notebook video series.
+  discovery_source: rss
+  triage_score: 8
+- id: rss-darkreading-local-police-collusion-hampers-crackdown-on-asian-scam-centers
+  slug: local-police-collusion-hampers-crackdown-on-asian-scam-centers
+  name: Local Police Collusion Hampers Crackdown on Asian Scam Centers
+  type: technology
+  categories: *id003
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.darkreading.com/threat-intelligence/police-collusion-crackdown-asian-scam-centers
+    tier: A
+    label: Dark Reading
+  incumbent_comparison: *id003
+  snippet: With tens of billions of dollars flowing into regional economies from cybercrime,
+    scam centers continue to flourish, despite international and law-enforcement efforts.
+  discovery_source: rss
+  triage_score: 8
+- id: rss-darkreading-europe-evolves-into-ransomware-s-favorite-region
+  slug: europe-evolves-into-ransomware-s-favorite-region
+  name: Europe Evolves Into Ransomware's Favorite Region
+  type: technology
+  categories: *id003
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.darkreading.com/cybersecurity-analytics/europe-evolves-ransomware-favorite-region
+    tier: A
+    label: Dark Reading
+  incumbent_comparison: *id003
+  snippet: 'After a global lull, ransomware gangs are setting sights on a rich new
+    arena: attacking EU organizations and their suppliers.'
+  discovery_source: rss
+  triage_score: 8
+- id: rss-darkreading-attackers-hit-cisco-sd-wan-flaw-2-months-before-disclosure
+  slug: attackers-hit-cisco-sd-wan-flaw-2-months-before-disclosure
+  name: Attackers Hit Cisco SD-WAN Flaw 2 Months Before Disclosure
+  type: technology
+  categories: *id003
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.darkreading.com/cyberattacks-data-breaches/attackers-hit-cisco-sd-wan-flaw-2-months-before-disclosure
+    tier: A
+    label: Dark Reading
+  incumbent_comparison: *id003
+  snippet: Researchers believe rogue peering was used to connect to the victim's SD-WAN
+    devices to gain admin privileges and root-level access.
+  discovery_source: rss
+  triage_score: 8
+- id: rss-darkreading-2026-fifa-world-cup-faces-surge-in-cyber-threats
+  slug: 2026-fifa-world-cup-faces-surge-in-cyber-threats
+  name: 2026 FIFA World Cup Faces Surge in Cyber Threats
+  type: technology
+  categories: *id003
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.darkreading.com/cybersecurity-operations/2026-fifa-world-cup-faces-surge-cyber-threats
+    tier: A
+    label: Dark Reading
+  incumbent_comparison: *id003
+  snippet: Persistent cybercrime, social engineering, and infrastructure threats continue
+    to plague the FIFA 2026 World Cup across the US, Canada, and Mexico.
+  discovery_source: rss
+  triage_score: 16
+- id: github-github-mthcht-awesome-lists
+  slug: mthcht-awesome-lists
+  name: mthcht/awesome-lists
+  type: technology
+  categories: &id004
+  - detection_response
+  status: new
+  priority: medium
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/mthcht/awesome-lists
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id004
+  snippet: Awesome Security lists for SOC/CERT/CTI
+  discovery_source: github
+  triage_score: 40
+  metadata:
+    stars: 1678
+    language: YARA
+    updated_at: '2026-06-29T01:46:07Z'
+- id: github-github-beenuar-aisoc
+  slug: beenuar-aisoc
+  name: beenuar/AiSOC
+  type: technology
+  categories: *id004
+  status: new
+  priority: high
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/beenuar/AiSOC
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id004
+  snippet: Open-source AI-powered Security Operations Center — alert fusion, purple-team
+    drills, agent-assisted triage, MITRE ATT&CK investigation. MIT-licensed, self-hostable.
+  discovery_source: github
+  triage_score: 56
+  metadata:
+    stars: 1453
+    language: Python
+    updated_at: '2026-06-29T00:48:10Z'
+- id: github-github-timescale-rsigma
+  slug: timescale-rsigma
+  name: timescale/rsigma
+  type: technology
+  categories: *id004
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/timescale/rsigma
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id004
+  snippet: 'A complete Sigma detection engineering toolkit: parser, linter, evaluator,
+    correlation engine, conversion framework, streaming daemon, MCP and LSP servers
+    :crab:'
+  discovery_source: github
+  triage_score: 18
+  metadata:
+    stars: 80
+    language: Rust
+    updated_at: '2026-06-28T22:02:15Z'
+- id: github-github-wazuh-wazuh
+  slug: wazuh-wazuh
+  name: wazuh/wazuh
+  type: technology
+  categories: *id004
+  status: published
+  priority: high
+  discovered_at: '2026-06-29'
+  last_researched_at: '2026-06-29'
+  sources:
+  - url: https://github.com/wazuh/wazuh
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id004
+  snippet: Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection
+    for endpoints and cloud workloads.
+  discovery_source: github
+  triage_score: 64
+  metadata:
+    stars: 15963
+    language: C++
+    updated_at: '2026-06-29T01:23:28Z'
+- id: github-github-fabriziosalmi-wildbox
+  slug: fabriziosalmi-wildbox
+  name: fabriziosalmi/wildbox
+  type: technology
+  categories: *id004
+  status: new
+  priority: medium
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/fabriziosalmi/wildbox
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id004
+  snippet: An open-source security platform for the community. Unified SIEM, SOAR,
+    WAF, and more in a single, self-hosted solution.
+  discovery_source: github
+  triage_score: 36
+  metadata:
+    stars: 127
+    language: Python
+    updated_at: '2026-06-28T12:46:39Z'
+- id: github-github-victoriametrics-victorialogs
+  slug: victoriametrics-victorialogs
+  name: VictoriaMetrics/VictoriaLogs
+  type: technology
+  categories: *id004
+  status: new
+  priority: medium
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/VictoriaMetrics/VictoriaLogs
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id004
+  snippet: Fast and easy to use database for logs, which can efficiently handle terabytes
+    of logs
+  discovery_source: github
+  triage_score: 32
+  metadata:
+    stars: 1983
+    language: Go
+    updated_at: '2026-06-28T18:49:07Z'
+- id: github-github-graylog2-graylog2-server
+  slug: graylog2-graylog2-server
+  name: Graylog2/graylog2-server
+  type: technology
+  categories: *id004
+  status: new
+  priority: medium
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/Graylog2/graylog2-server
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id004
+  snippet: Free and open log management
+  discovery_source: github
+  triage_score: 32
+  metadata:
+    stars: 8073
+    language: Java
+    updated_at: '2026-06-28T08:23:41Z'
+- id: github-github-panther-labs-panther-analysis
+  slug: panther-labs-panther-analysis
+  name: panther-labs/panther-analysis
+  type: technology
+  categories: *id004
+  status: new
+  priority: medium
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/panther-labs/panther-analysis
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id004
+  snippet: Built-in Panther detection rules and policies
+  discovery_source: github
+  triage_score: 20
+  metadata:
+    stars: 455
+    language: Python
+    updated_at: '2026-06-26T15:37:01Z'
+- id: github-github-tenzir-tenzir
+  slug: tenzir-tenzir
+  name: tenzir/tenzir
+  type: technology
+  categories: *id004
+  status: new
+  priority: medium
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/tenzir/tenzir
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id004
+  snippet: Tenzir is the data pipeline engine for security teams.
+  discovery_source: github
+  triage_score: 22
+  metadata:
+    stars: 743
+    language: C++
+    updated_at: '2026-06-26T15:14:17Z'
+- id: github-github-hookprobe-hookprobe
+  slug: hookprobe-hookprobe
+  name: hookprobe/hookprobe
+  type: technology
+  categories: &id005
+  - automation_orchestration
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/hookprobe/hookprobe
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id005
+  snippet: 🛡️ Free AI that blocks hackers while you sleep. Runs on cheap hardware.
+    When someone in Tokyo gets attacked, you're protected in 30 seconds. No fees.
+    No experts needed. Just protection. One node's detection → everyone's protection.
+  discovery_source: github
+  triage_score: 10
+  metadata:
+    stars: 42
+    language: Python
+    updated_at: '2026-06-28T17:02:41Z'
+- id: github-github-guanguans-soar-php
+  slug: guanguans-soar-php
+  name: guanguans/soar-php
+  type: technology
+  categories: *id005
+  status: new
+  priority: medium
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/guanguans/soar-php
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id005
+  snippet: SQL optimizer and rewriter(assisted SQL tuning). - SQL 优化器和重写器(辅助 SQL 调优)。
+  discovery_source: github
+  triage_score: 20
+  metadata:
+    stars: 196
+    language: PHP
+    updated_at: '2026-06-27T11:42:36Z'
+- id: github-github-sekoia-io-automation-library
+  slug: sekoia-io-automation-library
+  name: SEKOIA-IO/automation-library
+  type: technology
+  categories: *id005
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/SEKOIA-IO/automation-library
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id005
+  snippet: 'Automate your SOC with SEKOIA.IO''s Automation Library. Pull Requests
+    are always welcome and highly appreciated! '
+  discovery_source: github
+  triage_score: 10
+  metadata:
+    stars: 22
+    language: Python
+    updated_at: '2026-06-26T09:01:51Z'
+- id: github-github-shuffle-shuffle
+  slug: shuffle-shuffle
+  name: Shuffle/Shuffle
+  type: technology
+  categories: *id005
+  status: new
+  priority: medium
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/Shuffle/Shuffle
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id005
+  snippet: 'Shuffle: A general purpose security automation platform. Our focus is
+    on collaboration and resource sharing.'
+  discovery_source: github
+  triage_score: 32
+  metadata:
+    stars: 2331
+    language: JavaScript
+    updated_at: '2026-06-28T08:37:49Z'
+- id: github-github-utmstack-utmstack
+  slug: utmstack-utmstack
+  name: utmstack/UTMStack
+  type: technology
+  categories: *id005
+  status: new
+  priority: medium
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/utmstack/UTMStack
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id005
+  snippet: Enterprise-ready SIEM, SOAR and Compliance powered by real-time correlation
+    and threat intelligence.
+  discovery_source: github
+  triage_score: 38
+  metadata:
+    stars: 573
+    language: TypeScript
+    updated_at: '2026-06-25T18:08:26Z'
+- id: github-github-mangod12-onealert
+  slug: mangod12-onealert
+  name: mangod12/OneAlert
+  type: technology
+  categories: *id005
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/mangod12/OneAlert
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id005
+  snippet: AI-powered SOC for OT/ICS networks — 6 autonomous agents, MITRE ATT&CK
+    mapping, Suricata/Zeek ingestion, human-in-the-loop response, 330+ tests. Open-source
+    alternative to Claroty/Dragos for SMBs.
+  discovery_source: github
+  triage_score: 18
+  metadata:
+    stars: 30
+    language: Python
+    updated_at: '2026-06-25T07:26:33Z'
+- id: github-github-guanguans-laravel-soar
+  slug: guanguans-laravel-soar
+  name: guanguans/laravel-soar
+  type: technology
+  categories: *id005
+  status: new
+  priority: medium
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/guanguans/laravel-soar
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id005
+  snippet: SQL optimizer and rewriter for laravel. - laravel 的 SQL 优化器和重写器。
+  discovery_source: github
+  triage_score: 20
+  metadata:
+    stars: 222
+    language: PHP
+    updated_at: '2026-06-24T14:38:56Z'
+- id: github-github-gen0sec-synapse
+  slug: gen0sec-synapse
+  name: gen0sec/synapse
+  type: technology
+  categories: &id006
+  - detection_response
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/gen0sec/synapse
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id006
+  snippet: Active NDR solution with eBPF-powered active fingerprint blocking, firewall
+    and proxy. Protect your system -- east-west and north-south.
+  discovery_source: github
+  triage_score: 12
+  metadata:
+    stars: 155
+    language: Rust
+    updated_at: '2026-06-28T18:44:09Z'
+- id: github-github-alexverboon-defenderresourcehub
+  slug: alexverboon-defenderresourcehub
+  name: alexverboon/DefenderResourceHub
+  type: technology
+  categories: *id006
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/alexverboon/DefenderResourceHub
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id006
+  snippet: Defender Resource Hub
+  discovery_source: github
+  triage_score: 2
+  metadata:
+    stars: 32
+    language: PowerShell
+    updated_at: '2026-06-28T17:03:09Z'
+- id: github-github-hydradragonantivirus-hydradragonantivirus
+  slug: hydradragonantivirus-hydradragonantivirus
+  name: HydraDragonAntivirus/HydraDragonAntivirus
+  type: technology
+  categories: *id006
+  status: new
+  priority: medium
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/HydraDragonAntivirus/HydraDragonAntivirus
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id006
+  snippet: Dynamic and static analysis with Real Time Malware Analysis with Antivirus
+    for Windows, including open-source XDR (3 EDR projects), ClamAV, YARA-X, machine
+    learning AI, behavioral analysis, Unpacker, Deobfuscator, Decompiler, website
+    signatures, Ghidra, Suricata, Sigma, Kernel, Hypervisior based protection and
+    much more than you can imagine.
+  discovery_source: github
+  triage_score: 36
+  metadata:
+    stars: 210
+    language: C++
+    updated_at: '2026-06-27T17:17:11Z'
+- id: github-github-dcache-oncrpc4j
+  slug: dcache-oncrpc4j
+  name: dCache/oncrpc4j
+  type: technology
+  categories: *id006
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/dCache/oncrpc4j
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id006
+  snippet: Pure Java implementation of ONCRPC/SUNRPC
+  discovery_source: github
+  triage_score: 2
+  metadata:
+    stars: 33
+    language: Java
+    updated_at: '2026-06-25T15:50:30Z'
+- id: github-github-knudsenmorten-securityinsight
+  slug: knudsenmorten-securityinsight
+  name: KnudsenMorten/SecurityInsight
+  type: technology
+  categories: *id006
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/KnudsenMorten/SecurityInsight
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id006
+  snippet: 'Rethink Secure Score: risk-based scoring across Defender XDR, Entra, AD,
+    Azure, ExposureGraph, and Shodan — weighted by consequence, Tier 0–3 criticality,
+    and risk factors. Fix what attackers reach for first. Asset profiling, ready-to-use
+    reports, executive summary. Zero footprint, MVP-built, free.'
+  discovery_source: github
+  triage_score: 10
+  metadata:
+    stars: 38
+    language: PowerShell
+    updated_at: '2026-06-18T12:03:09Z'
+- id: github-github-waydabber-betterdisplay
+  slug: waydabber-betterdisplay
+  name: waydabber/BetterDisplay
+  type: technology
+  categories: *id006
+  status: new
+  priority: medium
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/waydabber/BetterDisplay
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id006
+  snippet: Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra
+    brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override
+    and lots more!
+  discovery_source: github
+  triage_score: 40
+  metadata:
+    stars: 32400
+    language: null
+    updated_at: '2026-06-29T02:23:16Z'
+- id: github-github-niklasr22-brightintosh
+  slug: niklasr22-brightintosh
+  name: niklasr22/BrightIntosh
+  type: technology
+  categories: *id006
+  status: new
+  priority: medium
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/niklasr22/BrightIntosh
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id006
+  snippet: Unlock the full brightness of the XDR display of your MacBook Pro
+  discovery_source: github
+  triage_score: 30
+  metadata:
+    stars: 530
+    language: Swift
+    updated_at: '2026-06-25T21:20:07Z'
+- id: github-github-depalmar-ai-for-the-win
+  slug: depalmar-ai-for-the-win
+  name: depalmar/ai_for_the_win
+  type: technology
+  categories: *id006
+  status: new
+  priority: medium
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/depalmar/ai_for_the_win
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id006
+  snippet: Build AI-powered security tools. 50+ hands-on labs covering ML, LLMs, RAG,
+    threat detection, DFIR, and red teaming. Includes Colab notebooks, Docker environment,
+    and CTF challenges.
+  discovery_source: github
+  triage_score: 28
+  metadata:
+    stars: 150
+    language: Python
+    updated_at: '2026-06-24T09:10:08Z'
+- id: github-github-alin23-lunar
+  slug: alin23-lunar
+  name: alin23/Lunar
+  type: technology
+  categories: *id006
+  status: new
+  priority: medium
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/alin23/Lunar
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id006
+  snippet: Intelligent adaptive brightness for your external monitors
+  discovery_source: github
+  triage_score: 32
+  metadata:
+    stars: 5623
+    language: Swift
+    updated_at: '2026-06-28T14:30:54Z'
+- id: github-github-bert-janp-open-source-threat-intel-feeds
+  slug: bert-janp-open-source-threat-intel-feeds
+  name: Bert-JanP/Open-Source-Threat-Intel-Feeds
+  type: technology
+  categories: &id007
+  - detection_response
+  status: new
+  priority: medium
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/Bert-JanP/Open-Source-Threat-Intel-Feeds
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id007
+  snippet: This repository contains Open Source freely usable Threat Intel feeds that
+    can be used without additional requirements. Contains multiple types such as IP,
+    URL, CVE and Hash.
+  discovery_source: github
+  triage_score: 22
+  metadata:
+    stars: 856
+    language: Python
+    updated_at: '2026-06-29T02:05:48Z'
+- id: github-github-spydisec-spydithreatintel
+  slug: spydisec-spydithreatintel
+  name: spydisec/spydithreatintel
+  type: technology
+  categories: *id007
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/spydisec/spydithreatintel
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id007
+  snippet: Spydi ThreatIntel Feed is built on open-source threat intelligence, community-maintained
+    blocklists, and public security research.
+  discovery_source: github
+  triage_score: 2
+  metadata:
+    stars: 54
+    language: null
+    updated_at: '2026-06-29T02:05:34Z'
+- id: github-github-drb-ra-c2intelfeeds
+  slug: drb-ra-c2intelfeeds
+  name: drb-ra/C2IntelFeeds
+  type: technology
+  categories: *id007
+  status: new
+  priority: medium
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/drb-ra/C2IntelFeeds
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id007
+  snippet: Automatically created C2 Feeds
+  discovery_source: github
+  triage_score: 22
+  metadata:
+    stars: 727
+    language: REXX
+    updated_at: '2026-06-28T22:47:26Z'
+- id: github-github-yamato-security-hayabusa
+  slug: yamato-security-hayabusa
+  name: Yamato-Security/hayabusa
+  type: technology
+  categories: *id007
+  status: new
+  priority: medium
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/Yamato-Security/hayabusa
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id007
+  snippet: Hayabusa (隼) is a sigma-based threat hunting and fast forensics timeline
+    generator for Windows event logs.
+  discovery_source: github
+  triage_score: 48
+  metadata:
+    stars: 3229
+    language: Rust
+    updated_at: '2026-06-28T22:45:24Z'
+- id: github-github-spmedia-crypto-scam-and-crypto-phishing-threat-intel-feed
+  slug: spmedia-crypto-scam-and-crypto-phishing-threat-intel-feed
+  name: spmedia/Crypto-Scam-and-Crypto-Phishing-Threat-Intel-Feed
+  type: technology
+  categories: *id007
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/spmedia/Crypto-Scam-and-Crypto-Phishing-Threat-Intel-Feed
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id007
+  snippet: A fresh feed of crypto phishing and crypto scam websites. Automatically
+    updated daily/frequently.
+  discovery_source: github
+  triage_score: 2
+  metadata:
+    stars: 63
+    language: null
+    updated_at: '2026-06-28T20:58:28Z'
+- id: github-github-spmedia-threat-actor-usernames-scrape
+  slug: spmedia-threat-actor-usernames-scrape
+  name: spmedia/Threat-Actor-Usernames-Scrape
+  type: technology
+  categories: *id007
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/spmedia/Threat-Actor-Usernames-Scrape
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id007
+  snippet: A collection & lists of intel and usernames scraped from various cybercrime
+    sources & forums. DarkForums, HackForums, Patched, Cracked, BreachForums, OGUser,
+    XSS, Dread, & more
+  discovery_source: github
+  triage_score: 12
+  metadata:
+    stars: 223
+    language: null
+    updated_at: '2026-06-28T20:10:32Z'
+- id: github-github-the-privacy-commons-institute-chrome-mal-ids
+  slug: the-privacy-commons-institute-chrome-mal-ids
+  name: The-Privacy-Commons-Institute/chrome-mal-ids
+  type: technology
+  categories: *id007
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/The-Privacy-Commons-Institute/chrome-mal-ids
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id007
+  snippet: Effort to list and aggregate known malicious Google Chrome Extension IDs
+  discovery_source: github
+  triage_score: 2
+  metadata:
+    stars: 67
+    language: Python
+    updated_at: '2026-06-28T15:04:43Z'
+- id: github-github-benscha-kqladvancedhunting
+  slug: benscha-kqladvancedhunting
+  name: benscha/KQLAdvancedHunting
+  type: technology
+  categories: *id007
+  status: new
+  priority: medium
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/benscha/KQLAdvancedHunting
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id007
+  snippet: Production-ready KQL queries for Microsoft Defender XDR and Microsoft Sentinel.
+    Focused on Threat Hunting, Detection Engineering, and MITRE ATT&CK mapping.
+  discovery_source: github
+  triage_score: 44
+  metadata:
+    stars: 112
+    language: PowerShell
+    updated_at: '2026-06-28T13:54:51Z'
+- id: github-github-fhightower-ioc-finder
+  slug: fhightower-ioc-finder
+  name: fhightower/ioc-finder
+  type: technology
+  categories: *id007
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/fhightower/ioc-finder
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id007
+  snippet: 'Simple, effective, and modular package for parsing observables (indicators
+    of compromise (IOCs), network data, and other, security related information) from
+    text. It uses grammars rather than regexes which makes it more readable, maintainable,
+    and hackable. Explore our interactive documentation here: https://hightower.space/ioc-finder/'
+  discovery_source: github
+  triage_score: 12
+  metadata:
+    stars: 183
+    language: Python
+    updated_at: '2026-06-28T11:46:35Z'
+- id: github-github-turbot-steampipe
+  slug: turbot-steampipe
+  name: turbot/steampipe
+  type: technology
+  categories: &id008
+  - cloud_identity
+  status: new
+  priority: medium
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/turbot/steampipe
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id008
+  snippet: Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL.
+    No DB required.
+  discovery_source: github
+  triage_score: 32
+  metadata:
+    stars: 7872
+    language: Go
+    updated_at: '2026-06-27T14:40:33Z'
+- id: github-github-turbot-powerpipe
+  slug: turbot-powerpipe
+  name: turbot/powerpipe
+  type: technology
+  categories: *id008
+  status: new
+  priority: medium
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/turbot/powerpipe
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id008
+  snippet: 'Powerpipe: Dashboards for DevOps. Visualize cloud configurations. Assess
+    security posture against a massive library of benchmarks. Build custom dashboards
+    with code.'
+  discovery_source: github
+  triage_score: 22
+  metadata:
+    stars: 511
+    language: TypeScript
+    updated_at: '2026-06-27T13:08:19Z'
+- id: github-github-deepfence-threatmapper
+  slug: deepfence-threatmapper
+  name: deepfence/ThreatMapper
+  type: technology
+  categories: *id008
+  status: new
+  priority: medium
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/deepfence/ThreatMapper
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id008
+  snippet: Open Source Cloud Native Application Protection Platform (CNAPP)
+  discovery_source: github
+  triage_score: 40
+  metadata:
+    stars: 5290
+    language: TypeScript
+    updated_at: '2026-06-27T07:49:19Z'
+- id: github-github-g4r-tech-awesome-cloud-guardrails
+  slug: g4r-tech-awesome-cloud-guardrails
+  name: g4r-tech/awesome-cloud-guardrails
+  type: technology
+  categories: *id008
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/g4r-tech/awesome-cloud-guardrails
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id008
+  snippet: Schema-driven awesome list of cloud security guardrails powering cloudguardrail.com/tools
+  discovery_source: github
+  triage_score: 2
+  metadata:
+    stars: 93
+    language: JavaScript
+    updated_at: '2026-06-12T05:52:44Z'
+- id: github-github-someengineering-fixinventory
+  slug: someengineering-fixinventory
+  name: someengineering/fixinventory
+  type: technology
+  categories: *id008
+  status: new
+  priority: medium
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/someengineering/fixinventory
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id008
+  snippet: Fix Inventory helps you identify and remove the most critical risks in
+    AWS, GCP, Azure and Kubernetes.
+  discovery_source: github
+  triage_score: 32
+  metadata:
+    stars: 2072
+    language: Python
+    updated_at: '2026-06-16T19:34:33Z'
+- id: github-github-chanduusc-prismacloud-demo
+  slug: chanduusc-prismacloud-demo
+  name: chanduusc/prismacloud-demo
+  type: technology
+  categories: *id008
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/chanduusc/prismacloud-demo
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id008
+  snippet: Complete CNAPP Demo using Prisma Cloud
+  discovery_source: github
+  triage_score: 10
+  metadata:
+    stars: 17
+    language: HCL
+    updated_at: '2026-03-04T00:57:05Z'
+- id: github-github-prowler-cloud-prowler
+  slug: prowler-cloud-prowler
+  name: prowler-cloud/prowler
+  type: technology
+  categories: &id009
+  - cloud_identity
+  status: new
+  priority: medium
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/prowler-cloud/prowler
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id009
+  snippet: Prowler is the world’s most widely used open-source cloud security platform
+    that automates security and compliance across any cloud environment.
+  discovery_source: github
+  triage_score: 40
+  metadata:
+    stars: 14062
+    language: Python
+    updated_at: '2026-06-28T18:43:25Z'
+- id: github-github-cloudquery-cloudquery
+  slug: cloudquery-cloudquery
+  name: cloudquery/cloudquery
+  type: technology
+  categories: *id009
+  status: new
+  priority: medium
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/cloudquery/cloudquery
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id009
+  snippet: Data pipelines for cloud config and security data. Build cloud asset inventory,
+    CSPM, FinOps, and vulnerability management solutions. Extract from AWS, Azure,
+    GCP, and 70+ cloud and SaaS sources.
+  discovery_source: github
+  triage_score: 48
+  metadata:
+    stars: 6445
+    language: Go
+    updated_at: '2026-06-27T01:09:08Z'
+- id: github-github-elastic-cloudbeat
+  slug: elastic-cloudbeat
+  name: elastic/cloudbeat
+  type: technology
+  categories: *id009
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/elastic/cloudbeat
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id009
+  snippet: Analyzing Cloud Security Posture
+  discovery_source: github
+  triage_score: 2
+  metadata:
+    stars: 59
+    language: Go
+    updated_at: '2026-06-26T11:32:01Z'
+- id: github-github-stackql-stackql
+  slug: stackql-stackql
+  name: stackql/stackql
+  type: technology
+  categories: *id009
+  status: new
+  priority: medium
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/stackql/stackql
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id009
+  snippet: Query, provision and operate Cloud, SaaS, API and Model Context Protocol
+    (MCP) resources through a unified SQL-based framework for humans and AI agents.
+  discovery_source: github
+  triage_score: 22
+  metadata:
+    stars: 861
+    language: Go
+    updated_at: '2026-06-25T09:28:56Z'
+- id: github-github-openshield-org-openshield
+  slug: openshield-org-openshield
+  name: openshield-org/openshield
+  type: technology
+  categories: *id009
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/openshield-org/openshield
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id009
+  snippet: Open source CSPM for Azure - scan for misconfigurations and quantum-unsafe
+    cryptography, map findings to CIS/NIST/ISO27001/SOC2, and fix them with one command
+  discovery_source: github
+  triage_score: 18
+  metadata:
+    stars: 54
+    language: Python
+    updated_at: '2026-06-22T00:05:51Z'
+- id: github-github-tocconsulting-awsmap
+  slug: tocconsulting-awsmap
+  name: TocConsulting/awsmap
+  type: technology
+  categories: *id009
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/TocConsulting/awsmap
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id009
+  snippet: A fast, comprehensive tool for mapping and inventorying AWS resources across
+    150+ services and all regions.
+  discovery_source: github
+  triage_score: 2
+  metadata:
+    stars: 94
+    language: Python
+    updated_at: '2026-06-22T19:58:53Z'
+- id: github-github-antgroup-cloudrec
+  slug: antgroup-cloudrec
+  name: antgroup/CloudRec
+  type: technology
+  categories: *id009
+  status: new
+  priority: medium
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/antgroup/CloudRec
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id009
+  snippet: CloudRec is an open source multi-cloud security posture management (CSPM)
+    platform designed to help organizations improve the security of their cloud environments.
+  discovery_source: github
+  triage_score: 20
+  metadata:
+    stars: 186
+    language: Go
+    updated_at: '2026-06-27T16:37:16Z'
+- id: github-github-cogensec-gideon
+  slug: cogensec-gideon
+  name: Cogensec/Gideon
+  type: technology
+  categories: &id010
+  - data_ai
+  - automation_orchestration
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/Cogensec/Gideon
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id010
+  snippet: Open-Source autonomous security operations and red teaming agent built
+    to help defenders investigate threats, analyze vulnerabilities, assess indicators
+    of compromise, generate hardening guidance, and execute security research through
+    an auditable agent workflow.
+  discovery_source: github
+  triage_score: 10
+  metadata:
+    stars: 25
+    language: TypeScript
+    updated_at: '2026-06-25T16:55:14Z'
+- id: github-github-securityclaw-securityclaw
+  slug: securityclaw-securityclaw
+  name: SecurityClaw/SecurityClaw
+  type: technology
+  categories: *id010
+  status: new
+  priority: medium
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/SecurityClaw/SecurityClaw
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id010
+  snippet: A modular, skill-based autonomous Security Operations Center (SOC) agent
+    that monitors OpenSearch/Elasticsearch data, builds RAG-based behavioral memory,
+    and validates real-time anomalies using LLMs.
+  discovery_source: github
+  triage_score: 36
+  metadata:
+    stars: 251
+    language: Python
+    updated_at: '2026-06-25T05:58:18Z'
+- id: github-github-ousher-tia-framework
+  slug: ousher-tia-framework
+  name: ousher/tia-framework
+  type: technology
+  categories: *id010
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/ousher/tia-framework
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id010
+  snippet: Autonomous AI Security Operations — 35 agents replacing $300K/year SOC
+    teams for $50/year
+  discovery_source: github
+  triage_score: 18
+  metadata:
+    stars: 24
+    language: HTML
+    updated_at: '2026-06-09T07:33:44Z'
+- id: github-github-nicholasmagner-autonomous-soc-analyst
+  slug: nicholasmagner-autonomous-soc-analyst
+  name: nicholasmagner/autonomous-soc-analyst
+  type: technology
+  categories: *id010
+  status: new
+  priority: medium
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/nicholasmagner/autonomous-soc-analyst
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id010
+  snippet: Autonomous SOC Analyst (Agentic AI Security Automation)
+  discovery_source: github
+  triage_score: 26
+  metadata:
+    stars: 11
+    language: Python
+    updated_at: '2026-03-29T17:24:23Z'
+- id: hn-washingtonpost-apple-loses-copyright-battle-against-security-startup-corellium
+  slug: apple-loses-copyright-battle-against-security-startup-corellium
+  name: Apple loses copyright battle against security startup Corellium
+  type: startup
+  categories: &id011
+  - detection_response
+  - data_ai
+  status: archived
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.washingtonpost.com/technology/2020/12/29/apple-corellium-lawsuit/
+    tier: A
+    label: Hacker News
+  incumbent_comparison: *id011
+  snippet: ''
+  discovery_source: hackernews
+  triage_score: 0
+  metadata:
+    points: 288
+    num_comments: 58
+- id: hn-reuters-apple-loses-copyright-claims-in-lawsuit-against-u-s-security-bug-startup
+  slug: apple-loses-copyright-claims-in-lawsuit-against-u-s-security-bug-startup
+  name: Apple loses copyright claims in lawsuit against U.S. security bug startup
+  type: startup
+  categories: *id011
+  status: archived
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.reuters.com/article/us-apple-corellium-idUSKBN29320J
+    tier: A
+    label: Hacker News
+  incumbent_comparison: *id011
+  snippet: ''
+  discovery_source: hackernews
+  triage_score: 0
+  metadata:
+    points: 74
+    num_comments: 8
+- id: hn-geektime-google-acquires-israeli-security-startup-slicklogin
+  slug: google-acquires-israeli-security-startup-slicklogin
+  name: Google acquires Israeli security startup SlickLogin
+  type: startup
+  categories: *id011
+  status: archived
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: http://www.geektime.com/2014/02/16/google-acquires-slicklogin/
+    tier: A
+    label: Hacker News
+  incumbent_comparison: *id011
+  snippet: ''
+  discovery_source: hackernews
+  triage_score: 0
+  metadata:
+    points: 64
+    num_comments: 26
+- id: hn-tinfoilsecurity-show-hn-tinfoil-security-security-for-startups-launching-soon
+  slug: show-hn-tinfoil-security-security-for-startups-launching-soon
+  name: 'Show HN: Tinfoil Security -- Security For Startups. Launching soon'
+  type: startup
+  categories: *id011
+  status: archived
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: http://www.tinfoilsecurity.com
+    tier: A
+    label: Hacker News
+  incumbent_comparison: *id011
+  snippet: ''
+  discovery_source: hackernews
+  triage_score: 0
+  metadata:
+    points: 36
+    num_comments: 8
+- id: hn-scanmysite-show-hn-web-startup-security-is-failing-and-we-re-fixing-it
+  slug: show-hn-web-startup-security-is-failing-and-we-re-fixing-it
+  name: 'Show HN: Web startup security is failing and we''re fixing it'
+  type: startup
+  categories: *id011
+  status: archived
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: http://www.scanmysite.net/
+    tier: A
+    label: Hacker News
+  incumbent_comparison: *id011
+  snippet: ''
+  discovery_source: hackernews
+  triage_score: 0
+  metadata:
+    points: 33
+    num_comments: 25
+- id: hn-forbes-darpa-backed-iot-sensing-security-startup-qadium-raises-20m-series-a
+  slug: darpa-backed-iot-sensing-security-startup-qadium-raises-20m-series-a
+  name: DARPA-backed IoT-sensing security startup Qadium raises 20M Series A
+  type: startup
+  categories: *id011
+  status: new
+  priority: medium
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: http://www.forbes.com/sites/thomasbrewster/2016/06/05/qadium-iot-google-security-darpa-cia/
+    tier: A
+    label: Hacker News
+  incumbent_comparison: *id011
+  snippet: ''
+  discovery_source: hackernews
+  triage_score: 43
+  metadata:
+    points: 17
+    num_comments: 1
+- id: hn-news-ask-hn-what-are-the-interesting-security-startups
+  slug: ask-hn-what-are-the-interesting-security-startups
+  name: 'Ask HN: What are the interesting security startups?'
+  type: startup
+  categories: *id011
+  status: archived
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://news.ycombinator.com/item?id=15738523
+    tier: A
+    label: Hacker News
+  incumbent_comparison: *id011
+  snippet: ''
+  discovery_source: hackernews
+  triage_score: 0
+  metadata:
+    points: 16
+    num_comments: 11
+- id: hn-techcrunch-sauron-home-security-startup-plucks-ceo-out-of-sonos
+  slug: sauron-home-security-startup-plucks-ceo-out-of-sonos
+  name: Sauron, home security startup, plucks CEO out of Sonos
+  type: startup
+  categories: *id011
+  status: archived
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://techcrunch.com/2025/12/28/from-sonos-to-sauron-new-ceo-takes-on-high-end-home-security-startup-still-in-development/
+    tier: A
+    label: Hacker News
+  incumbent_comparison: *id011
+  snippet: ''
+  discovery_source: hackernews
+  triage_score: 0
+  metadata:
+    points: 14
+    num_comments: 20
+- id: hn-github-sentinel-enterprise-siem-for-startups-splunk-alternative-free
+  slug: sentinel-enterprise-siem-for-startups-splunk-alternative-free
+  name: Sentinel – Enterprise SIEM for startups (Splunk alternative, free)
+  type: startup
+  categories: &id012
+  - detection_response
+  status: new
+  priority: medium
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/yourusername/sentinel
+    tier: A
+    label: Hacker News
+  incumbent_comparison: *id012
+  snippet: ''
+  discovery_source: hackernews
+  triage_score: 44
+  metadata:
+    points: 3
+    num_comments: 4
+- id: hn-canopycanopycanopy-decentralized-autonomous-society
+  slug: decentralized-autonomous-society
+  name: Decentralized Autonomous Society
+  type: technology
+  categories: &id013
+  - data_ai
+  - automation_orchestration
+  status: archived
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: http://www.canopycanopycanopy.com/contents/decentralized-autonomous-society-transcript
+    tier: A
+    label: Hacker News
+  incumbent_comparison: *id013
+  snippet: ''
+  discovery_source: hackernews
+  triage_score: 0
+  metadata:
+    points: 4
+    num_comments: 0
+- id: hn-en-volga-german-autonomous-soviet-socialist-republic
+  slug: volga-german-autonomous-soviet-socialist-republic
+  name: Volga German Autonomous Soviet Socialist Republic
+  type: technology
+  categories: *id013
+  status: archived
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://en.wikipedia.org/wiki/Volga_German_Autonomous_Soviet_Socialist_Republic
+    tier: A
+    label: Hacker News
+  incumbent_comparison: *id013
+  snippet: ''
+  discovery_source: hackernews
+  triage_score: 0
+  metadata:
+    points: 3
+    num_comments: 0
+- id: hn-venturebeat-devo-technology-announces-100m-in-funding-to-develop-autonomous-soc
+  slug: devo-technology-announces-100m-in-funding-to-develop-autonomous-soc
+  name: Devo Technology announces $100M in funding to develop ‘autonomous SoC’
+  type: startup
+  categories: *id013
+  status: new
+  priority: high
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://venturebeat.com/2022/06/02/devo-technology-attack-surface/
+    tier: A
+    label: Hacker News
+  incumbent_comparison: *id013
+  snippet: ''
+  discovery_source: hackernews
+  triage_score: 59
+  metadata:
+    points: 1
+    num_comments: 1
+- id: hn-raeng-autonomous-systems-social-legal-and-ethical-issues
+  slug: autonomous-systems-social-legal-and-ethical-issues
+  name: 'Autonomous Systems: social, legal and ethical issues'
+  type: technology
+  categories: *id013
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: http://www.raeng.org.uk/news/releases/shownews.htm?NewsID=511
+    tier: A
+    label: Hacker News
+  incumbent_comparison: *id013
+  snippet: ''
+  discovery_source: hackernews
+  triage_score: 11
+  metadata:
+    points: 1
+    num_comments: 0
+- id: hn-motherboard-driving-is-social-autonomous-cars-aren-t-argues-computer-scientist
+  slug: driving-is-social-autonomous-cars-aren-t-argues-computer-scientist
+  name: Driving Is Social. Autonomous Cars Aren't, Argues Computer Scientist
+  type: technology
+  categories: *id013
+  status: archived
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://motherboard.vice.com/en_us/article/driving-is-social-autonomous-cars-arent-argues-computer-scientist
+    tier: A
+    label: Hacker News
+  incumbent_comparison: *id013
+  snippet: ''
+  discovery_source: hackernews
+  triage_score: 0
+  metadata:
+    points: 2
+    num_comments: 0
+- id: hn-youtube-show-hn-autonomous-ai-agent-societies-game-demo-video
+  slug: show-hn-autonomous-ai-agent-societies-game-demo-video
+  name: 'Show HN: Autonomous AI Agent Societies Game Demo [video]'
+  type: technology
+  categories: *id013
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.youtube.com/watch?v=-Eyae2dl0IA
+    tier: A
+    label: Hacker News
+  incumbent_comparison: *id013
+  snippet: ''
+  discovery_source: hackernews
+  triage_score: 11
+  metadata:
+    points: 4
+    num_comments: 0
+- id: hn-bair-autonomous-vehicles-for-social-good-learning-to-solve-congestion
+  slug: autonomous-vehicles-for-social-good-learning-to-solve-congestion
+  name: 'Autonomous Vehicles for Social Good: Learning to Solve Congestion'
+  type: technology
+  categories: *id013
+  status: archived
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://bair.berkeley.edu/blog/2019/06/03/benchmarks/
+    tier: A
+    label: Hacker News
+  incumbent_comparison: *id013
+  snippet: ''
+  discovery_source: hackernews
+  triage_score: 0
+  metadata:
+    points: 3
+    num_comments: 1
+- id: hn-pcworld-make-your-own-socially-awkward-autonomous-flying-robot
+  slug: make-your-own-socially-awkward-autonomous-flying-robot
+  name: Make your own Socially Awkward Autonomous Flying Robot
+  type: technology
+  categories: *id013
+  status: archived
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: http://www.pcworld.com/article/228122/Socially_Awkward_Blimp_Stalks_People_isnt_as_creepy_as_it_sounds.html
+    tier: A
+    label: Hacker News
+  incumbent_comparison: *id013
+  snippet: ''
+  discovery_source: hackernews
+  triage_score: 0
+  metadata:
+    points: 2
+    num_comments: 0
+- id: hn-github-autogpt-social-an-autonomous-instagram-bot-to-automate-your-social-campaigns
+  slug: autogpt-social-an-autonomous-instagram-bot-to-automate-your-social-campaigns
+  name: AutoGPT-Social, an autonomous Instagram bot to automate your social campaigns
+  type: technology
+  categories: *id013
+  status: archived
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/WillReynolds5/AutoGPT-Social
+    tier: A
+    label: Hacker News
+  incumbent_comparison: *id013
+  snippet: ''
+  discovery_source: hackernews
+  triage_score: 0
+  metadata:
+    points: 1
+    num_comments: 0
+- id: hn-reuters-cyber-technology-shares-soar-as-security-attacks-pile-up
+  slug: cyber-technology-shares-soar-as-security-attacks-pile-up
+  name: Cyber technology shares soar as security attacks pile up
+  type: technology
+  categories: &id014
+  - automation_orchestration
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.reuters.com/article/us-usa-stocks-cyber/cyber-technology-shares-soar-as-security-attacks-pile-up-idUSKBN28S2TU
+    tier: A
+    label: Hacker News
+  incumbent_comparison: *id014
+  snippet: ''
+  discovery_source: hackernews
+  triage_score: 11
+  metadata:
+    points: 3
+    num_comments: 0
+- id: hn-thenewstack-kubernetes-security-in-2023-adoption-soars-security-lags
+  slug: kubernetes-security-in-2023-adoption-soars-security-lags
+  name: 'Kubernetes Security in 2023: Adoption Soars, Security Lags'
+  type: technology
+  categories: *id014
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://thenewstack.io/kubernetes-security-in-2023-adoption-soars-security-lags/
+    tier: A
+    label: Hacker News
+  incumbent_comparison: *id014
+  snippet: ''
+  discovery_source: hackernews
+  triage_score: 11
+  metadata:
+    points: 1
+    num_comments: 0
+- id: hn-github-show-hn-tracecat-open-source-security-alert-automation-soar-alternative
+  slug: show-hn-tracecat-open-source-security-alert-automation-soar-alternative
+  name: 'Show HN: Tracecat – Open-source security alert automation / SOAR alternative'
+  type: technology
+  categories: *id014
+  status: new
+  priority: medium
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/TracecatHQ/tracecat
+    tier: A
+    label: Hacker News
+  incumbent_comparison: *id014
+  snippet: ''
+  discovery_source: hackernews
+  triage_score: 21
+  metadata:
+    points: 264
+    num_comments: 65
+- id: hn-techcrunch-fireeye-shares-jump-16-points-in-first-day-of-public-trading
+  slug: fireeye-shares-jump-16-points-in-first-day-of-public-trading
+  name: FireEye Shares Jump 16 Points In First Day Of Public Trading
+  type: technology
+  categories: *id014
+  status: archived
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: http://techcrunch.com/2013/09/21/fireeye-shares-jump-16-points-in-first-day-of-public-trading-and-raises-304m-as-interest-soars-for-security-companies/
+    tier: A
+    label: Hacker News
+  incumbent_comparison: *id014
+  snippet: ''
+  discovery_source: hackernews
+  triage_score: 0
+  metadata:
+    points: 1
+    num_comments: 0
+- id: hn-logichub-overcoming-soar-hurdles-with-security-automation-on-demand
+  slug: overcoming-soar-hurdles-with-security-automation-on-demand
+  name: Overcoming SOAR Hurdles with Security Automation on Demand
+  type: technology
+  categories: *id014
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.logichub.com/blog/overcoming-soar-hurdles-security-automation-demand
+    tier: A
+    label: Hacker News
+  incumbent_comparison: *id014
+  snippet: ''
+  discovery_source: hackernews
+  triage_score: 11
+  metadata:
+    points: 1
+    num_comments: 0
+- id: hn-positive-urlscan-io-s-soar-spot-chatty-security-tools-leaking-private-data
+  slug: urlscan-io-s-soar-spot-chatty-security-tools-leaking-private-data
+  name: 'Urlscan.io’s SOAR spot: Chatty security tools leaking private data'
+  type: technology
+  categories: *id014
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://positive.security/blog/urlscan-data-leaks
+    tier: A
+    label: Hacker News
+  incumbent_comparison: *id014
+  snippet: ''
+  discovery_source: hackernews
+  triage_score: 16
+  metadata:
+    points: 65
+    num_comments: 7
+- id: hn-bloomberg-security-stocks-soar
+  slug: security-stocks-soar
+  name: Security stocks soar
+  type: technology
+  categories: *id014
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: http://www.bloomberg.com/news/articles/2015-07-08/cyber-security-stocks-surged-on-the-back-of-the-big-nyse-trading-halt
+    tier: A
+    label: Hacker News
+  incumbent_comparison: *id014
+  snippet: ''
+  discovery_source: hackernews
+  triage_score: 11
+  metadata:
+    points: 3
+    num_comments: 0
+- id: hn-theglobeandmail-it-security-breaches-soar-in-2009
+  slug: it-security-breaches-soar-in-2009
+  name: 'IT security breaches soar in 2009 '
+  type: technology
+  categories: *id014
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: http://www.theglobeandmail.com/news/technology/it-security-breaches-soar-in-2009/article1305011/
+    tier: A
+    label: Hacker News
+  incumbent_comparison: *id014
+  snippet: ''
+  discovery_source: hackernews
+  triage_score: 11
+  metadata:
+    points: 1
+    num_comments: 0
+- id: hn-vin01-you-cannot-simply-publicly-access-private-secure-links-can-you
+  slug: you-cannot-simply-publicly-access-private-secure-links-can-you
+  name: You cannot simply publicly access private secure links, can you?
+  type: technology
+  categories: *id014
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://vin01.github.io/piptagole/security-tools/soar/urlscan/hybrid-analysis/data-leaks/urlscan.io/cloudflare-radar%22/2024/03/07/url-database-leaks-private-urls.html
+    tier: A
+    label: Hacker News
+  incumbent_comparison: *id014
+  snippet: ''
+  discovery_source: hackernews
+  triage_score: 13
+  metadata:
+    points: 420
+    num_comments: 218
+- id: hn-mekinpesen-soar-fiction-the-playbooks
+  slug: soar-fiction-the-playbooks
+  name: 'Soar Fiction: The Playbooks'
+  type: technology
+  categories: *id014
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.mekinpesen.com/security-monitoring/soar-fiction-the-playbooks/
+    tier: A
+    label: Hacker News
+  incumbent_comparison: *id014
+  snippet: ''
+  discovery_source: hackernews
+  triage_score: 11
+  metadata:
+    points: 2
+    num_comments: 0
