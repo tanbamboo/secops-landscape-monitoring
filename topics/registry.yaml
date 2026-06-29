@@ -612,10 +612,10 @@ topics:
   name: Chrome Ad Blocker with 10M+ Installs Found with Dormant Script Injection Capability
   type: startup
   categories: *id002
-  status: new
+  status: published
   priority: medium
   discovered_at: '2026-06-29'
-  last_researched_at: null
+  last_researched_at: '2026-06-29'
   sources:
   - url: https://thehackernews.com/2026/06/chrome-ad-blocker-with-10m-installs.html
     tier: A
@@ -1178,10 +1178,10 @@ topics:
   name: Shuffle/Shuffle
   type: technology
   categories: *id005
-  status: new
+  status: published
   priority: medium
   discovered_at: '2026-06-29'
-  last_researched_at: null
+  last_researched_at: '2026-06-29'
   sources:
   - url: https://github.com/Shuffle/Shuffle
     tier: B
@@ -1623,10 +1623,10 @@ topics:
   name: benscha/KQLAdvancedHunting
   type: technology
   categories: *id007
-  status: new
+  status: published
   priority: medium
   discovered_at: '2026-06-29'
-  last_researched_at: null
+  last_researched_at: '2026-06-29'
   sources:
   - url: https://github.com/benscha/KQLAdvancedHunting
     tier: B
@@ -1801,10 +1801,10 @@ topics:
   type: technology
   categories: &id009
   - cloud_identity
-  status: new
+  status: published
   priority: medium
   discovered_at: '2026-06-29'
-  last_researched_at: null
+  last_researched_at: '2026-06-29'
   sources:
   - url: https://github.com/prowler-cloud/prowler
     tier: B
@@ -1823,10 +1823,10 @@ topics:
   name: cloudquery/cloudquery
   type: technology
   categories: *id009
-  status: new
+  status: published
   priority: medium
   discovered_at: '2026-06-29'
-  last_researched_at: null
+  last_researched_at: '2026-06-29'
   sources:
   - url: https://github.com/cloudquery/cloudquery
     tier: B
@@ -2272,10 +2272,10 @@ topics:
   name: Devo Technology announces $100M in funding to develop ‘autonomous SoC’
   type: startup
   categories: *id013
-  status: new
+  status: published
   priority: high
   discovered_at: '2026-06-29'
-  last_researched_at: null
+  last_researched_at: '2026-06-29'
   sources:
   - url: https://venturebeat.com/2022/06/02/devo-technology-attack-surface/
     tier: A
@@ -2667,3 +2667,3726 @@ topics:
   snippet: This also means that there are plenty of B2B companies that could be potential
     acquirers of security startups
   discovery_source: rss
+- id: github-github-backbay-labs-clawdstrike
+  slug: backbay-labs-clawdstrike
+  name: backbay-labs/clawdstrike
+  type: technology
+  categories: &id018
+  - detection_response
+  status: new
+  priority: medium
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/backbay-labs/clawdstrike
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id018
+  snippet: AI EDR for developer workstations and autonomous agent fleets. Build Swarm
+    Detection & Response platforms with Clawdstrike.
+  discovery_source: github
+  triage_score: 28
+  metadata:
+    stars: 284
+    language: TypeScript
+    updated_at: '2026-06-29T04:40:55Z'
+- id: github-github-blackorbird-apt-report
+  slug: blackorbird-apt-report
+  name: blackorbird/APT_REPORT
+  type: technology
+  categories: *id018
+  status: new
+  priority: medium
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/blackorbird/APT_REPORT
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id018
+  snippet: Interesting APT Report Collection And Some Special IOCs
+  discovery_source: github
+  triage_score: 32
+  metadata:
+    stars: 3013
+    language: Python
+    updated_at: '2026-06-29T05:18:09Z'
+- id: github-github-f-bader-defenderandsentinelqueries
+  slug: f-bader-defenderandsentinelqueries
+  name: f-bader/DefenderAndSentinelQueries
+  type: technology
+  categories: *id018
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/f-bader/DefenderAndSentinelQueries
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id018
+  snippet: Repository with Sentinel Analytics Rules, Hunting Queries and helpful external
+    data sources.
+  discovery_source: github
+  triage_score: 12
+  metadata:
+    stars: 148
+    language: Bicep
+    updated_at: '2026-06-29T03:09:51Z'
+- id: github-github-crucible-security-crucible
+  slug: crucible-security-crucible
+  name: crucible-security/crucible
+  type: technology
+  categories: &id019
+  - data_ai
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/crucible-security/crucible
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id019
+  snippet: pytest for AI agents - Autonomous red-teaming, behavioral monitoring &
+    security testing for LLM agents
+  discovery_source: github
+  triage_score: 10
+  metadata:
+    stars: 44
+    language: Python
+    updated_at: '2026-06-29T06:01:04Z'
+- id: github-github-melandlabs-openloomi
+  slug: melandlabs-openloomi
+  name: melandlabs/openloomi
+  type: technology
+  categories: *id019
+  status: new
+  priority: medium
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/melandlabs/openloomi
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id019
+  snippet: Openloomi is your open-source proactive AI Mates that remembers all work
+    details.
+  discovery_source: github
+  triage_score: 22
+  metadata:
+    stars: 536
+    language: TypeScript
+    updated_at: '2026-06-29T06:00:45Z'
+- id: github-github-msaad00-agent-bom
+  slug: msaad00-agent-bom
+  name: msaad00/agent-bom
+  type: technology
+  categories: *id019
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/msaad00/agent-bom
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id019
+  snippet: AI supply-chain & cloud security scanner and self-hosted control plane
+    — agents, MCP, packages, cloud estate, non-human identities, and LLM cost. SBOM/SARIF,
+    graph attack-paths, runtime enforcement, and compliance evidence.
+  discovery_source: github
+  triage_score: 10
+  metadata:
+    stars: 23
+    language: Python
+    updated_at: '2026-06-29T05:53:47Z'
+- id: github-github-0xsteph-pentest-ai
+  slug: 0xsteph-pentest-ai
+  name: 0xSteph/pentest-ai
+  type: technology
+  categories: *id019
+  status: new
+  priority: medium
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/0xSteph/pentest-ai
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id019
+  snippet: Offensive-security MCP server with 205 wrapped tools, 17 specialist agents,
+    and 60 SPA-aware probes for OWASP Top 10. CLI + MCP, BYO LLM. No API key needed
+    on MCP path.
+  discovery_source: github
+  triage_score: 40
+  metadata:
+    stars: 1139
+    language: Python
+    updated_at: '2026-06-29T05:26:53Z'
+- id: github-github-affaan-m-ecc
+  slug: affaan-m-ecc
+  name: affaan-m/ECC
+  type: technology
+  categories: *id019
+  status: new
+  priority: medium
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/affaan-m/ECC
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id019
+  snippet: The agent harness performance optimization system. Skills, instincts, memory,
+    security, and research-first development for Claude Code, Codex, Opencode, Cursor
+    and beyond.
+  discovery_source: github
+  triage_score: 32
+  metadata:
+    stars: 223165
+    language: JavaScript
+    updated_at: '2026-06-29T05:58:48Z'
+- id: github-github-lud1161-agentjail
+  slug: lud1161-agentjail
+  name: LuD1161/agentjail
+  type: technology
+  categories: *id019
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/LuD1161/agentjail
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id019
+  snippet: Policy guardrails for coding agents (Claude Code, Codex, Cursor) — every
+    tool call is checked locally, before it runs.
+  discovery_source: github
+  triage_score: 2
+  metadata:
+    stars: 21
+    language: Go
+    updated_at: '2026-06-29T05:34:24Z'
+- id: github-github-nextlevelbuilder-goclaw
+  slug: nextlevelbuilder-goclaw
+  name: nextlevelbuilder/goclaw
+  type: technology
+  categories: *id019
+  status: new
+  priority: medium
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/nextlevelbuilder/goclaw
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id019
+  snippet: GoClaw - GoClaw is OpenClaw rebuilt in Go — with multi-tenant isolation,
+    5-layer security, and native concurrency. Deploy AI agent teams at scale without
+    compromising on safety.
+  discovery_source: github
+  triage_score: 32
+  metadata:
+    stars: 3357
+    language: Go
+    updated_at: '2026-06-29T05:52:21Z'
+- id: github-github-yonatangross-orchestkit
+  slug: yonatangross-orchestkit
+  name: yonatangross/orchestkit
+  type: technology
+  categories: *id019
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/yonatangross/orchestkit
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id019
+  snippet: The Complete AI Development Toolkit for Claude Code — 113 skills, 37 agents,
+    212 hooks. Production-ready patterns for full-stack development.
+  discovery_source: github
+  triage_score: 12
+  metadata:
+    stars: 193
+    language: TypeScript
+    updated_at: '2026-06-29T04:28:42Z'
+- id: github-github-ott-cybersecurity-llc-lyrie-ai
+  slug: ott-cybersecurity-llc-lyrie-ai
+  name: OTT-Cybersecurity-LLC/lyrie-ai
+  type: technology
+  categories: *id019
+  status: new
+  priority: medium
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/OTT-Cybersecurity-LLC/lyrie-ai
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id019
+  snippet: Lyrie.ai — The world's first autonomous AI cybersecurity agent. Built by
+    OTT Cybersecurity LLC.
+  discovery_source: github
+  triage_score: 20
+  metadata:
+    stars: 364
+    language: TypeScript
+    updated_at: '2026-06-29T05:06:41Z'
+- id: hn-news-launch-hn-matano-yc-w23-open-source-security-lake-platform-siem-for-aws
+  slug: launch-hn-matano-yc-w23-open-source-security-lake-platform-siem-for-aws
+  name: 'Launch HN: Matano (YC W23) – Open-Source Security Lake Platform (SIEM) for
+    AWS'
+  type: technology
+  categories: &id020
+  - detection_response
+  status: new
+  priority: medium
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://news.ycombinator.com/item?id=34505603
+    tier: A
+    label: Hacker News
+  incumbent_comparison: *id020
+  snippet: ''
+  discovery_source: hackernews
+  triage_score: 21
+  metadata:
+    points: 140
+    num_comments: 53
+- id: rss-thehackernews-hijacked-npm-and-go-packages-use-vs-code-tasks-to-deploy-python-infostealer
+  slug: hijacked-npm-and-go-packages-use-vs-code-tasks-to-deploy-python-infostealer
+  name: Hijacked npm and Go Packages Use VS Code Tasks to Deploy Python Infostealer
+  type: technology
+  categories: &id021
+  - detection_response
+  - vuln_exposure
+  - cloud_identity
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://thehackernews.com/2026/06/hijacked-npm-and-go-packages-use-vs.html
+    tier: A
+    label: The Hacker News
+  incumbent_comparison: *id021
+  snippet: 'Cybersecurity researchers have uncovered two hijacked npm packages and
+    a cluster of Go packages that are designed to deploy a Python-based information
+    stealer on compromised Windows, Linux, and macOS hosts.
+
+
+    "This attack avoids the most common npm execution paths through lifecycle scripts,
+    perhaps in an attempt to remain ''compatible'' with npm v12''s security hardenings,"
+    JFrog said in a'
+  discovery_source: rss
+  triage_score: 16
+- id: rss-isc-stormcast-for-monday-june-29th-2026-https-isc-sans-edu-podcastdetail-9986-mo
+  slug: isc-stormcast-for-monday-june-29th-2026-https-isc-sans-edu-podcastdetail-9986-mo
+  name: ISC Stormcast For Monday, June 29th, 2026 https://isc.sans.edu/podcastdetail/9986,
+    (Mon, Jun 29th)
+  type: technology
+  categories: &id022
+  - detection_response
+  - automation_orchestration
+  - vuln_exposure
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://isc.sans.edu/diary/rss/33108
+    tier: A
+    label: SANS ISC Handler's Diary
+  incumbent_comparison: *id022
+  snippet: (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial
+    3.0 United States License.
+  discovery_source: rss
+  triage_score: 8
+- id: rss-isc-yara-x-1-18-0-and-1-19-0-release-sun-jun-28th
+  slug: yara-x-1-18-0-and-1-19-0-release-sun-jun-28th
+  name: YARA-X 1.18.0 and 1.19.0 Release, (Sun, Jun 28th)
+  type: technology
+  categories: *id022
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://isc.sans.edu/diary/rss/33106
+    tier: A
+    label: SANS ISC Handler's Diary
+  incumbent_comparison: *id022
+  snippet: YARA-X&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;s 1.18.0 release brings 3
+    improvements and 2 bugfixes.&#xd;
+  discovery_source: rss
+  triage_score: 8
+- id: rss-isc-what-do-ports-hear-when-nobody-s-listening-x3f-an-assessment-of-automated-cyberc
+  slug: what-do-ports-hear-when-nobody-s-listening-x3f-an-assessment-of-automated-cyberc
+  name: What do Ports Hear When Nobody's Listening&#x3f; An Assessment of Automated
+    Cybercrime &#x5b;Guest Diary&#x5d;, (Wed, Jun 24th)
+  type: technology
+  categories: *id022
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://isc.sans.edu/diary/rss/33104
+    tier: A
+    label: SANS ISC Handler's Diary
+  incumbent_comparison: *id022
+  snippet: '&#x5b;This is a Guest Diary by Nicole Phillips, an ISC intern as part
+    of the SANS.edu BACS program&#x5d;&#xd;'
+  discovery_source: rss
+  triage_score: 8
+- id: rss-isc-linux-process-name-masquerading-wed-jun-24th
+  slug: linux-process-name-masquerading-wed-jun-24th
+  name: Linux Process Name Masquerading, (Wed, Jun 24th)
+  type: technology
+  categories: *id022
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://isc.sans.edu/diary/rss/33102
+    tier: A
+    label: SANS ISC Handler's Diary
+  incumbent_comparison: *id022
+  snippet: In a previous diary, I talked about stack strings&&#x23&#x3b;x26&#x3b;&#x23&#x3b;x5b&#x3b;<a
+    href="https://isc.sans.edu/diary/An&amp;&amp;#x23&#x3b;x26&#x3b;&amp;#x23&#x3b;x2b&#x3b;Example&amp;&amp;#x23&#x3b;x26&#x3b;&amp;#x23&#x3b;x2b&#x3b;of&amp;&amp;#x23&#x3b;x26&#x3b;&amp;#x23&#x3b;x2b&#x3b;Stack&amp;&amp;#x23&#x3b;x26&#x3b;&amp;#x23&#x3b;x2b&#x3b;String&amp;&amp;#x23&#x3b;x26&#x3b;&amp;#x23&#x3b;x2b&#x3b;in&amp;&amp;#x23&#x3b;x26&#x3b;&amp;#x23&#x3b;x2b&#x3b;High&amp;&amp;#x23&#x3b;x26&#
+  discovery_source: rss
+  triage_score: 8
+- id: rss-isc-stormcast-for-wednesday-june-24th-2026-https-isc-sans-edu-podcastdetail-9984
+  slug: isc-stormcast-for-wednesday-june-24th-2026-https-isc-sans-edu-podcastdetail-9984
+  name: ISC Stormcast For Wednesday, June 24th, 2026 https://isc.sans.edu/podcastdetail/9984,
+    (Wed, Jun 24th)
+  type: technology
+  categories: *id022
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://isc.sans.edu/diary/rss/33100
+    tier: A
+    label: SANS ISC Handler's Diary
+  incumbent_comparison: *id022
+  snippet: (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial
+    3.0 United States License.
+  discovery_source: rss
+  triage_score: 8
+- id: rss-isc-cve-2024-40766-the-patch-fixed-the-bug-nobody-fixed-the-configuration-tue-jun-23
+  slug: cve-2024-40766-the-patch-fixed-the-bug-nobody-fixed-the-configuration-tue-jun-23
+  name: 'CVE-2024-40766: The Patch Fixed the Bug. Nobody Fixed the Configuration.,
+    (Tue, Jun 23rd)'
+  type: technology
+  categories: *id022
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://isc.sans.edu/diary/rss/33094
+    tier: A
+    label: SANS ISC Handler's Diary
+  incumbent_comparison: *id022
+  snippet: The vulnerability&#xd;
+  discovery_source: rss
+  triage_score: 16
+- id: rss-isc-stormcast-for-tuesday-june-23rd-2026-https-isc-sans-edu-podcastdetail-9982-t
+  slug: isc-stormcast-for-tuesday-june-23rd-2026-https-isc-sans-edu-podcastdetail-9982-t
+  name: ISC Stormcast For Tuesday, June 23rd, 2026 https://isc.sans.edu/podcastdetail/9982,
+    (Tue, Jun 23rd)
+  type: technology
+  categories: *id022
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://isc.sans.edu/diary/rss/33098
+    tier: A
+    label: SANS ISC Handler's Diary
+  incumbent_comparison: *id022
+  snippet: (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial
+    3.0 United States License.
+  discovery_source: rss
+  triage_score: 8
+- id: rss-isc-webshells-remain-popular-mon-jun-22nd
+  slug: webshells-remain-popular-mon-jun-22nd
+  name: Webshells Remain Popular, (Mon, Jun 22nd)
+  type: technology
+  categories: *id022
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://isc.sans.edu/diary/rss/33096
+    tier: A
+    label: SANS ISC Handler's Diary
+  incumbent_comparison: *id022
+  snippet: Webshells have been popular for a long time. We already covered this topic
+    across multiple diaries&#x5b;1&#x5d;&#x5b;2&#x5d;. I spent some time to track
+    them&#x5b;3&#x5d;
+  discovery_source: rss
+  triage_score: 8
+- id: rss-isc-stormcast-for-monday-june-22nd-2026-https-isc-sans-edu-podcastdetail-9980-mo
+  slug: isc-stormcast-for-monday-june-22nd-2026-https-isc-sans-edu-podcastdetail-9980-mo
+  name: ISC Stormcast For Monday, June 22nd, 2026 https://isc.sans.edu/podcastdetail/9980,
+    (Mon, Jun 22nd)
+  type: technology
+  categories: *id022
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://isc.sans.edu/diary/rss/33092
+    tier: A
+    label: SANS ISC Handler's Diary
+  incumbent_comparison: *id022
+  snippet: (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial
+    3.0 United States License.
+  discovery_source: rss
+  triage_score: 8
+- id: rss-isc-ebanking-phishing-delivered-through-ipv4-mapped-ipv6-address-fri-jun-19th
+  slug: ebanking-phishing-delivered-through-ipv4-mapped-ipv6-address-fri-jun-19th
+  name: eBanking Phishing Delivered Through IPv4-Mapped IPv6 Address, (Fri, Jun 19th)
+  type: technology
+  categories: *id022
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://isc.sans.edu/diary/rss/33090
+    tier: A
+    label: SANS ISC Handler's Diary
+  incumbent_comparison: *id022
+  snippet: I detected an interesting phishing email this morning. It targets a major
+    Belgian bank:&#xd;
+  discovery_source: rss
+  triage_score: 8
+- id: rss-detectionengineering-dew-160-quant-detection-engineering-fable-and-mythos-banned-detections-for-
+  slug: dew-160-quant-detection-engineering-fable-and-mythos-banned-detections-for-claud
+  name: 'DEW #160 - Quant + Detection Engineering, Fable and Mythos banned & Detections
+    for Claude Compliance API'
+  type: technology
+  categories: &id023
+  - detection_response
+  - automation_orchestration
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.detectionengineering.net/p/dew-160-quant-detection-engineering
+    tier: A
+    label: Detection Engineering Weekly (Substack)
+  incumbent_comparison: *id023
+  snippet: gimme the (detection) loot
+  discovery_source: rss
+  triage_score: 16
+- id: rss-detectionengineering-dew-159-synthetic-logs-for-detection-device-code-phishing-detection-mythos-
+  slug: dew-159-synthetic-logs-for-detection-device-code-phishing-detection-mythos-5-rel
+  name: 'DEW #159 - Synthetic Logs for Detection, Device Code Phishing Detection &
+    Mythos 5 release'
+  type: technology
+  categories: *id023
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.detectionengineering.net/p/dew-159-synthetic-logs-for-detection
+    tier: A
+    label: Detection Engineering Weekly (Substack)
+  incumbent_comparison: *id023
+  snippet: 'Welcome to Issue #159 of Detection Engineering Weekly!'
+  discovery_source: rss
+  triage_score: 16
+- id: rss-detectionengineering-dew-158-perplexity-open-sources-their-bumblebee-tool-project-glasswing-upda
+  slug: dew-158-perplexity-open-sources-their-bumblebee-tool-project-glasswing-update-a-
+  name: 'DEW #158 - Perplexity open sources their Bumblebee tool, Project Glasswing
+    Update & A history lesson in residential proxies'
+  type: technology
+  categories: *id023
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.detectionengineering.net/p/dew-158-perplexity-open-sources-their
+    tier: A
+    label: Detection Engineering Weekly (Substack)
+  incumbent_comparison: *id023
+  snippet: also im hiring so come apply!
+  discovery_source: rss
+  triage_score: 8
+- id: rss-detectionengineering-dew-157-shai-hulud-goes-open-source-how-anthropic-uses-claude-and-undergrou
+  slug: dew-157-shai-hulud-goes-open-source-how-anthropic-uses-claude-and-underground-in
+  name: 'DEW #157 - Shai Hulud Goes Open Source, How Anthropic uses Claude and Underground
+    Internet Cables'
+  type: technology
+  categories: *id023
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.detectionengineering.net/p/dew-157-shai-hulud-goes-open-source
+    tier: A
+    label: Detection Engineering Weekly (Substack)
+  incumbent_comparison: *id023
+  snippet: Do keystone jacks work a mile under the sea?
+  discovery_source: rss
+  triage_score: 8
+- id: rss-detectionengineering-dew-156-putting-detection-coverage-on-blast-soc-metrics-stink-and-the-decli
+  slug: dew-156-putting-detection-coverage-on-blast-soc-metrics-stink-and-the-decline-of
+  name: 'DEW #156 - Putting Detection Coverage on Blast, SOC Metrics Stink and the
+    decline of cool Windows Malware'
+  type: technology
+  categories: *id023
+  status: new
+  priority: medium
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.detectionengineering.net/p/dew-156-putting-detection-coverage
+    tier: A
+    label: Detection Engineering Weekly (Substack)
+  incumbent_comparison: *id023
+  snippet: Long car rides make me question everything in security
+  discovery_source: rss
+  triage_score: 24
+- id: rss-detectionengineering-dew-155-gems-from-the-2026-trenches
+  slug: dew-155-gems-from-the-2026-trenches
+  name: 'DEW #155 - Gems from the 2026 Trenches'
+  type: technology
+  categories: *id023
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.detectionengineering.net/p/dew-155-gems-from-the-2026-trenches
+    tier: A
+    label: Detection Engineering Weekly (Substack)
+  incumbent_comparison: *id023
+  snippet: A lookback on my favorite gems :)
+  discovery_source: rss
+  triage_score: 8
+- id: rss-detectionengineering-dew-154-mythos-firefox-hype-rsigma-gets-an-uplift-detection-as-code-is-over
+  slug: dew-154-mythos-firefox-hype-rsigma-gets-an-uplift-detection-as-code-is-overrated
+  name: 'DEW #154 - Mythos <> Firefox hype, RSigma gets an uplift, Detection-as-Code
+    is overrated and TeamPCP Strikes Again'
+  type: technology
+  categories: *id023
+  status: new
+  priority: medium
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.detectionengineering.net/p/dew-154-mythos-firefox-hype-rsigma
+    tier: A
+    label: Detection Engineering Weekly (Substack)
+  incumbent_comparison: *id023
+  snippet: 'Welcome to Issue #154 of Detection Engineering Weekly!'
+  discovery_source: rss
+  triage_score: 24
+- id: rss-detectionengineering-dew-153-new-ipv8-draft-macos-threat-detection-llm-evals-canaries-in-your-ci
+  slug: dew-153-new-ipv8-draft-macos-threat-detection-llm-evals-canaries-in-your-ci-cd-p
+  name: 'DEW #153 - New IPv8 Draft, macOS Threat Detection LLM Evals & Canaries in
+    your CI/CD Pipeline'
+  type: technology
+  categories: *id023
+  status: new
+  priority: medium
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.detectionengineering.net/p/dew-153-new-ipv8-draft-macos-threat
+    tier: A
+    label: Detection Engineering Weekly (Substack)
+  incumbent_comparison: *id023
+  snippet: Never ask the IETF about odd numbers in versioning
+  discovery_source: rss
+  triage_score: 24
+- id: rss-detectionengineering-dew-152-celebrating-gaps-in-detection-coverage-threat-hunting-on-teams-open
+  slug: dew-152-celebrating-gaps-in-detection-coverage-threat-hunting-on-teams-openai-ax
+  name: 'DEW #152 - Celebrating Gaps in Detection Coverage, Threat Hunting on Teams
+    & OpenAI Axios post-mortem'
+  type: technology
+  categories: *id023
+  status: new
+  priority: medium
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.detectionengineering.net/p/dew-152-celebrating-gaps-in-detection
+    tier: A
+    label: Detection Engineering Weekly (Substack)
+  incumbent_comparison: *id023
+  snippet: rain rain go away~
+  discovery_source: rss
+  triage_score: 24
+- id: rss-detectionengineering-dew-151-the-security-cognitive-rust-belt-music-streaming-fraud-the-axios-in
+  slug: dew-151-the-security-cognitive-rust-belt-music-streaming-fraud-the-axios-inciden
+  name: 'DEW #151 - The Security Cognitive Rust Belt, Music Streaming Fraud & the
+    Axios Incident Post-Mortem'
+  type: technology
+  categories: *id023
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.detectionengineering.net/p/dew-151-the-security-cognitive-rust
+    tier: A
+    label: Detection Engineering Weekly (Substack)
+  incumbent_comparison: *id023
+  snippet: And the Sabres make the playoffs :3
+  discovery_source: rss
+  triage_score: 8
+- id: rss-detectionengineering-dew-150-macos-endpoint-security-firewall-edr-telemetry-updates-supply-chain
+  slug: dew-150-macos-endpoint-security-firewall-edr-telemetry-updates-supply-chain-bona
+  name: 'DEW #150 - macOS Endpoint Security Firewall, EDR telemetry updates & Supply
+    Chain Bonanza'
+  type: technology
+  categories: *id023
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.detectionengineering.net/p/dew-150-macos-endpoint-security-firewall
+    tier: A
+    label: Detection Engineering Weekly (Substack)
+  incumbent_comparison: *id023
+  snippet: pls no more OSS compromises
+  discovery_source: rss
+  triage_score: 16
+- id: rss-detectionengineering-dew-149-roll-your-own-sigma-siem-stryker-breach-and-new-branding
+  slug: dew-149-roll-your-own-sigma-siem-stryker-breach-and-new-branding
+  name: 'DEW #149 - Roll your own Sigma SIEM, Stryker Breach and New Branding!'
+  type: technology
+  categories: *id023
+  status: new
+  priority: medium
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.detectionengineering.net/p/dew-149-roll-your-own-sigma-siem
+    tier: A
+    label: Detection Engineering Weekly (Substack)
+  incumbent_comparison: *id023
+  snippet: if anyone wants to see my pinterest mood board hmu
+  discovery_source: rss
+  triage_score: 24
+- id: rss-detectionengineering-dew-148-detection-pipeline-maturity-genui-for-log-analysis-and-hunting-kali
+  slug: dew-148-detection-pipeline-maturity-genui-for-log-analysis-and-hunting-kali-in-s
+  name: 'DEW #148 - Detection Pipeline Maturity, GenUI for Log Analysis and Hunting
+    Kali in Splunk'
+  type: technology
+  categories: *id023
+  status: new
+  priority: medium
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.detectionengineering.net/p/dew-148-detection-pipeline-maturity
+    tier: A
+    label: Detection Engineering Weekly (Substack)
+  incumbent_comparison: *id023
+  snippet: happiness is when the temperature is above 40F/4C
+  discovery_source: rss
+  triage_score: 24
+- id: rss-detectionengineering-dew-147-flying-blind-with-your-logs-mad-lads-and-z-scores-how-reddit-does-t
+  slug: dew-147-flying-blind-with-your-logs-mad-lads-and-z-scores-how-reddit-does-threat
+  name: 'DEW #147 - Flying Blind with your Logs, MAD lads and Z-scores & How Reddit
+    Does Threat Detection'
+  type: technology
+  categories: *id023
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.detectionengineering.net/p/dew-147
+    tier: A
+    label: Detection Engineering Weekly (Substack)
+  incumbent_comparison: *id023
+  snippet: I need a beach vacation asap
+  discovery_source: rss
+  triage_score: 16
+- id: rss-detectionengineering-dew-146-the-logs-are-lying-my-latest-post-on-agentic-security-re-tooling-se
+  slug: dew-146-the-logs-are-lying-my-latest-post-on-agentic-security-re-tooling-securit
+  name: 'DEW #146 - The logs are lying, my latest post on Agentic Security & re-tooling
+    security for speed'
+  type: technology
+  categories: *id023
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.detectionengineering.net/p/dew-146-the-logs-are-lying-my-latest
+    tier: A
+    label: Detection Engineering Weekly (Substack)
+  incumbent_comparison: *id023
+  snippet: I could use a beach and a mojito rn
+  discovery_source: rss
+  triage_score: 16
+- id: rss-cybersecuritydive-software-ai-companies-form-alliance-to-tackle-open-source-security-flaws
+  slug: software-ai-companies-form-alliance-to-tackle-open-source-security-flaws
+  name: Software, AI companies form alliance to tackle open-source security flaws
+  type: technology
+  categories: &id024
+  - detection_response
+  - cloud_identity
+  - data_ai
+  - automation_orchestration
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.cybersecuritydive.com/news/software-ai-alliance-open-source-security-flaws/823889/
+    tier: A
+    label: Cybersecurity Dive
+  incumbent_comparison: *id024
+  snippet: The emergence of frontier AI models has increased the speed and capabilities
+    of malicious hackers.
+  discovery_source: rss
+  triage_score: 8
+- id: rss-cybersecuritydive-fcc-requires-emergency-alert-distributors-to-secure-their-systems
+  slug: fcc-requires-emergency-alert-distributors-to-secure-their-systems
+  name: FCC requires emergency-alert distributors to secure their systems
+  type: technology
+  categories: *id024
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.cybersecuritydive.com/news/fcc-emergency-alerts-cybersecurity-requirements/823880/
+    tier: A
+    label: Cybersecurity Dive
+  incumbent_comparison: *id024
+  snippet: More than a decade after a high-profile hacking campaign, the commission
+    is moving from recommending basic security protocols to requiring them.
+  discovery_source: rss
+  triage_score: 8
+- id: rss-cybersecuritydive-aws-unveils-agent-security-data-access-tools
+  slug: aws-unveils-agent-security-data-access-tools
+  name: AWS unveils agent security, data access tools
+  type: technology
+  categories: *id024
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.cybersecuritydive.com/news/aws-continuum-ai-security-claude-mythos/823393/
+    tier: A
+    label: Cybersecurity Dive
+  incumbent_comparison: *id024
+  snippet: The updates reflect Anthropic&rsquo;s Mythos model and the speed at which
+    vulnerabilities can be surfaced.
+  discovery_source: rss
+  triage_score: 8
+- id: rss-cybersecuritydive-nist-offers-security-guidance-for-water-utilities-using-remote-access-tools
+  slug: nist-offers-security-guidance-for-water-utilities-using-remote-access-tools
+  name: NIST offers security guidance for water utilities using remote-access tools
+  type: technology
+  categories: *id024
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.cybersecuritydive.com/news/water-utilities-remote-access-nist-guidance/823776/
+    tier: A
+    label: Cybersecurity Dive
+  incumbent_comparison: *id024
+  snippet: The technology is one of the water sector&rsquo;s biggest cybersecurity
+    weaknesses.
+  discovery_source: rss
+  triage_score: 16
+- id: rss-cybersecuritydive-as-cyber-risk-evolves-the-insurance-industry-tightens-guardrails
+  slug: as-cyber-risk-evolves-the-insurance-industry-tightens-guardrails
+  name: As cyber risk evolves, the insurance industry tightens guardrails
+  type: technology
+  categories: *id024
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.cybersecuritydive.com/news/cyber-risk-insurance-industry-guardrails/823762/
+    tier: A
+    label: Cybersecurity Dive
+  incumbent_comparison: *id024
+  snippet: C-suite executives are concerned about resilience, but claims are increasingly
+    tied to strict underwriting standards.
+  discovery_source: rss
+  triage_score: 8
+- id: rss-cybersecuritydive-microsoft-europol-lead-global-takedown-of-infostealer-malware
+  slug: microsoft-europol-lead-global-takedown-of-infostealer-malware
+  name: Microsoft, Europol lead global takedown of infostealer malware
+  type: technology
+  categories: *id024
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.cybersecuritydive.com/news/microsoft-europol-international-takedown-infostealer-malware/823655/
+    tier: A
+    label: Cybersecurity Dive
+  incumbent_comparison: *id024
+  snippet: Cybercriminals used Amadey and StealC to infect thousands of computers
+    worldwide, leading to ransomware and other digital crimes.
+  discovery_source: rss
+  triage_score: 8
+- id: rss-cybersecuritydive-ransomware-attacks-grew-in-2025-as-traditional-data-breaches-fell
+  slug: ransomware-attacks-grew-in-2025-as-traditional-data-breaches-fell
+  name: Ransomware attacks grew in 2025 as traditional data breaches fell
+  type: technology
+  categories: *id024
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.cybersecuritydive.com/news/ransomware-data-breaches-ai-bitsight/823649/
+    tier: A
+    label: Cybersecurity Dive
+  incumbent_comparison: *id024
+  snippet: In a new report, Bitsight charted a massive surge in internet-exposed AI
+    services.
+  discovery_source: rss
+  triage_score: 8
+- id: rss-cybersecuritydive-white-house-s-state-infrastructure-cybersecurity-initiative-stalled
+  slug: white-house-s-state-infrastructure-cybersecurity-initiative-stalled
+  name: White House’s state infrastructure cybersecurity initiative stalled
+  type: technology
+  categories: *id024
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.cybersecuritydive.com/news/white-house-states-cybersecurity-pilot-programs-oncd/823453/
+    tier: A
+    label: Cybersecurity Dive
+  incumbent_comparison: *id024
+  snippet: The Trump administration says it wants to help states implement innovative
+    defenses. Most states are still waiting for the call to participate.
+  discovery_source: rss
+  triage_score: 16
+- id: rss-cybersecuritydive-trump-sets-new-deadlines-for-agencies-and-contractors-to-adopt-post-quantum-cr
+  slug: trump-sets-new-deadlines-for-agencies-and-contractors-to-adopt-post-quantum-cryp
+  name: Trump sets new deadlines for agencies and contractors to adopt post-quantum
+    cryptography
+  type: technology
+  categories: *id024
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.cybersecuritydive.com/news/quantum-cryptography-white-house-executive-order/823530/
+    tier: A
+    label: Cybersecurity Dive
+  incumbent_comparison: *id024
+  snippet: The president also launched efforts to research the scientific benefits
+    of quantum computers &mdash;&nbsp;and protect that research from adversaries.
+  discovery_source: rss
+  triage_score: 8
+- id: rss-cybersecuritydive-klue-investigating-supply-chain-attack-that-targeted-salesforce-integrations
+  slug: klue-investigating-supply-chain-attack-that-targeted-salesforce-integrations
+  name: Klue investigating supply chain attack that targeted Salesforce integrations
+  type: technology
+  categories: *id024
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.cybersecuritydive.com/news/klue-investigating-supply-chain-attack-salesforce-integrations/823532/
+    tier: A
+    label: Cybersecurity Dive
+  incumbent_comparison: *id024
+  snippet: Customer data from several prominent cybersecurity firms was among that
+    of hundreds of potential enterprise victims.
+  discovery_source: rss
+  triage_score: 16
+- id: rss-helpnetsecurity-darkmoon-open-source-ai-pentesting-platform
+  slug: darkmoon-open-source-ai-pentesting-platform
+  name: 'DarkMoon: Open-source AI pentesting platform'
+  type: product
+  categories: &id025
+  - detection_response
+  - vuln_exposure
+  - cloud_identity
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.helpnetsecurity.com/2026/06/29/darkmoon-open-source-ai-pentesting-platform/
+    tier: A
+    label: Help Net Security
+  incumbent_comparison: *id025
+  snippet: Penetration testing has long run on expert time, with specialists spending
+    days probing a network or web application by hand. Manual engagements stretch
+    across weeks, expert consultants run into thousands of dollars a day, and results
+    vary with the tester. Automation promises to narrow those gaps. A growing set
+    of projects now hands the work to AI agents that plan and execute on their own.
+    DarkMoon, an open-source platform, sits in that group. It runs &#8230; <a href="https://www.helpnetsecur
+  discovery_source: rss
+  triage_score: 8
+- id: rss-helpnetsecurity-sycophantic-chatbots-and-the-harms-that-build-over-many-chats
+  slug: sycophantic-chatbots-and-the-harms-that-build-over-many-chats
+  name: Sycophantic chatbots and the harms that build over many chats
+  type: technology
+  categories: *id025
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.helpnetsecurity.com/2026/06/29/sycophantic-chatbots-affective-ai-safety/
+    tier: A
+    label: Help Net Security
+  incumbent_comparison: *id025
+  snippet: People use AI chatbots for company, advice, and emotional support, and
+    these systems answer in ways meant to hold their attention. Researchers describe
+    the resulting risks as affective safety, a class of harm that exists because humans
+    are emotional beings and because the systems engage directly with that emotional
+    life. The damage happens during ordinary use, with no breach and no intruder.
+    These systems work as designed, optimizing for the goals their builders set, and
+    &#8230; <a href="http
+  discovery_source: rss
+  triage_score: 8
+- id: rss-helpnetsecurity-companies-keep-bolting-ai-onto-their-products-and-the-security-bill-is-coming-du
+  slug: companies-keep-bolting-ai-onto-their-products-and-the-security-bill-is-coming-du
+  name: Companies keep bolting AI onto their products, and the security bill is coming
+    due
+  type: technology
+  categories: *id025
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.helpnetsecurity.com/2026/06/29/products-ai-pentesting/
+    tier: A
+    label: Help Net Security
+  incumbent_comparison: *id025
+  snippet: Companies keep bolting AI and LLM features onto their products, and the
+    security results are starting to show a pattern. The vulnerabilities those features
+    create get rated high risk far more often than anything else, and they get fixed
+    slower than anything else. The figures come from Cobalt&#8217;s AI and Pentesting
+    Pulse Report 2026, built on five years of penetration testing data and a survey
+    of 455 security leaders and practitioners. A risk rate that &#8230; <a href="https://www.helpnetse
+  discovery_source: rss
+  triage_score: 16
+- id: rss-helpnetsecurity-most-teams-accept-higher-risk-for-faster-ai-database-work
+  slug: most-teams-accept-higher-risk-for-faster-ai-database-work
+  name: Most teams accept higher risk for faster AI database work
+  type: technology
+  categories: *id025
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.helpnetsecurity.com/2026/06/29/teams-ai-database-security/
+    tier: A
+    label: Help Net Security
+  incumbent_comparison: *id025
+  snippet: Database professionals are using AI for everyday work like writing queries,
+    building schemas, and reviewing code, and a growing share rely on autonomous tools
+    that act on the database itself. The use of AI in database management has almost
+    tripled in a year, climbing from 15% to 44% of organizations, according to Redgate&#8217;s
+    2026 State of the Database Landscape report. That puts AI inside the systems holding
+    an organization&#8217;s most sensitive data, often with permission &#8230; <a
+    hre
+  discovery_source: rss
+  triage_score: 8
+- id: rss-helpnetsecurity-week-in-review-fortibleed-campaign-s-impact-on-orgs-cisco-unified-cm-flaw-exploi
+  slug: week-in-review-fortibleed-campaign-s-impact-on-orgs-cisco-unified-cm-flaw-exploi
+  name: 'Week in review: Fortibleed campaign’s impact on orgs, Cisco Unified CM flaw
+    exploited'
+  type: technology
+  categories: *id025
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.helpnetsecurity.com/2026/06/28/week-in-review-fortibleed-campaigns-impact-on-orgs-cisco-unified-cm-flaw-exploited/
+    tier: A
+    label: Help Net Security
+  incumbent_comparison: *id025
+  snippet: 'Here’s an overview of some of last week’s most interesting news, articles,
+    interviews and videos: Encrypted DNS still tells an eavesdropper where to look
+    Encrypted DNS runs across much of the Internet. DNS over TLS, HTTPS, and QUIC
+    keep the contents of a query away from anyone watching a network link. The encryption
+    covers the message inside each packet. The packet still carries plaintext headers,
+    and those values mark a flow as DNS. Agent Beacon: &#8230; <a href="https://www.helpnetsecurity.'
+  discovery_source: rss
+  triage_score: 8
+- id: rss-helpnetsecurity-proof-s-x401-establishes-an-open-protocol-for-ai-agent-identity-and-authorizatio
+  slug: proof-s-x401-establishes-an-open-protocol-for-ai-agent-identity-and-authorizatio
+  name: Proof’s x401 establishes an open protocol for AI agent identity and authorization
+  type: technology
+  categories: *id025
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.helpnetsecurity.com/2026/06/26/proofs-x401-establishes-an-open-protocol-for-ai-agent-identity-and-authorization/
+    tier: A
+    label: Help Net Security
+  incumbent_comparison: *id025
+  snippet: 'Proof has launched x401, an open, issuer-neutral protocol that lets any
+    website or API ask for and verify the identity behind agents. With x401, a service
+    can ask for the proof it requires: verified identity, age, membership, organizational
+    affiliation, signing authority, proof of humanness, orf another trusted claim.
+    The agent presents a compatible credential and authorization. The service verifies
+    the issuer, claim, scope and action before proceeding. Identity establishes who
+    or what an age'
+  discovery_source: rss
+  triage_score: 8
+- id: rss-helpnetsecurity-critical-open-source-projects-get-a-new-security-framework
+  slug: critical-open-source-projects-get-a-new-security-framework
+  name: Critical open-source projects get a new security framework
+  type: technology
+  categories: *id025
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.helpnetsecurity.com/2026/06/26/akrites-open-source-security-framework/
+    tier: A
+    label: Help Net Security
+  incumbent_comparison: *id025
+  snippet: Open source software projects are getting a new framework for handling
+    security vulnerabilities as AI shortens the time between flaw discovery and exploitation.
+    The Linux Foundation has launched Akrites, an industry initiative that brings
+    together technology companies, financial institutions, security vendors, AI companies,
+    and open source projects to support the remediation and disclosure of vulnerabilities
+    affecting widely used open source software. Akrites aims to establish a common
+    proces
+  discovery_source: rss
+  triage_score: 8
+- id: rss-helpnetsecurity-synology-issues-critical-fix-for-mailplus-server-vulnerabilities
+  slug: synology-issues-critical-fix-for-mailplus-server-vulnerabilities
+  name: Synology issues critical fix for MailPlus Server vulnerabilities
+  type: technology
+  categories: *id025
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.helpnetsecurity.com/2026/06/26/synology-mailplus-server-vulnerabilities/
+    tier: A
+    label: Help Net Security
+  incumbent_comparison: *id025
+  snippet: 'Synology has has fixed critical vulnerabilities in MailPlus Server, a
+    software package used to run private email infrastructure on Synology NAS devices.
+    The security update fixes three flaws: CVE-2026-13136, stemming from faulty authorization
+    checks, may allow remote attackers to read or write arbitrary files and conduct
+    denial-of-service (DoS) attacks CVE-2026-13135, caused by improper restriction
+    of communication channel to intended endpoints, may allow remote attackers to
+    access internal s'
+  discovery_source: rss
+  triage_score: 8
+- id: rss-helpnetsecurity-ransomware-gangs-find-europe-s-weakest-link-in-third-party-suppliers
+  slug: ransomware-gangs-find-europe-s-weakest-link-in-third-party-suppliers
+  name: Ransomware gangs find Europe’s weakest link in third-party suppliers
+  type: technology
+  categories: *id025
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.helpnetsecurity.com/2026/06/26/black-kite-european-cyber-threats-report/
+    tier: A
+    label: Help Net Security
+  incumbent_comparison: *id025
+  snippet: 'Ransomware attacks against European organizations increased during the
+    first months of 2026, with third-party suppliers becoming a major entry point
+    for attackers. Black Kite examined 2,066 ransomware incidents across 31 countries
+    between January 2025 and April 2026 in its 2026 European Cyber Risk Report. Country
+    distribution of ransomware attacks (Source: Black Kite) “Three forces are converging
+    on European organisations at once: ransomware is accelerating, supply chains are
+    becoming a prima'
+  discovery_source: rss
+  triage_score: 8
+- id: rss-helpnetsecurity-mirage2fa-phishing-kit-uses-html-smuggling-to-steal-microsoft-365-credentials
+  slug: mirage2fa-phishing-kit-uses-html-smuggling-to-steal-microsoft-365-credentials
+  name: Mirage2FA phishing kit uses HTML smuggling to steal Microsoft 365 credentials
+  type: technology
+  categories: *id025
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.helpnetsecurity.com/2026/06/26/mirage2fa-phishing-kit-microsoft-365-html-smuggling/
+    tier: A
+    label: Help Net Security
+  incumbent_comparison: *id025
+  snippet: Mirage2FA, a phishing kit that combines short-lived HTML smuggling with
+    obfuscated JavaScript loaders to deliver fake Microsoft 365 login pages and steal
+    credentials during MFA prompts, has been identified by researchers at Fortra.
+    Fortra based its analysis on a suspicious HTML and JavaScript attachment delivered
+    by email, supporting DNS data, and the second-stage phishing page. Researchers
+    said the campaign relied on business-themed lures, including secure documents,
+    remittance services, aut
+  discovery_source: rss
+  triage_score: 8
+- id: rss-reddit-cto-at-ncsc-summary-week-ending-june-28th
+  slug: cto-at-ncsc-summary-week-ending-june-28th
+  name: 'CTO at NCSC Summary: week ending June 28th'
+  type: technology
+  categories: &id026
+  - detection_response
+  - automation_orchestration
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.reddit.com/r/blueteamsec/comments/1uhr66h/cto_at_ncsc_summary_week_ending_june_28th/
+    tier: A
+    label: Reddit r/blueteamsec
+  incumbent_comparison: *id026
+  snippet: '&#32; submitted by &#32;  /u/digicat   [link] &#32; [comments]'
+  discovery_source: rss
+  triage_score: 8
+- id: rss-reddit-daily-blueteamsec-briefing-archive-daily-ai-generated-podcast-of-the-last-24hour
+  slug: daily-blueteamsec-briefing-archive-daily-ai-generated-podcast-of-the-last-24hour
+  name: Daily BlueTeamSec Briefing Archive - daily AI generated podcast of the last
+    24hours of posts
+  type: technology
+  categories: *id026
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.reddit.com/r/blueteamsec/comments/1rowtkz/daily_blueteamsec_briefing_archive_daily_ai/
+    tier: A
+    label: Reddit r/blueteamsec
+  incumbent_comparison: *id026
+  snippet: '&#32; submitted by &#32;  /u/digicat   [link] &#32; [comments]'
+  discovery_source: rss
+  triage_score: 8
+- id: rss-reddit-anonymous-researcher-drops-exploitarium-109-files-15-targets-zero-vendor-notice-
+  slug: anonymous-researcher-drops-exploitarium-109-files-15-targets-zero-vendor-notice-
+  name: 'Anonymous researcher drops “Exploitarium” : 109 files, 15 targets, zero vendor
+    notice. I built 44 KQL detections to cover it.'
+  type: technology
+  categories: *id026
+  status: new
+  priority: medium
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.reddit.com/r/blueteamsec/comments/1uic79a/anonymous_researcher_drops_exploitarium_109_files/
+    tier: A
+    label: Reddit r/blueteamsec
+  incumbent_comparison: *id026
+  snippet: 'A researcher going by ‘bikini’ has published a personal archive called
+    Exploitarium - 15 vulnerability targets across 109 tracked files, dropped with
+    no coordinated disclosure and no vendor notification. This isn’t a polished toolkit.
+    It reads like a personal research dump. Some of it is noise that the community
+    has already dismissed. But not all of it. Two findings stand out and have been
+    independently verified: libssh2 pre-auth heap write'
+  discovery_source: rss
+  triage_score: 24
+- id: rss-reddit-black-hat-europe-2025-the-forensic-trail-on-github-hunting-for-supply-chain-acti
+  slug: black-hat-europe-2025-the-forensic-trail-on-github-hunting-for-supply-chain-acti
+  name: 'Black Hat Europe 2025 | The Forensic Trail On GitHub: Hunting For Supply
+    Chain Activity'
+  type: technology
+  categories: *id026
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.reddit.com/r/blueteamsec/comments/1uihbby/black_hat_europe_2025_the_forensic_trail_on/
+    tier: A
+    label: Reddit r/blueteamsec
+  incumbent_comparison: *id026
+  snippet: Great highly informative talk everyone with any presence on GitHub should
+    watch.  https://www.youtube.com/watch?v=JZUV8dY7NG4 Some mentioned resources -
+    https://github.com/wiz-sec-public/githunt - https://gopivot.ing/  &#32; submitted
+    by &#32; <a href="https://www.
+  discovery_source: rss
+  triage_score: 8
+- id: rss-reddit-understanding-trends-patterns-in-insider-threat-analysis-of-1-000-cases
+  slug: understanding-trends-patterns-in-insider-threat-analysis-of-1-000-cases
+  name: 'Understanding Trends & Patterns In Insider Threat: Analysis Of 1,000+ Cases'
+  type: technology
+  categories: *id026
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.reddit.com/r/blueteamsec/comments/1uiikp5/understanding_trends_patterns_in_insider_threat/
+    tier: A
+    label: Reddit r/blueteamsec
+  incumbent_comparison: *id026
+  snippet: '&#32; submitted by &#32;  /u/digicat   [link] &#32; [comments]'
+  discovery_source: rss
+  triage_score: 8
+- id: rss-reddit-customer-partner-updates-remote-code-execution-vulnerability-in-ptc-s-windchill-
+  slug: customer-partner-updates-remote-code-execution-vulnerability-in-ptc-s-windchill-
+  name: 'Customer & Partner Updates: Remote Code Execution Vulnerability in PTC’s
+    Windchill and FlexPLM Solutions | June 2026 | PTC'
+  type: product
+  categories: *id026
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.reddit.com/r/blueteamsec/comments/1uiift3/customer_partner_updates_remote_code_execution/
+    tier: A
+    label: Reddit r/blueteamsec
+  incumbent_comparison: *id026
+  snippet: '&#32; submitted by &#32;  /u/digicat   [link] &#32; [comments]'
+  discovery_source: rss
+  triage_score: 16
+- id: rss-reddit-operation-dragonreturn-china-nexus-cyber-espionage-campaign-targeting-govt-of-in
+  slug: operation-dragonreturn-china-nexus-cyber-espionage-campaign-targeting-govt-of-in
+  name: 'Operation DragonReturn: China-Nexus Cyber Espionage Campaign Targeting Govt.
+    of India/MoF Tax Infrastructure via Multi-Stage DcRAT Deployment'
+  type: technology
+  categories: *id026
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.reddit.com/r/blueteamsec/comments/1uiif7j/operation_dragonreturn_chinanexus_cyber_espionage/
+    tier: A
+    label: Reddit r/blueteamsec
+  incumbent_comparison: *id026
+  snippet: '&#32; submitted by &#32;  /u/digicat   [link] &#32; [comments]'
+  discovery_source: rss
+  triage_score: 8
+- id: rss-reddit-asyncrat-family-threat-overview
+  slug: asyncrat-family-threat-overview
+  name: AsyncRAT Family Threat Overview
+  type: technology
+  categories: *id026
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.reddit.com/r/blueteamsec/comments/1uiiegp/asyncrat_family_threat_overview/
+    tier: A
+    label: Reddit r/blueteamsec
+  incumbent_comparison: *id026
+  snippet: '&#32; submitted by &#32;  /u/digicat   [link] &#32; [comments]'
+  discovery_source: rss
+  triage_score: 8
+- id: rss-reddit-inside-stegoad-how-a-threat-actor-evolved-to-fuel-silent-ad-fraud-and-credential
+  slug: inside-stegoad-how-a-threat-actor-evolved-to-fuel-silent-ad-fraud-and-credential
+  name: 'Inside StegoAd: How a Threat Actor Evolved to Fuel Silent Ad Fraud and Credential
+    Theft at Scale'
+  type: technology
+  categories: *id026
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.reddit.com/r/blueteamsec/comments/1uiicsq/inside_stegoad_how_a_threat_actor_evolved_to_fuel/
+    tier: A
+    label: Reddit r/blueteamsec
+  incumbent_comparison: *id026
+  snippet: '&#32; submitted by &#32;  /u/digicat   [link] &#32; [comments]'
+  discovery_source: rss
+  triage_score: 8
+- id: rss-reddit-cve-2026-11374-account-takeover-vulnerability-in-adselfservice-plus-recoverymana
+  slug: cve-2026-11374-account-takeover-vulnerability-in-adselfservice-plus-recoverymana
+  name: 'CVE-2026-11374: Account takeover vulnerability in ADSelfService Plus, RecoveryManager
+    Plus, M365 Manager Plus, and ADAudit Plus'
+  type: technology
+  categories: *id026
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.reddit.com/r/blueteamsec/comments/1uiic3u/cve202611374_account_takeover_vulnerability_in/
+    tier: A
+    label: Reddit r/blueteamsec
+  incumbent_comparison: *id026
+  snippet: '&#32; submitted by &#32;  /u/digicat   [link] &#32; [comments]'
+  discovery_source: rss
+  triage_score: 16
+- id: rss-reddit-clone-this-repo-and-i-own-your-machine
+  slug: clone-this-repo-and-i-own-your-machine
+  name: Clone This Repo and I Own Your Machine
+  type: technology
+  categories: *id026
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.reddit.com/r/blueteamsec/comments/1uhxa85/clone_this_repo_and_i_own_your_machine/
+    tier: A
+    label: Reddit r/blueteamsec
+  incumbent_comparison: *id026
+  snippet: '&#32; submitted by &#32;  /u/campuscodi   [link] &#32; [comments]'
+  discovery_source: rss
+  triage_score: 8
+- id: rss-reddit-from-ci-cd-to-cloud-data-how-shai-hulud-persistence-leads-to-redshift-breach
+  slug: from-ci-cd-to-cloud-data-how-shai-hulud-persistence-leads-to-redshift-breach
+  name: 'From CI/CD to Cloud Data: How Shai Hulud Persistence Leads to Redshift Breach'
+  type: technology
+  categories: *id026
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.reddit.com/r/blueteamsec/comments/1ui65pg/from_cicd_to_cloud_data_how_shai_hulud/
+    tier: A
+    label: Reddit r/blueteamsec
+  incumbent_comparison: *id026
+  snippet: '&#32; submitted by &#32;  /u/digicat   [link] &#32; [comments]'
+  discovery_source: rss
+  triage_score: 8
+- id: rss-reddit-driverscope-automated-byovd-driver-analysis-import-scanning-ioctl-dispatch-extra
+  slug: driverscope-automated-byovd-driver-analysis-import-scanning-ioctl-dispatch-extra
+  name: 'DriverScope: Automated BYOVD driver analysis: import scanning, IOCTL dispatch
+    extraction, Speakeasy emulation'
+  type: technology
+  categories: *id026
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.reddit.com/r/blueteamsec/comments/1uhx8ld/driverscope_automated_byovd_driver_analysis/
+    tier: A
+    label: Reddit r/blueteamsec
+  incumbent_comparison: *id026
+  snippet: '&#32; submitted by &#32;  /u/digicat   [link] &#32; [comments]'
+  discovery_source: rss
+  triage_score: 8
+- id: rss-reddit-khaos-c2-khaos-is-a-modern-c2-framework-that-routes-agent-traffic-through-cloud-
+  slug: khaos-c2-khaos-is-a-modern-c2-framework-that-routes-agent-traffic-through-cloud-
+  name: 'khaos-c2: KHAOS is a modern C2 framework that routes agent traffic through
+    cloud services already trusted by enterprise networks.'
+  type: technology
+  categories: *id026
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.reddit.com/r/blueteamsec/comments/1uhrejv/khaosc2_khaos_is_a_modern_c2_framework_that/
+    tier: A
+    label: Reddit r/blueteamsec
+  incumbent_comparison: *id026
+  snippet: '&#32; submitted by &#32;  /u/digicat   [link] &#32; [comments]'
+  discovery_source: rss
+  triage_score: 8
+- id: rss-reddit-proxmox-and-adversaries
+  slug: proxmox-and-adversaries
+  name: Proxmox and Adversaries
+  type: technology
+  categories: *id026
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.reddit.com/r/blueteamsec/comments/1uhrd7e/proxmox_and_adversaries/
+    tier: A
+    label: Reddit r/blueteamsec
+  incumbent_comparison: *id026
+  snippet: '&#32; submitted by &#32;  /u/digicat   [link] &#32; [comments]'
+  discovery_source: rss
+  triage_score: 8
+- id: rss-ventureinsecurity-many-of-the-best-security-leaders-aren-t-on-linkedin
+  slug: many-of-the-best-security-leaders-aren-t-on-linkedin
+  name: Many of the best security leaders aren’t on LinkedIn
+  type: technology
+  categories: &id027
+  - detection_response
+  - data_ai
+  - automation_orchestration
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://ventureinsecurity.net/p/many-of-the-best-security-leaders
+    tier: A
+    label: Venture in Security
+  incumbent_comparison: *id027
+  snippet: And they have never been on a podcast
+  discovery_source: rss
+  triage_score: 8
+- id: rss-ventureinsecurity-what-it-s-like-being-the-only-security-company-in-your-yc-batch
+  slug: what-it-s-like-being-the-only-security-company-in-your-yc-batch
+  name: What it’s like being the only security company in your YC batch
+  type: technology
+  categories: *id027
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://ventureinsecurity.net/p/what-its-like-being-the-only-security
+    tier: A
+    label: Venture in Security
+  incumbent_comparison: *id027
+  snippet: A guest post from Alex Chantavy about participating in Y Combinator as
+    a security company.
+  discovery_source: rss
+  triage_score: 8
+- id: rss-ventureinsecurity-11-generalist-mental-models-applied-to-cyber-cisos-and-founders-guide
+  slug: 11-generalist-mental-models-applied-to-cyber-cisos-and-founders-guide
+  name: '11 generalist mental models applied to cyber: CISOs’ and founders’ guide'
+  type: technology
+  categories: *id027
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://ventureinsecurity.net/p/11-generalist-mental-models-applied
+    tier: A
+    label: Venture in Security
+  incumbent_comparison: *id027
+  snippet: A set of generalist frameworks (mental models, principles, or whatever
+    you want to call them) that 100% apply to cyber.
+  discovery_source: rss
+  triage_score: 8
+- id: rss-ventureinsecurity-four-questions-that-answer-if-a-security-product-will-survive-in-the-ai-first-
+  slug: four-questions-that-answer-if-a-security-product-will-survive-in-the-ai-first-wo
+  name: Four questions that answer if a security product will survive in the AI-first
+    world
+  type: technology
+  categories: *id027
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://ventureinsecurity.net/p/four-questions-to-answer-if-a-security
+    tier: A
+    label: Venture in Security
+  incumbent_comparison: *id027
+  snippet: A few questions I think about when I evaluate if a company or a market
+    category is going to stick around.
+  discovery_source: rss
+  triage_score: 8
+- id: rss-ventureinsecurity-cybersecurity-is-really-boring
+  slug: cybersecurity-is-really-boring
+  name: Cybersecurity is really boring
+  type: technology
+  categories: *id027
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://ventureinsecurity.net/p/cybersecurity-is-really-boring
+    tier: A
+    label: Venture in Security
+  incumbent_comparison: *id027
+  snippet: Basically, what the title says.
+  discovery_source: rss
+  triage_score: 16
+- id: rss-ventureinsecurity-what-works-against-mythos-today-is-what-worked-against-ransomware-5-years-ago-
+  slug: what-works-against-mythos-today-is-what-worked-against-ransomware-5-years-ago-an
+  name: What works against Mythos today is what worked against ransomware 5 years
+    ago, and malware 10-15 years ago
+  type: technology
+  categories: *id027
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://ventureinsecurity.net/p/what-works-against-mythos-today-is
+    tier: A
+    label: Venture in Security
+  incumbent_comparison: *id027
+  snippet: In security or otherwise, trends are temporary. Stick to fundamentals.
+  discovery_source: rss
+  triage_score: 8
+- id: rss-ventureinsecurity-infra-security-why-more-more-cisos-are-starting-to-own-infrastructure
+  slug: infra-security-why-more-more-cisos-are-starting-to-own-infrastructure
+  name: 'Infra + security: why more & more CISOs are starting to own infrastructure'
+  type: technology
+  categories: *id027
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://ventureinsecurity.net/p/infra-security-why-more-and-more
+    tier: A
+    label: Venture in Security
+  incumbent_comparison: *id027
+  snippet: Discussing the convergence of infra and security and what this means for
+    CISOs, founders, and the industry as a whole
+  discovery_source: rss
+  triage_score: 8
+- id: rss-ventureinsecurity-ai-is-one-of-the-two-monumental-shifts-in-cyber-today
+  slug: ai-is-one-of-the-two-monumental-shifts-in-cyber-today
+  name: AI is one of the two monumental shifts in cyber today
+  type: technology
+  categories: *id027
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://ventureinsecurity.net/p/ai-is-one-of-the-two-monumental-shifts
+    tier: A
+    label: Venture in Security
+  incumbent_comparison: *id027
+  snippet: The way security products are bought has changed, but many people missed
+    it
+  discovery_source: rss
+  triage_score: 8
+- id: rss-ventureinsecurity-ai-might-be-killing-traditional-siems-but-data-advantage-is-as-strong-as-ever
+  slug: ai-might-be-killing-traditional-siems-but-data-advantage-is-as-strong-as-ever
+  name: AI might be killing traditional SIEMs, but data advantage is as strong as
+    ever
+  type: technology
+  categories: *id027
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://ventureinsecurity.net/p/ai-might-be-killing-traditional-siems
+    tier: A
+    label: Venture in Security
+  incumbent_comparison: *id027
+  snippet: A few thoughts about how AI agents are fundamentally changing SIEM and
+    adjacent markets, and what this means for the future
+  discovery_source: rss
+  triage_score: 16
+- id: rss-ventureinsecurity-blind-men-and-the-elephant-the-story-of-cybersecurity
+  slug: blind-men-and-the-elephant-the-story-of-cybersecurity
+  name: 'Blind Men and the Elephant: the story of cybersecurity'
+  type: technology
+  categories: *id027
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://ventureinsecurity.net/p/blind-men-and-the-elephant-the-story
+    tier: A
+    label: Venture in Security
+  incumbent_comparison: *id027
+  snippet: Our view of cybersecurity is defined by our backgrounds, and that perspective
+    is usually very limiting
+  discovery_source: rss
+  triage_score: 16
+- id: rss-ventureinsecurity-5-unexpected-takeaways-and-one-big-prediction-from-rsac
+  slug: 5-unexpected-takeaways-and-one-big-prediction-from-rsac
+  name: 5 unexpected takeaways and one big prediction from RSAC
+  type: technology
+  categories: *id027
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://ventureinsecurity.net/p/5-unexpected-takeaways-and-one-big
+    tier: A
+    label: Venture in Security
+  incumbent_comparison: *id027
+  snippet: The dust is settling, and CISOs are refocusing on what actually matters
+    to their organizations, not just what marketers want them to care about (no offense
+    to my marketing friends!)
+  discovery_source: rss
+  triage_score: 8
+- id: rss-ventureinsecurity-it-is-not-the-customer-s-job-to-know-what-they-want-rings-true-in-cyber
+  slug: it-is-not-the-customer-s-job-to-know-what-they-want-rings-true-in-cyber
+  name: “It is not the customer’s job to know what they want” rings true in cyber
+  type: technology
+  categories: *id027
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://ventureinsecurity.net/p/it-is-not-the-customers-job-to-know
+    tier: A
+    label: Venture in Security
+  incumbent_comparison: *id027
+  snippet: And also, there has never been a billion-dollar security company built
+    based on Gartner&#8217;s insight alone
+  discovery_source: rss
+  triage_score: 8
+- id: rss-ventureinsecurity-there-s-only-one-kind-of-tool-security-teams-should-be-building-with-ai
+  slug: there-s-only-one-kind-of-tool-security-teams-should-be-building-with-ai
+  name: There’s only one kind of tool security teams should be building with AI
+  type: technology
+  categories: *id027
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://ventureinsecurity.net/p/theres-only-one-kind-of-tool-security
+    tier: A
+    label: Venture in Security
+  incumbent_comparison: *id027
+  snippet: There are always exceptions but most security teams should generally speaking
+    not build anything else except this one kind of product
+  discovery_source: rss
+  triage_score: 8
+- id: rss-jackson-t-parallel-intelligence-and-cognitive-warfare
+  slug: parallel-intelligence-and-cognitive-warfare
+  name: Parallel Intelligence and Cognitive Warfare
+  type: product
+  categories: &id028
+  - detection_response
+  - automation_orchestration
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://jackson-t.com/parallel-intelligence-and-cognitive-warfare/
+    tier: A
+    label: Detection at Scale (Jackson T.)
+  incumbent_comparison: *id028
+  snippet: 'Contents
+
+
+    Disclaimer
+
+    Introduction
+
+    Problem Space
+
+    Solution Space
+
+    Concluding Remarks
+
+
+    Disclaimer
+
+    <p'
+  discovery_source: rss
+  triage_score: 8
+- id: rss-jackson-t-are-we-helping
+  slug: are-we-helping
+  name: Are We Helping?
+  type: technology
+  categories: *id028
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://jackson-t.com/are-we-helping/
+    tier: A
+    label: Detection at Scale (Jackson T.)
+  incumbent_comparison: *id028
+  snippet: 'As a cybersecurity practitioner in the private sector, this question has
+    been
+
+    nagging me in recent years. At this time, I think my short answer is: we haven&rsquo;t
+
+    been doing enough to serve the national interest of Western countries, but we&rsquo;ve
+
+    been doing plenty to accidentally serve the interests of adversaries who seek
+    to
+
+    undermine the national interest.
+
+    I understand this opinion might not be common, and that asserting it without
+
+    attempting to substantiate the claim is not con'
+  discovery_source: rss
+  triage_score: 16
+- id: rss-jackson-t-cognitive-artifacts-complementary-competitive
+  slug: cognitive-artifacts-complementary-competitive
+  name: 'Cognitive Artifacts: Complementary & Competitive'
+  type: technology
+  categories: *id028
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://jackson-t.com/cognitive-artifacts-complementary-competitive/
+    tier: A
+    label: Detection at Scale (Jackson T.)
+  incumbent_comparison: *id028
+  snippet: 'Last year, I watched a thought-provoking talk
+
+    from David Krakauer (president of the Santa Fe Institute), and from it I learned
+
+    a mental model about tools or what he called &ldquo;cognitive artifacts&rdquo;.
+    He breaks
+
+    down tools into two categories, one that improves our skills when not using
+
+    them, and another that diminishes our skills to complete the tasks we assign
+
+    them to.
+
+    Paraphrasing a portion of the talk here:
+
+
+    <stro'
+  discovery_source: rss
+  triage_score: 8
+- id: rss-jackson-t-how-i-interpret-the-times-in-which-we-live
+  slug: how-i-interpret-the-times-in-which-we-live
+  name: How I Interpret the Times in Which We Live
+  type: technology
+  categories: *id028
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://jackson-t.com/how-i-interpret-the-times-in-which-we-live/
+    tier: A
+    label: Detection at Scale (Jackson T.)
+  incumbent_comparison: *id028
+  snippet: 'Autocratization (a.k.a. democratic backsliding) is happening around the
+    world.
+
+    While it is not solely caused by foreign adversaries of the West, it is being
+
+    amplified by them as they seek power with cost effective levers that fall below
+
+    the threshold of conventional war.
+
+
+
+    With this disposition, it is in their interest to gradually morph us all into
+
+    being the coarsened architects of our collective demise. At best, the outcome
+    is
+
+    the bottom-up rewiring of Western valu'
+  discovery_source: rss
+  triage_score: 8
+- id: rss-jackson-t-why-managing-nuance-matters-for-red-teams
+  slug: why-managing-nuance-matters-for-red-teams
+  name: Why Managing Nuance Matters for Red Teams
+  type: technology
+  categories: *id028
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://jackson-t.com/why-managing-nuance-matters-for-red-teams/
+    tier: A
+    label: Detection at Scale (Jackson T.)
+  incumbent_comparison: *id028
+  snippet: 'The technology tree from Civilization (turn-based strategy video game
+    series).
+
+
+
+
+    Bottom Line Up Front
+
+
+
+    An analogy borrowed from marketing helps us understand one key difference in the
+    thinking between sophisticated adversaries and many of the red teams that try
+    to simulate'
+  discovery_source: rss
+  triage_score: 8
+- id: rss-jackson-t-operational-mental-models
+  slug: operational-mental-models
+  name: Operational Mental Models
+  type: technology
+  categories: *id028
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://jackson-t.com/operational-mental-models/
+    tier: A
+    label: Detection at Scale (Jackson T.)
+  incumbent_comparison: *id028
+  snippet: This hasn&rsquo;t been ported over to the new blog. Redirecting to archived
+    page&hellip;
+  discovery_source: rss
+  triage_score: 8
+- id: rss-jackson-t-operators-edr-sensors-and-ooda-loops
+  slug: operators-edr-sensors-and-ooda-loops
+  name: Operators, EDR Sensors, and OODA Loops
+  type: technology
+  categories: *id028
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://jackson-t.com/operators-edr-sensors-and-ooda-loops/
+    tier: A
+    label: Detection at Scale (Jackson T.)
+  incumbent_comparison: *id028
+  snippet: This hasn&rsquo;t been ported over to the new blog. Redirecting to archived
+    page&hellip;
+  discovery_source: rss
+  triage_score: 16
+- id: rss-jackson-t-recovering-protobuf-descriptors
+  slug: recovering-protobuf-descriptors
+  name: Recovering ProtoBuf Descriptors
+  type: technology
+  categories: *id028
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://jackson-t.com/recovering-protobuf-descriptors/
+    tier: A
+    label: Detection at Scale (Jackson T.)
+  incumbent_comparison: *id028
+  snippet: Below is some code I wrote that was helpful for recovering proto definition
+    files from encoded descriptor blobs that were embedded in binaries. This uses
+    a DebugString() function that&rsquo;s available in the C++ binding, but a Python-based
+    implementation of this is available in <a href="https://github.com/marin-m/pbtk/blob/master/extractors/from_binary.py"
+  discovery_source: rss
+  triage_score: 8
+- id: rss-jackson-t-covert-data-persistence-with-registry-keys
+  slug: covert-data-persistence-with-registry-keys
+  name: Covert Data Persistence with Registry Keys
+  type: technology
+  categories: *id028
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://jackson-t.com/covert-data-persistence-with-registry-keys/
+    tier: A
+    label: Detection at Scale (Jackson T.)
+  incumbent_comparison: *id028
+  snippet: 'Introduction
+
+    This article introduces a more subtle way to hide data within Windows Registry
+    keys. It avoids detection from RegHide because it leverages class attributes instead
+    of null characters.
+
+    Malware implants often need to persist data including configurations,'
+  discovery_source: rss
+  triage_score: 16
+- id: rss-jackson-t-code-signing-on-a-budget
+  slug: code-signing-on-a-budget
+  name: Code Signing on a Budget
+  type: technology
+  categories: *id028
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://jackson-t.com/code-signing-on-a-budget/
+    tier: A
+    label: Detection at Scale (Jackson T.)
+  incumbent_comparison: *id028
+  snippet: 'Summary: This post goes over how attackers could use search engines to
+    find and abuse legitimate code-signing certificates. With this technique, I was
+    able to find a valid code-signing certificate belonging to a leading tech company
+    and disclosed it to them.
+
+    This isn&rsquo;t particularly novel but I&rsquo;m writing this to raise defensive
+    awareness that abusing code-signing certificates is not limited to well-resourced
+    attackers.
+
+    Background'
+  discovery_source: rss
+  triage_score: 8
+- id: rss-jackson-t-wpa2-psk-pmkid-attack-with-kali-and-alfa-ac1200
+  slug: wpa2-psk-pmkid-attack-with-kali-and-alfa-ac1200
+  name: WPA2-PSK PMKID Attack with Kali and Alfa AC1200
+  type: technology
+  categories: *id028
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://jackson-t.com/wpa2-psk-pmkid-attack-with-kali-and-alfa-ac1200/
+    tier: A
+    label: Detection at Scale (Jackson T.)
+  incumbent_comparison: *id028
+  snippet: 'About
+
+    This short post goes over the workflow I use for the PMKID attack using an Alfa
+    AC1200 (AWUS036ACH) card with a bootable Kali USB and bettercap + hcxdumptool.
+    I have noticed more results using hcxdumptool co'
+  discovery_source: rss
+  triage_score: 8
+- id: rss-jackson-t-cve-2019-9730-lpe-in-synaptics-sound-driver
+  slug: cve-2019-9730-lpe-in-synaptics-sound-driver
+  name: 'CVE-2019-9730: LPE in Synaptics Sound Driver'
+  type: technology
+  categories: *id028
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://jackson-t.com/cve-2019-9730-lpe-in-synaptics-sound-driver/
+    tier: A
+    label: Detection at Scale (Jackson T.)
+  incumbent_comparison: *id028
+  snippet: 'CVE details for a COM-based local privilege elevation with a brief write-up
+    on the process from discovery to root.
+
+
+    Part 1: Technical Advisory
+
+    Part 2: Discovery Walkthrough
+
+    Part 3: Exploitation Walkthrough
+
+
+    Download exploit code here.</'
+  discovery_source: rss
+  triage_score: 8
+- id: rss-jackson-t-cve-2019-8372-lpe-in-lg-kernel-driver
+  slug: cve-2019-8372-lpe-in-lg-kernel-driver
+  name: 'CVE-2019-8372: LPE in LG Kernel Driver'
+  type: technology
+  categories: *id028
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://jackson-t.com/cve-2019-8372-lpe-in-lg-kernel-driver/
+    tier: A
+    label: Detection at Scale (Jackson T.)
+  incumbent_comparison: *id028
+  snippet: 'This post discusses a CVE for driver-based LPE with an in-depth tutorial
+    on the process from discovery to root. At the end of this, we&rsquo;ll better
+    understand how to select worthwhile targets for driver vulnerability research,
+    analyze them for vulnerabilities, and learn an exploitation technique for elevating
+    privileges. If this sounds like your cup of tea, then grab it and start sipping.
+
+
+    Part 1: Vulnerability Details
+
+    <'
+  discovery_source: rss
+  triage_score: 16
+- id: rss-jackson-t-understanding-the-current-era-of-binary-exploitation
+  slug: understanding-the-current-era-of-binary-exploitation
+  name: Understanding the Current Era of Binary Exploitation
+  type: technology
+  categories: *id028
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://jackson-t.com/understanding-the-current-era-of-binary-exploitation/
+    tier: A
+    label: Detection at Scale (Jackson T.)
+  incumbent_comparison: *id028
+  snippet: 'Here are five talks I enjoyed in understanding the state-of-the-art in
+    memory corruption strategies and exploit mitigations. This should be valuable
+    to anyone who is moving from traditional &ldquo;CTF-style&rdquo; exploitation
+    and wants to know what they&rsquo;re up against in today&rsquo;s era.
+
+    The Layman&rsquo;s Guide to Zero-Day Engineering by @gaasedelen and @itszn13 is
+    a talk on'
+  discovery_source: rss
+  triage_score: 8
+- id: rss-jackson-t-how-to-assess-system-images-an-overview
+  slug: how-to-assess-system-images-an-overview
+  name: 'How-To Assess System Images: An Overview'
+  type: technology
+  categories: *id028
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://jackson-t.com/how-to-assess-system-images-an-overview/
+    tier: A
+    label: Detection at Scale (Jackson T.)
+  incumbent_comparison: *id028
+  snippet: Hey folks, happy new year. Today I wanted to go over how I do assessments
+    on system images. I&rsquo;ve been interested in this topic for a little over a
+    year, and most of that experience has been on Windows 10. So this won&rsquo;t
+    cover other operating systems, but the concepts should still apply. I&rsquo;m
+    going start this series off with a barebones overview, and in future posts we&rsquo;ll
+    delve into the gory details with workflow examples and case-studies (maybe walkthrough
+    some CVEs).</p
+  discovery_source: rss
+  triage_score: 8
+- id: rss-thedfirreport-flash-alert-etherrat-and-tuktuk-c2-end-in-the-gentleman-ransomware
+  slug: flash-alert-etherrat-and-tuktuk-c2-end-in-the-gentleman-ransomware
+  name: 'Flash Alert: EtherRat and TukTuk C2 End in The Gentleman Ransomware'
+  type: technology
+  categories: &id029
+  - detection_response
+  - vuln_exposure
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://thedfirreport.com/2026/05/11/flash-alert-etherrat-and-tuktuk-c2-end-in-the-gentleman-ransomware/
+    tier: A
+    label: The DFIR Report
+  incumbent_comparison: *id029
+  snippet: 'The EtherRAT malware family was first reported by Sysdig back in December
+    2025. At that time, the initial access vector was exploitation of CVE-2025-55182
+    (React2Shell) targeting Linux servers. In March 2026, a Windows variant campaign
+    was reported by Atos, with their investigation showing evidence of activity going
+    back to the previous December. In April, we [&#8230;]
+
+    The post <a href="https://thedfirreport.com/2026/05/11/flash-alert-etherrat-and-tuktuk-c2-end-in-the-gentleman-ransomw'
+  discovery_source: rss
+  triage_score: 8
+- id: rss-thedfirreport-bissa-scanner-exposed-ai-assisted-mass-exploitation-and-credential-harvesting
+  slug: bissa-scanner-exposed-ai-assisted-mass-exploitation-and-credential-harvesting
+  name: 'Bissa Scanner Exposed: AI-Assisted Mass Exploitation and Credential Harvesting'
+  type: product
+  categories: *id029
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://thedfirreport.com/2026/04/22/bissa-scanner-exposed-ai-assisted-mass-exploitation-and-credential-harvesting/
+    tier: A
+    label: The DFIR Report
+  incumbent_comparison: *id029
+  snippet: 'Key Takeaways We identified an exposed server that provided unusual visibility
+    into a large-scale, multi-victim exploitation and collection operation. Artifacts
+    on the host showed that Claude Code and OpenClaw were embedded in the operator’s
+    day-to-day workflow, supporting troubleshooting, orchestration, and refinement
+    of the collection pipeline. This AI-assisted workflow resulted in the modular
+    platform Bissa scanner [&#8230;]
+
+    The post <a href="https://thedfirreport.com/2026/04/22/bis'
+  discovery_source: rss
+  triage_score: 16
+- id: rss-thedfirreport-apache-activemq-exploit-leads-to-lockbit-ransomware
+  slug: apache-activemq-exploit-leads-to-lockbit-ransomware
+  name: Apache ActiveMQ Exploit Leads to LockBit Ransomware
+  type: technology
+  categories: *id029
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://thedfirreport.com/2026/02/23/apache-activemq-exploit-leads-to-lockbit-ransomware/
+    tier: A
+    label: The DFIR Report
+  incumbent_comparison: *id029
+  snippet: 'Key Takeaways An audio version of this report can be found on&#160;Spotify,&#160;Apple,&#160;YouTube,&#160;Audible,
+    &#38;&#160;Amazon.&#160; This intrusion began in mid-February 2024 after a threat
+    actor exploited a vulnerability (CVE-2023-46604) on an exposed Apache ActiveMQ
+    server. The threat actor was able to perform remote code execution (RCE) by using
+    a Java Spring class and a custom Java Spring [&#8230;]
+
+    The post <a href="https://thedfirreport.com/2026/02/23/apache-activemq-explo'
+  discovery_source: rss
+  triage_score: 16
+- id: rss-thedfirreport-cat-s-got-your-files-lynx-ransomware
+  slug: cat-s-got-your-files-lynx-ransomware
+  name: 'Cat’s Got Your Files: Lynx Ransomware'
+  type: technology
+  categories: *id029
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://thedfirreport.com/2025/12/17/cats-got-your-files-lynx-ransomware/
+    tier: A
+    label: The DFIR Report
+  incumbent_comparison: *id029
+  snippet: 'Key Takeaways The DFIR Report Services Contact us today for pricing or
+    a demo! The intrusion began in early March 2025 with a single successful Remote
+    Desktop Protocol (RDP) logon to an internet-exposed system. Notably, there was
+    no evidence of credential stuffing, brute forcing, or other failed authentication
+    attempts from the source IP, indicating the [&#8230;]
+
+    The post Cat’s Got Your Files: Lynx Rans'
+  discovery_source: rss
+  triage_score: 8
+- id: rss-thedfirreport-from-bing-search-to-ransomware-bumblebee-and-adaptixc2-deliver-akira
+  slug: from-bing-search-to-ransomware-bumblebee-and-adaptixc2-deliver-akira
+  name: 'From Bing Search to Ransomware: Bumblebee and AdaptixC2 Deliver Akira'
+  type: technology
+  categories: *id029
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://thedfirreport.com/2025/11/04/from-bing-search-to-ransomware-bumblebee-and-adaptixc2-deliver-akira-2/
+    tier: A
+    label: The DFIR Report
+  incumbent_comparison: *id029
+  snippet: 'Overview Bumblebee malware has been an initial access tool used by threat
+    actors since late 2021. In 2023 the malware was first reported as using SEO poisoning
+    as a delivery mechanism. Recently in May of 2025 Cyjax reported on a campaign
+    using this method again, impersonating various IT tools. We observed a similar
+    campaign in [&#8230;]
+
+    The post From Bing Search to Ran'
+  discovery_source: rss
+  triage_score: 8
+- id: rss-thedfirreport-from-a-single-click-how-lunar-spider-enabled-a-near-two-month-intrusion
+  slug: from-a-single-click-how-lunar-spider-enabled-a-near-two-month-intrusion
+  name: 'From a Single Click: How Lunar Spider Enabled a Near Two-Month Intrusion'
+  type: technology
+  categories: *id029
+  status: new
+  priority: medium
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://thedfirreport.com/2025/09/29/from-a-single-click-how-lunar-spider-enabled-a-near-two-month-intrusion/
+    tier: A
+    label: The DFIR Report
+  incumbent_comparison: *id029
+  snippet: 'Key Takeaways Private Threat Briefs: 20+ private DFIR reports annually.
+    &#160; Contact us today for pricing or a demo! &#160; Table of Contents: Case
+    Summary Analysts Initial Access Execution Persistence Privilege Escalation Defense
+    Evasion Credential Access Discovery Lateral Movement Command and Control Exfiltration
+    Impact Timeline Diamond Model Indicators Detections MITRE ATT&#38;CK   Case Summary
+    The intrusion [&#8230;]
+
+    The post <a href="https://thedfirreport.com/2025/09/29/from-a-s'
+  discovery_source: rss
+  triage_score: 24
+- id: rss-thedfirreport-blurring-the-lines-intrusion-shows-connection-with-three-major-ransomware-gangs
+  slug: blurring-the-lines-intrusion-shows-connection-with-three-major-ransomware-gangs
+  name: 'Blurring the Lines: Intrusion Shows Connection With Three Major Ransomware
+    Gangs'
+  type: technology
+  categories: *id029
+  status: new
+  priority: medium
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://thedfirreport.com/2025/09/08/blurring-the-lines-intrusion-shows-connection-with-three-major-ransomware-gangs/
+    tier: A
+    label: The DFIR Report
+  incumbent_comparison: *id029
+  snippet: 'Key Takeaways Private Threat Briefs: 20+ private DFIR reports annually.
+    Contact us today for pricing or a demo! Table of Contents: Case Summary Analysts
+    Initial Access Execution Persistence Privilege Escalation Defense Evasion Credential
+    Access Discovery Lateral Movement Collection Command and Control Exfiltration
+    Impact Timeline Diamond Model Indicators Detections MITRE ATT&#38;CK Case Summary
+    The intrusion began in [&#8230;]
+
+    The post <a href="https://thedfirreport.com/2025/09/08/blur'
+  discovery_source: rss
+  triage_score: 24
+- id: rss-thedfirreport-kongtuke-filefix-leads-to-new-interlock-rat-variant
+  slug: kongtuke-filefix-leads-to-new-interlock-rat-variant
+  name: KongTuke FileFix Leads to New Interlock RAT Variant
+  type: technology
+  categories: *id029
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://thedfirreport.com/2025/07/14/kongtuke-filefix-leads-to-new-interlock-rat-variant/
+    tier: A
+    label: The DFIR Report
+  incumbent_comparison: *id029
+  snippet: 'Researchers from The DFIR Report, in partnership with Proofpoint, have
+    identified a new and resilient variant of the Interlock ransomware group&#8217;s
+    remote access trojan (RAT). This new malware, a shift from the previously identified
+    JavaScript-based Interlock RAT (aka NodeSnake), uses PHP and is being used in
+    a widespread campaign. Since May 2025, activity related to [&#8230;]
+
+    The post <a href="https://thedfirreport.com/2025/07/14/kongtuke-filefix-leads-to-new-interlock-rat-variant'
+  discovery_source: rss
+  triage_score: 8
+- id: rss-thedfirreport-hide-your-rdp-password-spray-leads-to-ransomhub-deployment
+  slug: hide-your-rdp-password-spray-leads-to-ransomhub-deployment
+  name: 'Hide Your RDP: Password Spray Leads to RansomHub Deployment'
+  type: technology
+  categories: *id029
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://thedfirreport.com/2025/06/30/hide-your-rdp-password-spray-leads-to-ransomhub-deployment/
+    tier: A
+    label: The DFIR Report
+  incumbent_comparison: *id029
+  snippet: 'Key Takeaways Case Summary This intrusion began in November 2024 with
+    a password spray attack targeting an internet-facing RDP server. Over the course
+    of several hours, the threat actor attempted logins against multiple accounts
+    using known malicious IPs (based on OSINT). Several hours later they then logged
+    in via RDP with one of the previously [&#8230;]
+
+    The post Hide Your RDP: P'
+  discovery_source: rss
+  triage_score: 8
+- id: rss-thedfirreport-another-confluence-bites-the-dust-falling-to-elpaco-team-ransomware
+  slug: another-confluence-bites-the-dust-falling-to-elpaco-team-ransomware
+  name: 'Another Confluence Bites the Dust: Falling to ELPACO-team Ransomware'
+  type: technology
+  categories: *id029
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://thedfirreport.com/2025/05/19/another-confluence-bites-the-dust-falling-to-elpaco-team-ransomware/
+    tier: A
+    label: The DFIR Report
+  incumbent_comparison: *id029
+  snippet: 'Key Takeaways The DFIR Report Services Table of Contents: Case Summary
+    In late June 2024, an unpatched Confluence server was compromised via CVE-2023-22527,
+    a template injection vulnerability, first from IP address 45.227.254[.]124, which
+    just ran whoami and exited. Shortly thereafter, a different IP address used the
+    same exploit, running curl to deploy a Metasploit payload [&#8230;]
+
+    The post <a href="https://thedfirreport.com/2025/05/19/another-confluence-bites-the-dust-falling-to-elp'
+  discovery_source: rss
+  triage_score: 16
+- id: rss-unit42-threat-brief-mitigating-large-scale-credential-attacks
+  slug: threat-brief-mitigating-large-scale-credential-attacks
+  name: 'Threat Brief: Mitigating Large-Scale Credential Attacks'
+  type: technology
+  categories: &id030
+  - detection_response
+  - cloud_identity
+  - vuln_exposure
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://unit42.paloaltonetworks.com/large-scale-credential-attacks/
+    tier: B
+    label: Unit 42 (Palo Alto Networks)
+  incumbent_comparison: *id030
+  snippet: "We provide guidance for preparing for and mitigating large-scale credential\
+    \ attacks, focusing on recent campaigns targeting security vendors' devices. \n\
+    The post Threat Brief: Mitigating Large-Scale Credential Attacks appeared first\
+    \ on Unit 42."
+  discovery_source: rss
+  triage_score: 7
+- id: rss-unit42-cl-sta-1062-targets-southeast-asian-governments-and-critical-infrastructure
+  slug: cl-sta-1062-targets-southeast-asian-governments-and-critical-infrastructure
+  name: CL-STA-1062 Targets Southeast Asian Governments and Critical Infrastructure
+  type: technology
+  categories: *id030
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://unit42.paloaltonetworks.com/cl-sta-1062-tinyrct-backdoor/
+    tier: B
+    label: Unit 42 (Palo Alto Networks)
+  incumbent_comparison: *id030
+  snippet: "Government entities and critical infrastructure were targeted for espionage\
+    \ in SE Asia by attackers using a hybrid toolkit, including custom TinyRCT backdoor.\
+    \ \nThe post CL-STA-1062 Targets Southeast Asian Governments and Critical Infrastructure\
+    \ appeared first on Unit 42."
+  discovery_source: rss
+  triage_score: 7
+- id: rss-unit42-openclaw-s-skill-marketplace-and-the-emerging-ai-supply-chain-threat
+  slug: openclaw-s-skill-marketplace-and-the-emerging-ai-supply-chain-threat
+  name: OpenClaw’s Skill Marketplace and the Emerging AI Supply Chain Threat
+  type: technology
+  categories: *id030
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://unit42.paloaltonetworks.com/openclaw-ai-supply-chain-risk/
+    tier: B
+    label: Unit 42 (Palo Alto Networks)
+  incumbent_comparison: *id030
+  snippet: 'Unit 42''s analysis of ClawHub revealed evasive malicious skills bypassing
+    automated scanners to deploy infostealers and execute agentic financial fraud.
+
+    The post OpenClaw’s Skill Marketplace and the Emerging AI Supply Chain Threat
+    appeared first on Unit 42.'
+  discovery_source: rss
+  triage_score: 15
+- id: rss-unit42-the-global-namespace-risk-universal-bucket-hijacking-technique-for-cloud-data-ex
+  slug: the-global-namespace-risk-universal-bucket-hijacking-technique-for-cloud-data-ex
+  name: 'The Global Namespace Risk: Universal Bucket Hijacking Technique for Cloud
+    Data Exfiltration'
+  type: technology
+  categories: *id030
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://unit42.paloaltonetworks.com/cloud-bucket-hijacking-risks/
+    tier: B
+    label: Unit 42 (Palo Alto Networks)
+  incumbent_comparison: *id030
+  snippet: 'Unit 42 research details how attackers could exploit global name uniqueness
+    in bucket hijacking to redirect cloud data streams across major CSPs.
+
+    The post The Global Namespace Risk: Universal Bucket Hijacking Technique for Cloud
+    Data Exfiltration appeared first on Unit 42.'
+  discovery_source: rss
+  triage_score: 7
+- id: rss-unit42-pickle-in-the-middle-hijacking-vertex-ai-model-uploads-for-cross-tenant-rce
+  slug: pickle-in-the-middle-hijacking-vertex-ai-model-uploads-for-cross-tenant-rce
+  name: Pickle in the Middle – Hijacking Vertex AI Model Uploads for Cross-Tenant
+    RCE
+  type: technology
+  categories: *id030
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://unit42.paloaltonetworks.com/hijacking-vertex-ai-model/
+    tier: B
+    label: Unit 42 (Palo Alto Networks)
+  incumbent_comparison: *id030
+  snippet: "Unit 42 discovered a Vertex AI Python SDK vulnerability that allows remote\
+    \ code execution via bucket squatting. Read the article for more. \nThe post Pickle\
+    \ in the Middle – Hijacking Vertex AI Model Uploads for Cross-Tenant RCE appeared\
+    \ first on Unit 42."
+  discovery_source: rss
+  triage_score: 15
+- id: rss-unit42-inside-the-modern-soc-the-72-minute-race
+  slug: inside-the-modern-soc-the-72-minute-race
+  name: 'Inside the Modern SOC: The 72-Minute Race'
+  type: technology
+  categories: *id030
+  status: new
+  priority: medium
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://unit42.paloaltonetworks.com/soc-72-minute-race/
+    tier: B
+    label: Unit 42 (Palo Alto Networks)
+  incumbent_comparison: *id030
+  snippet: 'Attackers can move from access to exfiltration in 72 minutes. Learn how
+    modern SOC teams close the speed gap with Unit 42''s AI-driven automation, threat
+    hunting, MDR and Managed XSIAM.
+
+    The post Inside the Modern SOC: The 72-Minute Race appeared first on Unit 42.'
+  discovery_source: rss
+  triage_score: 31
+- id: rss-unit42-tracing-digital-intent-new-macos-tahoe-26-artifact-discovered
+  slug: tracing-digital-intent-new-macos-tahoe-26-artifact-discovered
+  name: 'Tracing Digital Intent: New MacOS Tahoe 26 Artifact Discovered'
+  type: technology
+  categories: *id030
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://unit42.paloaltonetworks.com/new-macos-artifact-discovered/
+    tier: B
+    label: Unit 42 (Palo Alto Networks)
+  incumbent_comparison: *id030
+  snippet: "Unit 42 has discovered a new macOS Tahoe 26 forensic artifact that tracks\
+    \ user menu selections across the operating system. Learn more here. \nThe post\
+    \ Tracing Digital Intent: New MacOS Tahoe 26 Artifact Discovered appeared first\
+    \ on Unit 42."
+  discovery_source: rss
+  triage_score: 7
+- id: rss-unit42-trust-no-skill-integrity-verification-for-ai-agent-supply-chains
+  slug: trust-no-skill-integrity-verification-for-ai-agent-supply-chains
+  name: 'Trust No Skill: Integrity Verification for AI Agent Supply Chains'
+  type: technology
+  categories: *id030
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://unit42.paloaltonetworks.com/ai-agent-supply-chain-risks/
+    tier: B
+    label: Unit 42 (Palo Alto Networks)
+  incumbent_comparison: *id030
+  snippet: 'Protect enterprise AI agents from supply chain risks by auditing third-party
+    skills for hidden vulnerabilities and multi-stage attack chains.
+
+    The post Trust No Skill: Integrity Verification for AI Agent Supply Chains appeared
+    first on Unit 42.'
+  discovery_source: rss
+  triage_score: 7
+- id: rss-unit42-blinding-the-watchmen-abusing-cloud-logging-services-for-defense-evasion-and-vis
+  slug: blinding-the-watchmen-abusing-cloud-logging-services-for-defense-evasion-and-vis
+  name: 'Blinding the Watchmen: Abusing Cloud Logging Services for Defense Evasion
+    and Visibility'
+  type: technology
+  categories: *id030
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://unit42.paloaltonetworks.com/cloud-logging-defense-evasion/
+    tier: B
+    label: Unit 42 (Palo Alto Networks)
+  incumbent_comparison: *id030
+  snippet: 'Unit 42 research examines attack scenarios targeting cloud logging services.
+    Learn how to defend against log manipulation and defense evasion.
+
+    The post Blinding the Watchmen: Abusing Cloud Logging Services for Defense Evasion
+    and Visibility appeared first on Unit 42.'
+  discovery_source: rss
+  triage_score: 7
+- id: rss-unit42-threat-brief-active-exploitation-of-pan-os-cve-2026-0257
+  slug: threat-brief-active-exploitation-of-pan-os-cve-2026-0257
+  name: 'Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257'
+  type: technology
+  categories: *id030
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://unit42.paloaltonetworks.com/active-exploitation-of-pan-os-cve-2026-0257/
+    tier: B
+    label: Unit 42 (Palo Alto Networks)
+  incumbent_comparison: *id030
+  snippet: 'We include indicators of activity and mitigations for PAN-OS vulnerability
+    CVE-2026-0257.
+
+    The post Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257 appeared first
+    on Unit 42.'
+  discovery_source: rss
+  triage_score: 15
+- id: rss-unit42-when-hi-this-is-it-comes-through-microsoft-teams
+  slug: when-hi-this-is-it-comes-through-microsoft-teams
+  name: When “Hi, This Is IT” Comes Through Microsoft Teams
+  type: product
+  categories: *id030
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://unit42.paloaltonetworks.com/microsoft-teams-phishing/
+    tier: B
+    label: Unit 42 (Palo Alto Networks)
+  incumbent_comparison: *id030
+  snippet: 'Attackers are increasingly targeting collaboration platforms like Microsoft
+    Teams. Learn the risks and key steps to strengthen your organization''s security.
+
+    The post When “Hi, This Is IT” Comes Through Microsoft Teams appeared first on
+    Unit 42.'
+  discovery_source: rss
+  triage_score: 7
+- id: rss-unit42-the-npm-threat-landscape-attack-surface-and-mitigations-updated-june-2
+  slug: the-npm-threat-landscape-attack-surface-and-mitigations-updated-june-2
+  name: 'The npm Threat Landscape: Attack Surface and Mitigations (Updated June 2)'
+  type: technology
+  categories: *id030
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://unit42.paloaltonetworks.com/monitoring-npm-supply-chain-attacks/
+    tier: B
+    label: Unit 42 (Palo Alto Networks)
+  incumbent_comparison: *id030
+  snippet: "Unit 42 analyzes npm supply chain evolution post-Shai Hulud. Discover\
+    \ wormable malware, CI/CD persistence, multi-stage attacks and more. \nThe post\
+    \ The npm Threat Landscape: Attack Surface and Mitigations (Updated June 2) appeared\
+    \ first on Unit 42."
+  discovery_source: rss
+  triage_score: 15
+- id: rss-unit42-operation-flutterbridge-macos-malvertising-campaign-spreads-new-fluttershell-bac
+  slug: operation-flutterbridge-macos-malvertising-campaign-spreads-new-fluttershell-bac
+  name: 'Operation FlutterBridge: macOS Malvertising Campaign Spreads New FlutterShell
+    Backdoor'
+  type: technology
+  categories: *id030
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://unit42.paloaltonetworks.com/flutterbridge-new-fluttershell-backdoor/
+    tier: B
+    label: Unit 42 (Palo Alto Networks)
+  incumbent_comparison: *id030
+  snippet: 'Operation FlutterBridge is a malvertising campaign targeting macOS users.
+    It distributed the new backdoor FlutterShell, built using the Flutter framework.
+
+    The post Operation FlutterBridge: macOS Malvertising Campaign Spreads New FlutterShell
+    Backdoor appeared first on Unit 42.'
+  discovery_source: rss
+  triage_score: 7
+- id: rss-unit42-2026-world-cup-discussing-the-world-s-biggest-game-s-attack-surface
+  slug: 2026-world-cup-discussing-the-world-s-biggest-game-s-attack-surface
+  name: '2026 World Cup: Discussing The World’s Biggest Game’s Attack Surface'
+  type: technology
+  categories: *id030
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://unit42.paloaltonetworks.com/fifa-world-cup-attack-surface/
+    tier: B
+    label: Unit 42 (Palo Alto Networks)
+  incumbent_comparison: *id030
+  snippet: "The 2026 World Cup presents major cyber risks from ransomware groups,\
+    \ state-aligned actors, and other groups targeting critical infrastructure. Learn\
+    \ more here. \nThe post 2026 World Cup: Discussing The World’s Biggest Game’s\
+    \ Attack Surface appeared first on Unit 42."
+  discovery_source: rss
+  triage_score: 15
+- id: rss-unit42-out-of-the-crypt-the-evolving-cyber-extortion-economy
+  slug: out-of-the-crypt-the-evolving-cyber-extortion-economy
+  name: 'Out of the Crypt: The Evolving Cyber Extortion Economy'
+  type: technology
+  categories: *id030
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://unit42.paloaltonetworks.com/cyber-extortion-economy/
+    tier: B
+    label: Unit 42 (Palo Alto Networks)
+  incumbent_comparison: *id030
+  snippet: 'Unit 42 explores trends in data theft and extortion, outlining key strategies
+    for organizations as frontier AI models advance.
+
+    The post Out of the Crypt: The Evolving Cyber Extortion Economy appeared first
+    on Unit 42.'
+  discovery_source: rss
+  triage_score: 7
+- id: rss-from-vulnerability-report-to-cve-draft-in-minutes-how-elastic-automated-security
+  slug: from-vulnerability-report-to-cve-draft-in-minutes-how-elastic-automated-security
+  name: 'From vulnerability report to CVE draft in minutes: how Elastic automated
+    security advisories with AI'
+  type: technology
+  categories: &id031
+  - detection_response
+  - data_ai
+  status: new
+  priority: medium
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.elastic.co/security-labs/security-advisory-automation-rag-elastic-agent-builder
+    tier: B
+    label: Elastic Security Labs
+  incumbent_comparison: *id031
+  snippet: How Elastic's security team built an AI agent with RAG against MITRE's
+    CWE and CAPEC catalogues to draft CVE advisories from raw vulnerability reports,
+    including the full prompt and crawler configs.
+  discovery_source: rss
+  triage_score: 23
+- id: rss-elastic-azure-ad-graph-activity-logs-ingestion-and-threat-detection-to-close-the-visibil
+  slug: azure-ad-graph-activity-logs-ingestion-and-threat-detection-to-close-the-visibil
+  name: 'Azure AD Graph Activity Logs: Ingestion and threat detection to close the
+    visibility gap'
+  type: technology
+  categories: *id031
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.elastic.co/security-labs/aad-graph-activity-logs-threat-detection
+    tier: B
+    label: Elastic Security Labs
+  incumbent_comparison: *id031
+  snippet: Azure AD Graph Activity Logs land in Elastic with full ECS parsing. Detect
+    ROADrecon and AADInternals enumeration with ready-to-use detection rules.
+  discovery_source: rss
+  triage_score: 15
+- id: rss-elastic-lost-in-relocation-analysis-of-a-new-loader-distributing-castlestealer
+  slug: lost-in-relocation-analysis-of-a-new-loader-distributing-castlestealer
+  name: 'Lost in relocation: analysis of a new loader distributing CASTLESTEALER'
+  type: technology
+  categories: *id031
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.elastic.co/security-labs/oxloader-malware-loader-infostealer
+    tier: B
+    label: Elastic Security Labs
+  incumbent_comparison: *id031
+  snippet: Find out how a new obfuscated loader evades static detection using .reloc
+    section abuse, five anti-VM/language checks and MBA obfuscation to deliver infostealer
+    malware via Google Ads.
+  discovery_source: rss
+  triage_score: 15
+- id: rss-from-api-key-to-live-threat-detections-in-minutes-how-elastic-security-ingests-g
+  slug: from-api-key-to-live-threat-detections-in-minutes-how-elastic-security-ingests-g
+  name: 'From API key to live threat detections in minutes: how Elastic Security ingests
+    Google Threat Intelligence'
+  type: technology
+  categories: *id031
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.elastic.co/security-labs/elastic-security-google-threat-intelligence
+    tier: B
+    label: Elastic Security Labs
+  incumbent_comparison: *id031
+  snippet: Find out how Elastic Security ingests Google Threat Intelligence for continuous
+    detection and uses AI-driven workflows to enrich alerts in real time, from API
+    key to live detections in minutes.
+  discovery_source: rss
+  triage_score: 15
+- id: rss-elastic-detecting-tycoon-2fa-aitm-attacks-across-entra-id-and-google-workspace
+  slug: detecting-tycoon-2fa-aitm-attacks-across-entra-id-and-google-workspace
+  name: Detecting Tycoon 2FA AiTM attacks across Entra ID and Google Workspace
+  type: product
+  categories: *id031
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.elastic.co/security-labs/tycoon-2fa-aitm-detection-engineering
+    tier: B
+    label: Elastic Security Labs
+  incumbent_comparison: *id031
+  snippet: Tycoon 2FA bypasses MFA on Entra ID and Google Workspace. We map telemetry
+    fingerprints across both platforms, ship detection rules for both tiers, and contain
+    incidents in under 10 seconds with Elastic Workflows.
+  discovery_source: rss
+  triage_score: 15
+- id: rss-elastic-phantompulse-anatomy-of-a-hijackable-blockchain-c2-rat
+  slug: phantompulse-anatomy-of-a-hijackable-blockchain-c2-rat
+  name: 'PHANTOMPULSE: anatomy of a hijackable blockchain-C2 RAT'
+  type: technology
+  categories: *id031
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.elastic.co/security-labs/blockchain-c2-phantompulse-rat-sinkhole
+    tier: B
+    label: Elastic Security Labs
+  incumbent_comparison: *id031
+  snippet: Elastic Security Labs presents a detailed reverse-engineering analysis
+    of PHANTOMPULSE, the long-lived RAT delivered to crypto-sector victims through
+    the REF6598 intrusion set.
+  discovery_source: rss
+  triage_score: 7
+- id: rss-elastic-security-mcp-app-interactive-security-operations-inside-your-ai-tools
+  slug: elastic-security-mcp-app-interactive-security-operations-inside-your-ai-tools
+  name: 'Elastic Security MCP App: Interactive security operations inside your AI
+    Tools'
+  type: technology
+  categories: *id031
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.elastic.co/security-labs/elastic-security-mcp-app
+    tier: B
+    label: Elastic Security Labs
+  incumbent_comparison: *id031
+  snippet: Elastic Security is the first security vendor to ship an interactive UI
+    in AI tools. Triage alerts, hunt threats, correlate attack chains, and open cases,
+    all from inside your AI conversation.
+  discovery_source: rss
+  triage_score: 15
+- id: rss-elastic-copy-fail-and-dirtyfrag-linux-page-cache-bugs-in-the-wild
+  slug: copy-fail-and-dirtyfrag-linux-page-cache-bugs-in-the-wild
+  name: 'Copy Fail and DirtyFrag: Linux Page Cache Bugs in the Wild'
+  type: technology
+  categories: *id031
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.elastic.co/security-labs/copy-fail-dirtyfrag-linux-page-bugs-in-the-wild
+    tier: B
+    label: Elastic Security Labs
+  incumbent_comparison: *id031
+  snippet: This research analyzes the Linux kernel privilege escalation vulnerabilities
+    Copy Fail and DirtyFrag, which exploit subtle page cache corruption bugs to create
+    reliable paths to root access. Additionally, Elastic Security Labs is releasing
+    detection logic for these vulnerabilities.
+  discovery_source: rss
+  triage_score: 15
+- id: rss-elastic-detecting-web-server-probing-fuzzing-in-traefik-with-automated-cloudflare-respon
+  slug: detecting-web-server-probing-fuzzing-in-traefik-with-automated-cloudflare-respon
+  name: Detecting Web Server Probing & Fuzzing in Traefik with Automated Cloudflare
+    Response
+  type: technology
+  categories: *id031
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.elastic.co/security-labs/detecting-web-server-probing-and-fuzzing
+    tier: B
+    label: Elastic Security Labs
+  incumbent_comparison: *id031
+  snippet: This article shows how a customized Elastic Security ES|QL detection rule
+    can identify web server probing and fuzzing activity in Traefik logs and automatically
+    block the attacking IP via Cloudflare.
+  discovery_source: rss
+  triage_score: 15
+- id: rss-elastic-tclbanker-brazilian-banking-trojan-spreading-via-whatsapp-and-outlook
+  slug: tclbanker-brazilian-banking-trojan-spreading-via-whatsapp-and-outlook
+  name: 'TCLBANKER: Brazilian Banking Trojan Spreading via WhatsApp and Outlook'
+  type: technology
+  categories: *id031
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.elastic.co/security-labs/tclbanker-brazilian-banking-trojan
+    tier: B
+    label: Elastic Security Labs
+  incumbent_comparison: *id031
+  snippet: REF3076 uses a trojanized Logitech installer to deploy TCLBANKER, a Brazilian
+    banking trojan with environment-gated payloads, WPF fraud overlays, and self-propagating
+    WhatsApp and Outlook worm modules.
+  discovery_source: rss
+  triage_score: 7
+- id: rss-elastic-workflows-ga-automation-where-your-security-data-already-lives
+  slug: elastic-workflows-ga-automation-where-your-security-data-already-lives
+  name: 'Elastic Workflows GA: automation where your security data already lives'
+  type: technology
+  categories: *id031
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.elastic.co/security-labs/elastic-workflows-ga-9-4
+    tier: B
+    label: Elastic Security Labs
+  incumbent_comparison: *id031
+  snippet: Elastic Workflows is generally available in 9.4, bringing production-ready
+    security automation with deeper case management integration, human-in-the-loop
+    support, natural language authoring, and more.
+  discovery_source: rss
+  triage_score: 7
+- id: rss-elastic-know-who-to-watch-before-the-incident-finds-you
+  slug: know-who-to-watch-before-the-incident-finds-you
+  name: Know who to watch before the incident finds you
+  type: technology
+  categories: *id031
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.elastic.co/security-labs/entity-analytics-watchlists
+    tier: B
+    label: Elastic Security Labs
+  incumbent_comparison: *id031
+  snippet: Elastic Security v9.4 introduces Entity Analytics Watchlists, a way to
+    codify what your team already knows about high-risk entities and feed that context
+    directly into risk scoring, without custom pipelines or detection engineering
+    overhead
+  discovery_source: rss
+  triage_score: 15
+- id: rss-elastic-ai-generated-hunting-leads-the-hunt-starts-before-you-ask-the-question
+  slug: ai-generated-hunting-leads-the-hunt-starts-before-you-ask-the-question
+  name: 'AI-generated hunting leads: The hunt starts before you ask the question'
+  type: technology
+  categories: *id031
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.elastic.co/security-labs/proactive-threat-hunting-ai-generated-leads
+    tier: B
+    label: Elastic Security Labs
+  incumbent_comparison: *id031
+  snippet: Introducing AI-generated hunting leads, proactive, environment-aware threat
+    hypotheses powered by Elastic Entity analytics and integrated AI reasoning.
+  discovery_source: rss
+  triage_score: 7
+- id: rss-elastic-your-ueba-is-lying-to-you-why-entity-record-quality-decides-everything
+  slug: your-ueba-is-lying-to-you-why-entity-record-quality-decides-everything
+  name: 'Your UEBA is lying to you: Why entity record quality decides everything'
+  type: technology
+  categories: *id031
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.elastic.co/security-labs/ueba-entity-record-quality-analytics
+    tier: B
+    label: Elastic Security Labs
+  incumbent_comparison: *id031
+  snippet: Most entity analytics systems are confidently wrong. They track users who
+    do not exist, generate risk scores built on noise, and call it behavioral analytics.
+    Learn why the entities records you don't create matter as much as the ones you
+    do and how a confidence-tiered model changes the game.
+  discovery_source: rss
+  triage_score: 7
+- id: rss-from-plain-english-to-production-rule-ai-native-elasticsearch-es-ql-detection-in
+  slug: from-plain-english-to-production-rule-ai-native-elasticsearch-es-ql-detection-in
+  name: 'From plain English to production rule: AI-native Elasticsearch ES|QL detection
+    in Elastic Security'
+  type: technology
+  categories: *id031
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://www.elastic.co/security-labs/ai-esql-detection-rule-creation
+    tier: B
+    label: Elastic Security Labs
+  incumbent_comparison: *id031
+  snippet: Elastic Security now lets analysts describe a threat behavior in plain
+    language and receive a complete, validated Elasticsearch ES|QL detection rule
+    in return, no query expertise required.
+  discovery_source: rss
+  triage_score: 15
+- id: rss-blog-beyond-iocs-ai-enabled-threat-intelligence
+  slug: beyond-iocs-ai-enabled-threat-intelligence
+  name: 'Beyond IOCs: AI-enabled threat intelligence'
+  type: technology
+  categories: &id032
+  - detection_response
+  - vuln_exposure
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://blog.talosintelligence.com/beyond-iocs-ai-enabled-threat-intelligence/
+    tier: B
+    label: Cisco Talos Intelligence
+  incumbent_comparison: *id032
+  snippet: In this week’s newsletter, Martin considers how AI will help threat intelligence
+    by creating an easily queryable data source of intelligence reports.
+  discovery_source: rss
+  triage_score: 7
+- id: rss-blog-introduction-to-com-usage-by-windows-threats
+  slug: introduction-to-com-usage-by-windows-threats
+  name: Introduction to COM usage by Windows threats
+  type: technology
+  categories: *id032
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://blog.talosintelligence.com/introduction-to-com-usage-by-windows-threats/
+    tier: B
+    label: Cisco Talos Intelligence
+  incumbent_comparison: *id032
+  snippet: Component Object Model (COM) is a fundamental Windows technology used by
+    legitimate applications for object activation, inter-process communication, automation
+    and language-independent component reuse. Those same qualities make it useful
+    to threat actors.
+  discovery_source: rss
+  triage_score: 7
+- id: rss-blog-close-encounters-of-the-human-kind
+  slug: close-encounters-of-the-human-kind
+  name: Close Encounters of the Human Kind
+  type: technology
+  categories: *id032
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://blog.talosintelligence.com/close-encounters-of-the-human-kind/
+    tier: B
+    label: Cisco Talos Intelligence
+  incumbent_comparison: *id032
+  snippet: In the latest Threat Source, Hazel channels her inner Spielberg to explore
+    why humans are delightfully irrational, reminding us that while security best
+    practices are simple in theory, they’re a lot harder to pull off when you’re busy
+    dealing with real life.
+  discovery_source: rss
+  triage_score: 7
+- id: rss-blog-scripting-the-disassembler-local-agentic-reverse-engineering-through-vbdec-s-liv
+  slug: scripting-the-disassembler-local-agentic-reverse-engineering-through-vbdec-s-liv
+  name: 'Scripting the disassembler: Local agentic reverse engineering through vbdec’s
+    live COM object model'
+  type: technology
+  categories: *id032
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://blog.talosintelligence.com/scripting-the-disassembler/
+    tier: B
+    label: Cisco Talos Intelligence
+  incumbent_comparison: *id032
+  snippet: Cisco Talos detailed a new approach to reverse engineering that pairs local
+    AI agents with traditional analysis tools like the VB6 disassembler vbdec. Instead
+    of awkwardly bolting AI onto the software, vbdec exposes its parsed data through
+    a live COM interface.
+  discovery_source: rss
+  triage_score: 15
+- id: rss-blog-a-tale-of-two-eras
+  slug: a-tale-of-two-eras
+  name: A tale of two eras
+  type: technology
+  categories: *id032
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://blog.talosintelligence.com/a-tale-of-two-eras/
+    tier: B
+    label: Cisco Talos Intelligence
+  incumbent_comparison: *id032
+  snippet: In this week’s newsletter, Amy reminisces on the tech toys of their childhood,
+    inspired by a hilarious lesson about why your digital privacy shouldn't be left
+    on an open channel.
+  discovery_source: rss
+  triage_score: 7
+- id: rss-blog-microsoft-patch-tuesday-for-june-2026-snort-rules-and-prominent-vulnerabilities
+  slug: microsoft-patch-tuesday-for-june-2026-snort-rules-and-prominent-vulnerabilities
+  name: Microsoft Patch Tuesday for June 2026 — Snort rules and prominent vulnerabilities
+  type: technology
+  categories: *id032
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://blog.talosintelligence.com/microsoft-patch-tuesday-for-june-2026-snort-rules-and-prominent-vulnerabilities/
+    tier: B
+    label: Cisco Talos Intelligence
+  incumbent_comparison: *id032
+  snippet: Microsoft Patch Tuesday details for June 2026.
+  discovery_source: rss
+  triage_score: 7
+- id: rss-blog-reporting-from-vegas-networking-ai-and-good-boys
+  slug: reporting-from-vegas-networking-ai-and-good-boys
+  name: 'Reporting from Vegas: Networking, AI, and good boys'
+  type: technology
+  categories: *id032
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://blog.talosintelligence.com/reporting-from-vegas-networking-ai-and-good-boys/
+    tier: B
+    label: Cisco Talos Intelligence
+  incumbent_comparison: *id032
+  snippet: Joe’s on-the-ground report from Cisco Live U.S. is here, complete with
+    therapy dog pictures and tips on handling conference overstimulation.
+  discovery_source: rss
+  triage_score: 7
+- id: rss-blog-winning-the-cyber-marathon-with-tony-giandomenico
+  slug: winning-the-cyber-marathon-with-tony-giandomenico
+  name: Winning the cyber marathon with Tony Giandomenico
+  type: technology
+  categories: *id032
+  status: new
+  priority: medium
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://blog.talosintelligence.com/winning-the-cyber-marathon-with-tony-giandomenico/
+    tier: B
+    label: Cisco Talos Intelligence
+  incumbent_comparison: *id032
+  snippet: Tony Giandomenico, Senior Director of Product Management, joins Amy to
+    discuss the Talos Threat Hunting launch what he's excited about for the future
+    of cybersecurity, and, of course, his Ironman triathlons.
+  discovery_source: rss
+  triage_score: 23
+- id: rss-blog-less-panic-patching-more-precision
+  slug: less-panic-patching-more-precision
+  name: Less panic patching, more precision
+  type: technology
+  categories: *id032
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://blog.talosintelligence.com/less-panic-patching-more-precision/
+    tier: B
+    label: Cisco Talos Intelligence
+  incumbent_comparison: *id032
+  snippet: In this newsletter, Thor breaks down why you should stop relying solely
+    on CVSS and start using EPSS and GCVE to focus your patching efforts on the threats
+    that actually matter.
+  discovery_source: rss
+  triage_score: 7
+- id: rss-blog-dicom-pydicom-gdcm-and-orthanc-a-technical-tour-of-what-really-happens-in-the-he
+  slug: dicom-pydicom-gdcm-and-orthanc-a-technical-tour-of-what-really-happens-in-the-he
+  name: 'DICOM, Pydicom, GDCM, and Orthanc: A technical tour of what really happens
+    in the heap'
+  type: technology
+  categories: *id032
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://blog.talosintelligence.com/dicom-pydicom-gdcm-and-orthanc-a-technical-tour-of-what-really-happens-in-the-heap/
+    tier: B
+    label: Cisco Talos Intelligence
+  incumbent_comparison: *id032
+  snippet: This white paper presents a concrete case study demonstrating the creation
+    of a heap overflow vulnerability through the exploitation of the DICOM file format.
+  discovery_source: rss
+  triage_score: 15
+- id: rss-blog-mediaarea-heap-based-buffer-overflow-vulnerabilities
+  slug: mediaarea-heap-based-buffer-overflow-vulnerabilities
+  name: MediaArea heap-based buffer overflow vulnerabilities
+  type: technology
+  categories: *id032
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://blog.talosintelligence.com/mediaarea-heap-based-buffer-overflow-vulnerabilities/
+    tier: B
+    label: Cisco Talos Intelligence
+  incumbent_comparison: *id032
+  snippet: Talos researchers find 4 heap-based buffer overflow vulnerabilities in
+    MediaArea's MediaInfoLib.
+  discovery_source: rss
+  triage_score: 7
+- id: rss-blog-introducing-evidenceforge-synthetic-security-logs-that-don-t-look-as-fake
+  slug: introducing-evidenceforge-synthetic-security-logs-that-don-t-look-as-fake
+  name: 'Introducing EvidenceForge: Synthetic security logs that don’t look (as) fake'
+  type: technology
+  categories: *id032
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://blog.talosintelligence.com/introducing-evidenceforge-synthetic-security-logs-that-dont-look-as-fake/
+    tier: B
+    label: Cisco Talos Intelligence
+  incumbent_comparison: *id032
+  snippet: EvidenceForge generates high-quality, realistic, and consistent datasets
+    across multiple log formats, enabling teams to effectively train personnel and
+    validate detection models without the need for complex manual simulations.
+  discovery_source: rss
+  triage_score: 15
+- id: rss-blog-the-art-of-being-ungovernable
+  slug: the-art-of-being-ungovernable
+  name: The art of being ungovernable
+  type: technology
+  categories: *id032
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://blog.talosintelligence.com/the-art-of-being-ungovernable/
+    tier: B
+    label: Cisco Talos Intelligence
+  incumbent_comparison: *id032
+  snippet: In this edition of the Threat Source newsletter, William explores the value
+    of being "ungovernable" in a professional setting, sharing how challenging the
+    status quo and seeking out the smartest people in the room can lead to a more
+    fulfilling and successful career.
+  discovery_source: rss
+  triage_score: 7
+- id: rss-blog-tp-link-photoshop-openvpn-norton-vpn-vulnerabilities
+  slug: tp-link-photoshop-openvpn-norton-vpn-vulnerabilities
+  name: TP-Link, Photoshop, OpenVPN, Norton VPN vulnerabilities
+  type: technology
+  categories: *id032
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://blog.talosintelligence.com/tp-link-photoshop-openvpn-norton-vpn-vulnerabilities/
+    tier: B
+    label: Cisco Talos Intelligence
+  incumbent_comparison: *id032
+  snippet: Cisco Talos’ Vulnerability Discovery & Research team recently disclosed
+    eight vulnerabilities in TP-Link, and one each in Adobe Photoshop, OpenVPN, and
+    Gen Digital's Norton VPN.
+  discovery_source: rss
+  triage_score: 15
+- id: github-github-node9-ai-node9-proxy
+  slug: node9-ai-node9-proxy
+  name: node9-ai/node9-proxy
+  type: technology
+  categories: &id033
+  - data_ai
+  status: new
+  priority: medium
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/node9-ai/node9-proxy
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id033
+  snippet: The Execution Security Layer for the Agentic Era. Providing deterministic
+    "Sudo" governance and audit logs for autonomous AI agents.
+  discovery_source: github
+  triage_score: 20
+  metadata:
+    stars: 206
+    language: TypeScript
+    updated_at: '2026-06-29T07:15:27Z'
+- id: github-github-simota-agent-skills
+  slug: simota-agent-skills
+  name: simota/agent-skills
+  type: technology
+  categories: *id033
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/simota/agent-skills
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id033
+  snippet: 124 specialist AI agents for Claude Code / Codex CLI / Antigravity CLI
+    (agy). Anthropic Agent Skills spec-aligned, gerund-form descriptions, hub-spoke
+    orchestration via Nexus. Covers development, security, design, testing, FinOps,
+    compliance, observability, AI/ML, and more.
+  discovery_source: github
+  triage_score: 10
+  metadata:
+    stars: 56
+    language: HTML
+    updated_at: '2026-06-29T06:58:57Z'
+- id: github-github-th0rgal-sandboxed-sh
+  slug: th0rgal-sandboxed-sh
+  name: Th0rgal/sandboxed.sh
+  type: technology
+  categories: *id033
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/Th0rgal/sandboxed.sh
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id033
+  snippet: 'Safe runtime for autonomous on-chain AI agents: isolated sandboxes, Library
+    skills, encrypted secrets, and OKX read-only security checks.'
+  discovery_source: github
+  triage_score: 12
+  metadata:
+    stars: 459
+    language: Rust
+    updated_at: '2026-06-29T06:47:10Z'
+- id: github-github-however-yir-knowledgeops-agent
+  slug: however-yir-knowledgeops-agent
+  name: however-yir/knowledgeops-agent
+  type: technology
+  categories: *id033
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/however-yir/knowledgeops-agent
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id033
+  snippet: Enterprise-ready Spring AI platform for RAG, tool calling, async ingestion,
+    JWT/RBAC security, and observability.
+  discovery_source: github
+  triage_score: 12
+  metadata:
+    stars: 212
+    language: Java
+    updated_at: '2026-06-29T07:12:23Z'
+- id: github-github-tgyd-helige-pi
+  slug: tgyd-helige-pi
+  name: TGYD-helige/pi
+  type: technology
+  categories: *id033
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/TGYD-helige/pi
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id033
+  snippet: Pluggable extension packages for the Pi AI-agent runtime. Each package
+    exposes LLM-callable tools via MCP — covering IM workspace integrations (Lark,
+    DingTalk, WeCom), browser & computer automation, persistent memory, telemetry,
+    task scheduling, image generation, web access, security policies, and more.
+  discovery_source: github
+  triage_score: 10
+  metadata:
+    stars: 22
+    language: TypeScript
+    updated_at: '2026-06-29T06:36:48Z'
+- id: github-github-oasm-platform-open-asm
+  slug: oasm-platform-open-asm
+  name: oasm-platform/open-asm
+  type: technology
+  categories: &id034
+  - vuln_exposure
+  status: new
+  priority: medium
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/oasm-platform/open-asm
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id034
+  snippet: AI-powered open-source platform for Attack Surface Management (OASM)
+  discovery_source: github
+  triage_score: 20
+  metadata:
+    stars: 130
+    language: TypeScript
+    updated_at: '2026-06-29T03:28:35Z'
+- id: github-github-1n3-sn1per
+  slug: 1n3-sn1per
+  name: 1N3/Sn1per
+  type: technology
+  categories: *id034
+  status: published
+  priority: medium
+  discovered_at: '2026-06-29'
+  last_researched_at: '2026-06-29'
+  sources:
+  - url: https://github.com/1N3/Sn1per
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id034
+  snippet: Automated penetration testing & attack surface management platform. Recon,
+    scan, exploit, report — 600+ exploits, 90+ integrations, 10K+ detections.
+  discovery_source: github
+  triage_score: 48
+  metadata:
+    stars: 10245
+    language: Shell
+    updated_at: '2026-06-29T05:57:03Z'
+- id: github-github-gondrong-vulnscan-platform
+  slug: gondrong-vulnscan-platform
+  name: Gondrong/VulnScan-Platform
+  type: technology
+  categories: *id034
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/Gondrong/VulnScan-Platform
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id034
+  snippet: VulnScan Platform is an enterprise-grade, risk-based vulnerability management
+    platform with plugin-driven scanning, NVD/CISA feed integration, CVSS & risk scoring,
+    SLA tracking, compliance mapping (ISO/NIST/PCI/OWASP), and attack surface graph
+    modeling.
+  discovery_source: github
+  triage_score: 18
+  metadata:
+    stars: 19
+    language: Python
+    updated_at: '2026-06-27T14:42:16Z'
+- id: github-github-yyhuni-xingrin
+  slug: yyhuni-xingrin
+  name: yyhuni/xingrin
+  type: technology
+  categories: *id034
+  status: new
+  priority: medium
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/yyhuni/xingrin
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id034
+  snippet: Open-source attack surface management and authorized security automation
+    platform for asset discovery, service probing, scan orchestration, and security
+    result management.
+  discovery_source: github
+  triage_score: 38
+  metadata:
+    stars: 574
+    language: TypeScript
+    updated_at: '2026-06-27T12:25:56Z'
+- id: github-github-natlas-natlas
+  slug: natlas-natlas
+  name: natlas/natlas
+  type: technology
+  categories: *id034
+  status: new
+  priority: medium
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/natlas/natlas
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id034
+  snippet: Attack Surface Management since before Attack Surface Management was a
+    thing
+  discovery_source: github
+  triage_score: 30
+  metadata:
+    stars: 658
+    language: Python
+    updated_at: '2026-06-08T13:18:36Z'
+- id: github-github-raajheshkannaa-attack-surface-management
+  slug: raajheshkannaa-attack-surface-management
+  name: raajheshkannaa/attack-surface-management
+  type: technology
+  categories: *id034
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/raajheshkannaa/attack-surface-management
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id034
+  snippet: Continuous External Attack Surface Discovery & Vulnerability Scanning Across
+    AWS Organizations — Python CDK
+  discovery_source: github
+  triage_score: 18
+  metadata:
+    stars: 14
+    language: Python
+    updated_at: '2026-04-27T04:57:37Z'
+- id: github-github-jonrau1-electriceye
+  slug: jonrau1-electriceye
+  name: jonrau1/ElectricEye
+  type: technology
+  categories: *id034
+  status: published
+  priority: medium
+  discovered_at: '2026-06-29'
+  last_researched_at: '2026-06-29'
+  sources:
+  - url: https://github.com/jonrau1/ElectricEye
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id034
+  snippet: ElectricEye is a multi-cloud, multi-SaaS Python CLI tool for Asset Management,
+    Security Posture Management & Attack Surface Monitoring supporting 100s of services
+    and evaluations to harden your CSP & SaaS environments with controls mapped to
+    over 20 industry, regulatory, and best practice controls frameworks
+  discovery_source: github
+  triage_score: 40
+  metadata:
+    stars: 1043
+    language: Python
+    updated_at: '2026-06-24T15:31:43Z'
+- id: github-github-red-kite-solutions-stalker
+  slug: red-kite-solutions-stalker
+  name: red-kite-solutions/stalker
+  type: technology
+  categories: *id034
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/red-kite-solutions/stalker
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id034
+  snippet: Red Kite, the Extensible Attack Surface Management tool.
+  discovery_source: github
+  triage_score: 10
+  metadata:
+    stars: 91
+    language: TypeScript
+    updated_at: '2026-04-25T13:32:28Z'
+- id: github-github-escape-technologies-awesome-attack-surface-management
+  slug: escape-technologies-awesome-attack-surface-management
+  name: Escape-Technologies/awesome-attack-surface-management
+  type: technology
+  categories: *id034
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/Escape-Technologies/awesome-attack-surface-management
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id034
+  snippet: A curated collection of tools, techniques, frameworks, and learning resources
+    focused on Attack Surface Management (ASM).
+  discovery_source: github
+  triage_score: 10
+  metadata:
+    stars: 34
+    language: null
+    updated_at: '2026-06-13T00:50:54Z'
+- id: github-github-safe3-cvs
+  slug: safe3-cvs
+  name: Safe3/CVS
+  type: technology
+  categories: *id034
+  status: new
+  priority: medium
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/Safe3/CVS
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id034
+  snippet: CVS is a powerful comprehensive attack surface management platform.  森罗万象-强大的网络空间测绘、资产管理、漏洞扫描等全生命漏洞周期的综合攻击面管理平台，化繁为简，以一御百。
+  discovery_source: github
+  triage_score: 20
+  metadata:
+    stars: 254
+    language: null
+    updated_at: '2026-06-21T10:54:55Z'
+- id: github-github-ed1s0nz-cyberstrikeai
+  slug: ed1s0nz-cyberstrikeai
+  name: Ed1s0nZ/CyberStrikeAI
+  type: technology
+  categories: &id035
+  - automation_orchestration
+  status: published
+  priority: medium
+  discovered_at: '2026-06-29'
+  last_researched_at: '2026-06-29'
+  sources:
+  - url: https://github.com/Ed1s0nZ/CyberStrikeAI
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id035
+  snippet: CyberStrikeAI is an AI-native security testing platform built in Go. It
+    integrates 100+ security tools, an intelligent orchestration engine, role-based
+    testing with predefined security roles, a skills system with specialized testing
+    skills, and comprehensive lifecycle management capabilities.
+  discovery_source: github
+  triage_score: 40
+  metadata:
+    stars: 4808
+    language: Go
+    updated_at: '2026-06-29T06:49:42Z'
+- id: github-github-utksh1-secuscan
+  slug: utksh1-secuscan
+  name: utksh1/SecuScan
+  type: technology
+  categories: *id035
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/utksh1/SecuScan
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id035
+  snippet: Local-first security scanning workspace with FastAPI orchestration, React/TypeScript
+    UI, execution controls, normalized findings, and 60 catalogued integrations.
+  discovery_source: github
+  triage_score: 10
+  metadata:
+    stars: 30
+    language: Python
+    updated_at: '2026-06-29T05:53:51Z'
+- id: github-github-tracecathq-tracecat
+  slug: tracecathq-tracecat
+  name: TracecatHQ/tracecat
+  type: technology
+  categories: *id035
+  status: new
+  priority: medium
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/TracecatHQ/tracecat
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id035
+  snippet: Open-source security automation platform for teams and AI agents
+  discovery_source: github
+  triage_score: 32
+  metadata:
+    stars: 3699
+    language: Python
+    updated_at: '2026-06-29T05:36:49Z'
+- id: github-github-fleetdm-fleet
+  slug: fleetdm-fleet
+  name: fleetdm/fleet
+  type: technology
+  categories: *id035
+  status: new
+  priority: medium
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/fleetdm/fleet
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id035
+  snippet: Open device management
+  discovery_source: github
+  triage_score: 32
+  metadata:
+    stars: 6537
+    language: Go
+    updated_at: '2026-06-28T23:06:49Z'
+- id: github-github-demisto-content
+  slug: demisto-content
+  name: demisto/content
+  type: technology
+  categories: *id035
+  status: published
+  priority: medium
+  discovered_at: '2026-06-29'
+  last_researched_at: '2026-06-29'
+  sources:
+  - url: https://github.com/demisto/content
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id035
+  snippet: 'Demisto is now Cortex XSOAR. Automate and orchestrate your Security Operations
+    with Cortex XSOAR''s ever-growing Content Repository. Pull Requests are always
+    welcome and highly appreciated! '
+  discovery_source: github
+  triage_score: 48
+  metadata:
+    stars: 1286
+    language: Python
+    updated_at: '2026-06-28T15:44:24Z'
+- id: github-github-ashveil1-elengenix
+  slug: ashveil1-elengenix
+  name: Ashveil1/Elengenix
+  type: technology
+  categories: *id035
+  status: new
+  priority: low
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/Ashveil1/Elengenix
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id035
+  snippet: ' AI-assisted orchestration for bug bounty hunting. Automates security
+    tools for reconnaissance and analysis with real-time Telegram alerts.'
+  discovery_source: github
+  triage_score: 10
+  metadata:
+    stars: 16
+    language: Python
+    updated_at: '2026-06-28T09:14:22Z'
+- id: github-github-rain-kl-openflare
+  slug: rain-kl-openflare
+  name: Rain-kl/OpenFlare
+  type: technology
+  categories: *id035
+  status: new
+  priority: medium
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/Rain-kl/OpenFlare
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id035
+  snippet: OpenFlare is an open-source CDN orchestration and edge security platform.
+    It supports reverse proxies, centralized configuration synchronization, secure
+    intranet penetration (Tunnels), dynamic WAF protection, and anti-CC challenges.
+  discovery_source: github
+  triage_score: 28
+  metadata:
+    stars: 203
+    language: Go
+    updated_at: '2026-06-28T15:17:50Z'
+- id: github-github-tailcallhq-tailcall
+  slug: tailcallhq-tailcall
+  name: tailcallhq/tailcall
+  type: technology
+  categories: *id035
+  status: new
+  priority: medium
+  discovered_at: '2026-06-29'
+  last_researched_at: null
+  sources:
+  - url: https://github.com/tailcallhq/tailcall
+    tier: B
+    label: GitHub
+  incumbent_comparison: *id035
+  snippet: High Performance GraphQL Runtime
+  discovery_source: github
+  triage_score: 32
+  metadata:
+    stars: 1441
+    language: Rust
+    updated_at: '2026-06-27T18:59:46Z'
