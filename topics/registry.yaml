@@ -937,10 +937,10 @@ topics:
   name: beenuar/AiSOC
   type: technology
   categories: *id004
-  status: new
+  status: published
   priority: high
   discovered_at: '2026-06-29'
-  last_researched_at: null
+  last_researched_at: '2026-06-29'
   sources:
   - url: https://github.com/beenuar/AiSOC
     tier: B
@@ -1535,10 +1535,10 @@ topics:
   name: Yamato-Security/hayabusa
   type: technology
   categories: *id007
-  status: new
+  status: published
   priority: medium
   discovered_at: '2026-06-29'
-  last_researched_at: null
+  last_researched_at: '2026-06-29'
   sources:
   - url: https://github.com/Yamato-Security/hayabusa
     tier: B
@@ -1715,10 +1715,10 @@ topics:
   name: deepfence/ThreatMapper
   type: technology
   categories: *id008
-  status: new
+  status: published
   priority: medium
   discovered_at: '2026-06-29'
-  last_researched_at: null
+  last_researched_at: '2026-06-29'
   sources:
   - url: https://github.com/deepfence/ThreatMapper
     tier: B
