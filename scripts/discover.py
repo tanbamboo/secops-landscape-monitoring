@@ -30,13 +30,35 @@ ATOM_NS = {"atom": "http://www.w3.org/2005/Atom"}
 ARXIV_NS = {"arxiv": "http://arxiv.org/schemas/atom"}
 
 
+RSS_HEADERS = {
+    "User-Agent": "secops-landscape-monitoring/0.1",
+    "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, */*",
+}
+
+
+def _parse_rss_feed(url: str) -> feedparser.FeedParserDict:
+    feed = feedparser.parse(url)
+    if feed.entries:
+        return feed
+    try:
+        with httpx.Client(timeout=30.0, follow_redirects=True, headers=RSS_HEADERS) as client:
+            resp = client.get(url)
+            resp.raise_for_status()
+            return feedparser.parse(resp.content)
+    except Exception:
+        return feed
+
+
 def fetch_rss(sources: list[dict[str, Any]], today: str) -> list[dict[str, Any]]:
     items: list[dict[str, Any]] = []
     for source in sources:
         try:
-            feed = feedparser.parse(source["url"])
+            feed = _parse_rss_feed(source["url"])
         except Exception as exc:
             print(f"  RSS skip {source['name']}: {exc}", file=sys.stderr)
+            continue
+        if not feed.entries:
+            print(f"  RSS empty {source['name']}: {source['url']}", file=sys.stderr)
             continue
         for entry in feed.entries[:15]:
             title = (entry.get("title") or "").strip()

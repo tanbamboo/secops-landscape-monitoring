@@ -110,6 +110,14 @@ source_tiers:
     examples:
       - SecurityWeek
       - The Hacker News
+      - SANS ISC Handler's Diary
+      - Richard Stiennon (Substack)
+      - Detection Engineering Weekly (Substack)
+      - Venture in Security
+      - Detection at Scale (Jackson T.)
+      - The DFIR Report
+      - Cybersecurity Dive
+      - Help Net Security
       - Hacker News discussions
       - Practitioner blogs
       - Reddit r/blueteamsec
@@ -118,7 +126,10 @@ source_tiers:
     examples:
       - GitHub repositories
       - arXiv papers
-      - Conference talks (BSides, Black Hat, DEF CON)
+      - Conference talks (BSides, Black Hat, DEF CON, RSAC)
+      - Unit 42
+      - Elastic Security Labs
+      - Cisco Talos
       - Patents
       - SEC filings
       - Technical documentation

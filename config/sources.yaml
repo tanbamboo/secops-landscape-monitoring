@@ -13,6 +13,71 @@ rss:
     url: https://www.darkreading.com/rss.xml
     tier: A
     categories: [detection_response, automation_orchestration, cloud_identity]
+  - name: SANS ISC Handler's Diary
+    url: https://isc.sans.edu/rssfeed_full.xml
+    tier: A
+    categories: [detection_response, automation_orchestration, vuln_exposure]
+  - name: Richard Stiennon (Substack)
+    url: https://stiennon.substack.com/feed
+    tier: A
+    categories: [detection_response, data_ai, automation_orchestration]
+  - name: Detection Engineering Weekly (Substack)
+    url: https://www.detectionengineering.net/feed
+    tier: A
+    categories: [detection_response, automation_orchestration]
+  - name: Cybersecurity Dive
+    url: https://www.cybersecuritydive.com/feeds/news/
+    tier: A
+    categories: [detection_response, cloud_identity, data_ai, automation_orchestration]
+  - name: Help Net Security
+    url: https://www.helpnetsecurity.com/feed/
+    tier: A
+    categories: [detection_response, vuln_exposure, cloud_identity]
+  - name: Reddit r/blueteamsec
+    url: https://www.reddit.com/r/blueteamsec/.rss
+    tier: A
+    categories: [detection_response, automation_orchestration]
+  - name: Venture in Security
+    url: https://ventureinsecurity.net/feed
+    tier: A
+    categories: [detection_response, data_ai, automation_orchestration]
+  - name: Detection at Scale (Jackson T.)
+    url: https://jackson-t.com/index.xml
+    tier: A
+    categories: [detection_response, automation_orchestration]
+  - name: The DFIR Report
+    url: https://thedfirreport.com/feed/
+    tier: A
+    categories: [detection_response, vuln_exposure]
+  - name: Unit 42 (Palo Alto Networks)
+    url: https://unit42.paloaltonetworks.com/feed/
+    tier: B
+    categories: [detection_response, cloud_identity, vuln_exposure]
+  - name: Elastic Security Labs
+    url: https://www.elastic.co/security-labs/feed
+    tier: B
+    categories: [detection_response, data_ai]
+  - name: Cisco Talos Intelligence
+    url: https://blog.talosintelligence.com/rss/
+    tier: B
+    categories: [detection_response, vuln_exposure]
+  # Conference talks — official YouTube channels (no unified RSS per event series)
+  - name: Black Hat (YouTube)
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UCJ6q9Ie29ajGqKApbLqfBOg
+    tier: B
+    categories: [detection_response, automation_orchestration, data_ai]
+  - name: DEF CON (YouTube)
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UC6Om9kAkl32dWlDSNlDS9Iw
+    tier: B
+    categories: [detection_response, vuln_exposure, automation_orchestration]
+  - name: RSAC (YouTube)
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UCYzwGkfOqrevO-4TuTjPLwQ
+    tier: B
+    categories: [detection_response, cloud_identity, data_ai, automation_orchestration]
+  - name: BSides Las Vegas (YouTube)
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UCpNGmljppAJbTIA5Msms1Pw
+    tier: B
+    categories: [detection_response, automation_orchestration]
 
 github:
   # GitHub Search API: q parameter, sorted by updated
