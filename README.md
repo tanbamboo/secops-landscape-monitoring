@@ -74,16 +74,19 @@ scripts/         # discover.py, triage.py, validate_report.py
 
 ## Scheduling
 
-A GitHub Actions workflow ([`.github/workflows/discover.yml`](.github/workflows/discover.yml)) runs discovery weekly (Mondays 06:00 UTC) or on manual trigger.
+A GitHub Actions workflow ([`.github/workflows/discover.yml`](.github/workflows/discover.yml)) runs discovery weekly (Mondays 06:00 UTC) or on manual trigger. When `topics/inbox.yaml` changes, it opens a PR automatically.
 
-**What it does:** runs `discover.py`, then pushes any `topics/inbox.yaml` changes to branch `discovery/weekly-inbox`. Open a PR from that branch into `main` and merge when ready.
+### Enable auto-PR (one-time, repo admin)
 
-**Repo settings required** (one-time):
+1. Open **https://github.com/tanbamboo/secops-landscape-monitoring**
+2. **Settings** → **Actions** → **General**
+3. Scroll to **Workflow permissions**
+4. Select **Read and write permissions**
+5. Check **Allow GitHub Actions to create and approve pull requests**
+6. Click **Save**
 
-1. GitHub → **Settings** → **Actions** → **General**
-2. Under **Workflow permissions**, choose **Read and write permissions**
-3. Save
+If the repo is under an organization, an org owner may need to allow this under **Organization Settings → Actions → General** first.
 
-You do **not** need “Allow GitHub Actions to create and approve pull requests” unless you switch back to an auto-PR action. The workflow pushes a branch only; you merge via a normal PR in the UI.
+After saving, re-run **Actions → Weekly Discovery → Run workflow**. A PR titled “Weekly SecOps discovery inbox update” should appear when there are new inbox items.
 
 **Local alternative:** `python scripts/discover.py` before each research session.
