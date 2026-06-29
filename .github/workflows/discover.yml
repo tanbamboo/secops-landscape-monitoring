@@ -5,9 +5,9 @@ on:
     - cron: "0 6 * * 1"
   workflow_dispatch:
 
+# contents: write is enough to push a branch; no PR permission required.
 permissions:
   contents: write
-  pull-requests: write
 
 jobs:
   discover:
@@ -25,18 +25,22 @@ jobs:
       - name: Run discovery
         run: python scripts/discover.py
 
-      - name: Create PR if inbox changed
-        uses: peter-evans/create-pull-request@v8
-        with:
-          commit-message: "chore: weekly discovery inbox update"
-          title: "Weekly SecOps discovery inbox update"
-          body: |
-            Automated weekly discovery run.
+      - name: Push inbox updates to branch
+        env:
+          BRANCH: discovery/weekly-inbox
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-            Review new items in `topics/inbox.yaml` and triage with:
-            ```
-            python scripts/triage.py inbox
-            python scripts/triage.py promote <inbox-id> --priority high
-            ```
-          branch: discovery/weekly-inbox
-          delete-branch: true
+          git add topics/inbox.yaml
+          if git diff --cached --quiet; then
+            echo "No inbox changes — nothing to push."
+            exit 0
+          fi
+
+          git checkout -B "$BRANCH"
+          git commit -m "chore: weekly discovery inbox update"
+          git push --force-with-lease origin "$BRANCH"
+
+          echo "Inbox updated on branch ${BRANCH}."
+          echo "Open a PR: https://github.com/${GITHUB_REPOSITORY}/compare/main...${BRANCH}?expand=1"
