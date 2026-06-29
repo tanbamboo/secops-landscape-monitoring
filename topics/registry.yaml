@@ -2608,3 +2608,62 @@ topics:
   metadata:
     points: 2
     num_comments: 0
+- id: rss-blog-hypotheses-telemetry-and-human-judgment-inside-cisco-talos-threat-hunting
+  slug: hypotheses-telemetry-and-human-judgment-inside-cisco-talos-threat-hunting
+  name: 'Hypotheses, telemetry, and human judgment: Inside Cisco Talos Threat Hunting'
+  type: research
+  categories: &id015
+  - detection_response
+  - vuln_exposure
+  status: published
+  priority: high
+  discovered_at: '2026-06-29'
+  last_researched_at: '2026-06-29'
+  sources:
+  - url: https://blog.talosintelligence.com/hypotheses-telemetry-and-human-judgment-inside-cisco-talos-threat-hunting/
+    tier: B
+    label: Cisco Talos Intelligence
+  incumbent_comparison: *id015
+  snippet: Learn how Cisco Talos Threat Hunting uses hypothesis-driven methods and
+    multi-domain telemetry correlation to find stealthy threats operating below automated
+    detection thresholds.
+  discovery_source: rss
+- id: rss-ventureinsecurity-what-israeli-dominance-in-cyber-means-for-non-israeli-cybersecurity-founders
+  slug: what-israeli-dominance-in-cyber-means-for-non-israeli-cybersecurity-founders
+  name: What Israeli dominance in cyber means for non-Israeli cybersecurity founders
+  type: research
+  categories: &id016
+  - detection_response
+  - data_ai
+  - automation_orchestration
+  status: published
+  priority: medium
+  discovered_at: '2026-06-29'
+  last_researched_at: '2026-06-29'
+  sources:
+  - url: https://ventureinsecurity.net/p/what-israeli-dominance-in-cyber-means
+    tier: A
+    label: Venture in Security
+  incumbent_comparison: *id016
+  snippet: Sharing some thoughts about Israeli and non-Israeli security startups
+  discovery_source: rss
+- id: rss-ventureinsecurity-every-significant-b2b-company-is-becoming-a-security-company
+  slug: every-significant-b2b-company-is-becoming-a-security-company
+  name: Every significant B2B company is becoming a security company
+  type: research
+  categories: &id017
+  - detection_response
+  - data_ai
+  - automation_orchestration
+  status: published
+  priority: medium
+  discovered_at: '2026-06-29'
+  last_researched_at: '2026-06-29'
+  sources:
+  - url: https://ventureinsecurity.net/p/every-significant-b2b-company-is
+    tier: A
+    label: Venture in Security
+  incumbent_comparison: *id017
+  snippet: This also means that there are plenty of B2B companies that could be potential
+    acquirers of security startups
+  discovery_source: rss

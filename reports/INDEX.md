@@ -9,3 +9,6 @@
 | 2026-06-29 | [AiSOC](2026-06-aisoc.md) | detection_response, data_ai | published | MIT AI SOC with Investigation Ledger, LangGraph agents, and public CI eval harness |
 | 2026-06-29 | [Deepfence ThreatMapper](2026-06-threatmapper.md) | cloud_identity, vuln_exposure | published | Apache 2.0 CNAPP with ThreatGraph attack-path prioritization; ThreatStryker commercial tier |
 | 2026-06-29 | [Hayabusa](2026-06-hayabusa.md) | detection_response | published | Rust Windows EVTX timeline + Sigma hunting tool by Yamato Security |
+| 2026-06-29 | [Cisco Talos Threat Hunting](2026-06-talos-threat-hunting.md) | detection_response, vuln_exposure | published | Managed hypothesis-driven hunting with AI scale + human validation on Cisco telemetry |
+| 2026-06-29 | [Israeli Cyber Dominance](2026-06-israeli-cyber-dominance.md) | detection_response, data_ai | published | 2025–26 mega-exit flywheel (Wiz, CyberArk, Armis) and implications for non-Israeli founders |
+| 2026-06-29 | [B2B Platforms as Security Vendors](2026-06-b2b-platform-security.md) | detection_response, data_ai | published | Horizontal platforms (Google, ServiceNow, Mastercard) embedding security via record M&A |
