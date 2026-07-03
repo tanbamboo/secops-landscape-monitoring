@@ -1,0 +1,39 @@
+name: Daily SecOps Brief Outline
+
+on:
+  schedule:
+    # 07:30 Asia/Shanghai (UTC+8) = 23:30 UTC previous calendar day
+    - cron: "30 23 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  outline:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install pyyaml httpx feedparser
+
+      - name: Generate brief outline
+        run: python scripts/generate_brief.py --write
+
+      - name: Create PR if outline changed
+        uses: peter-evans/create-pull-request@v8
+        with:
+          commit-message: "Daily SecOps brief outline"
+          title: "Daily SecOps landscape brief outline"
+          body: |
+            Automated outline for today's SecOps landscape brief.
+            An agent should expand this into `briefs/YYYY-MM-DD-secops-landscape.md`.
+          branch: brief/daily-outline
+          delete-branch: true
+          add-paths: briefs/

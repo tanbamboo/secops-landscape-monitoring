@@ -90,3 +90,9 @@ If the repo is under an organization, an org owner may need to allow this under 
 After saving, re-run **Actions → Weekly Discovery → Run workflow**. A PR titled “Weekly SecOps discovery inbox update” should appear when there are new inbox items.
 
 **Local alternative:** `python scripts/discover.py` before each research session.
+
+### Daily SecOps brief (07:30 UTC+8)
+
+- Full briefs: [`briefs/`](briefs/) (≤5 startups/technologies per issue)
+- Outline generator: `python scripts/generate_brief.py --write`
+- GitHub Actions: [`.github/workflows/daily-brief.yml`](.github/workflows/daily-brief.yml) creates a daily outline PR at 23:30 UTC
