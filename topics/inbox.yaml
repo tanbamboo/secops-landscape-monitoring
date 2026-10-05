@@ -2267,3 +2267,2135 @@ items:
     points: 2
     num_comments: 0
   status: inbox
+- id: rss-securityweek-linux-backdoor-abuses-stun-protocol-exploits-dozens-of-flaws
+  name: Linux Backdoor Abuses STUN Protocol, Exploits Dozens of Flaws
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: SecurityWeek
+  source_url: https://www.securityweek.com/linux-backdoor-abuses-stun-protocol-exploits-dozens-of-flaws/
+  source_tier: A
+  categories: &id020
+  - detection_response
+  - cloud_identity
+  - data_ai
+  snippet: 'ClingSTUN operates as a back-connect proxy backdoor, sets up persistence,
+    and contains exploits for self-propagation.
+
+    The post Linux Backdoor Abuses STUN Protocol, Exploits Dozens of Flaws appeared
+    first on SecurityWeek.'
+  status: inbox
+- id: rss-securityweek-250-000-impacted-by-data-breaches-at-new-jersey-texas-healthcare-firms
+  name: 250,000 Impacted by Data Breaches at New Jersey, Texas Healthcare Firms
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: SecurityWeek
+  source_url: https://www.securityweek.com/250000-impacted-by-data-breaches-at-new-jersey-texas-healthcare-firms/
+  source_tier: A
+  categories: *id020
+  snippet: 'Hackers stole patient information from Clover Health Investments and AngMar
+    Management Services in July.
+
+    The post 250,000 Impacted by Data Breaches at New Jersey, Texas Healthcare Firms
+    appeared first on SecurityWeek.'
+  status: inbox
+- id: rss-securityweek-exploitation-hits-rejetto-hfs-vulnerability-discovered-by-ai
+  name: Exploitation Hits Rejetto HFS Vulnerability Discovered by AI
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: SecurityWeek
+  source_url: https://www.securityweek.com/exploitation-hits-rejetto-hfs-vulnerability-discovered-by-ai/
+  source_tier: A
+  categories: *id020
+  snippet: 'CVE-2026-61500 allows attackers to recover the session-cookie signing
+    key and gain administrative access and RCE.
+
+    The post Exploitation Hits Rejetto HFS Vulnerability Discovered by AI  appeared
+    first on SecurityWeek.'
+  status: inbox
+- id: rss-securityweek-senate-passes-bipartisan-bill-to-strengthen-healthcare-cybersecurity
+  name: Senate Passes Bipartisan Bill to Strengthen Healthcare Cybersecurity
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: SecurityWeek
+  source_url: https://www.securityweek.com/senate-passes-bipartisan-bill-to-strengthen-healthcare-cybersecurity/
+  source_tier: A
+  categories: *id020
+  snippet: 'More than 730 cyber breaches affected over 270 million Americans last
+    year, costing an average of $10 million per breach.
+
+    The post Senate Passes Bipartisan Bill to Strengthen Healthcare Cybersecurity
+    appeared first on SecurityWeek.'
+  status: inbox
+- id: rss-securityweek-alleged-shinyhunters-leader-arrested-in-jordan
+  name: Alleged ShinyHunters Leader Arrested in Jordan
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: SecurityWeek
+  source_url: https://www.securityweek.com/alleged-shinyhunters-leader-arrested-in-jordan/
+  source_tier: A
+  categories: *id020
+  snippet: 'Known as Rey, the suspect is reportedly helping the FBI identify and locate
+    other members of the extortion group.
+
+    The post Alleged ShinyHunters Leader Arrested in Jordan appeared first on SecurityWeek.'
+  status: inbox
+- id: rss-securityweek-exploitation-of-citrix-netscaler-zero-day-hits-appliances-patched-days-earlier
+  name: Exploitation of Citrix NetScaler Zero-Day Hits Appliances Patched Days Earlier
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: SecurityWeek
+  source_url: https://www.securityweek.com/exploitation-of-citrix-netscaler-zero-day-hits-appliances-patched-days-earlier/
+  source_tier: A
+  categories: *id020
+  snippet: 'Citrix has confirmed that a new zero-day vulnerability, CVE-2026-88779,
+    emerged just days after two other exploited flaws were patched.
+
+    The post Exploitation of Citrix NetScaler Zero-Day Hits Appliances Patched Days
+    Earlier appeared first on SecurityWeek.'
+  status: inbox
+- id: rss-securityweek-trump-names-national-intelligence-director-jay-clayton-to-lead-a-new-federal-ai-
+  name: Trump Names National Intelligence Director Jay Clayton to Lead a New Federal
+    AI Task Force
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: SecurityWeek
+  source_url: https://www.securityweek.com/trump-names-national-intelligence-director-jay-clayton-to-lead-a-new-federal-ai-task-force/
+  source_tier: A
+  categories: *id020
+  snippet: 'The announcement comes after Trump hosted top executives of AI companies
+    at the White House last week.
+
+    The post Trump Names National Intelligence Director Jay Clayton to Lead a New
+    Federal AI Task Force appeared first on SecurityWeek.'
+  status: inbox
+- id: rss-securityweek-doxx-net-raises-38-million-to-prevent-ai-agent-on-the-internet-misadventures
+  name: doxx.net Raises $38 Million to Prevent AI Agent-on-the-Internet Misadventures
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: SecurityWeek
+  source_url: https://www.securityweek.com/doxx-net-raises-38-million-to-prevent-ai-agent-on-the-internet-misadventures/
+  source_tier: A
+  categories: *id020
+  snippet: 'doxx.net’s new ADN platform prevents agentic misadventure while the agent
+    is operating under the user’s authority.
+
+    The post doxx.net Raises $38 Million to Prevent AI Agent-on-the-Internet Misadventures
+    appeared first on SecurityWeek.'
+  status: inbox
+- id: rss-securityweek-fortra-patches-critical-vulnerabilities-in-boks
+  name: Fortra Patches Critical Vulnerabilities in BoKS
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: SecurityWeek
+  source_url: https://www.securityweek.com/fortra-patches-critical-vulnerabilities-in-boks/
+  source_tier: A
+  categories: *id020
+  snippet: 'The bugs could lead to authentication bypass, shell command execution,
+    and memory corruption.
+
+    The post Fortra Patches Critical Vulnerabilities in BoKS appeared first on SecurityWeek.'
+  status: inbox
+- id: rss-securityweek-in-other-news-15k-icloud-spoofing-bugs-ai-policy-experts-phished-adblocker-spies
+  name: 'In Other News: $15K iCloud Spoofing Bugs, AI Policy Experts Phished, Adblocker
+    Spies on AI Chats'
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: SecurityWeek
+  source_url: https://www.securityweek.com/in-other-news-15k-icloud-spoofing-bugs-ai-policy-experts-phished-adblocker-spies-on-ai-chats/
+  source_tier: A
+  categories: *id020
+  snippet: 'Noteworthy stories that might have slipped under the radar: Kiteworks
+    patches over 100 vulnerabilities, Microsoft publishes 2026 Digital Defense Report,
+    AI finds 24 Android app flaws.
+
+    The post In Other News: $15K iCloud Spoofing Bugs, AI Policy Experts Phished,
+    Adblocker Spies on AI Chats appeared first on Securi'
+  status: inbox
+- id: rss-thehackernews-the-credential-layer-is-expanding-faster-than-security-teams-can-see-it
+  name: The Credential Layer Is Expanding Faster Than Security Teams Can See It
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: The Hacker News
+  source_url: https://thehackernews.com/2026/10/the-credential-layer-is-expanding.html
+  source_tier: A
+  categories: &id021
+  - detection_response
+  - vuln_exposure
+  - cloud_identity
+  snippet: 'Every modern enterprise depends on credentials. This is how humans, systems,
+    and now AI, all connect to data, services, and each other securely. GitGuardian
+    helps secure that credential layer through three connected capabilities: Detect,
+    Remediate, and Prevent. The journey starts with detection, because organizations
+    first need to understand what credentials exist, where they live, and what they'
+  status: inbox
+- id: rss-thehackernews-realtek-jungle-sdk-exploit-attempts-deliver-cling-botnet-with-stun-based-c2
+  name: Realtek Jungle SDK Exploit Attempts Deliver Cling Botnet With STUN-Based C2
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: The Hacker News
+  source_url: https://thehackernews.com/2026/10/realtek-jungle-sdk-exploit-attempts.html
+  source_tier: A
+  categories: *id021
+  snippet: 'Threat actors have been observed attempting to exploit a now-patched critical
+    security flaw impacting the Realtek Jungle software development kit (SDK) to deploy
+    a botnet malware called Cling.
+
+
+    "Cling is notable not because it introduces a new propagation technique, but because
+    it repurposes ordinary STUN behavior into a practical command-and-control channel,"
+    Nozomi Networks said in a report'
+  status: inbox
+- id: rss-thehackernews-apple-plans-tighter-macos-full-disk-access-controls-over-ai-agent-data-access
+  name: Apple Plans Tighter macOS Full Disk Access Controls Over AI Agent Data Access
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: The Hacker News
+  source_url: https://thehackernews.com/2026/10/apple-plans-tighter-macos-full-disk.html
+  source_tier: A
+  categories: *id021
+  snippet: 'Apple has announced that it''s taking steps to tighten controls around
+    a macOS setting called Full Disk Access (FDA) due to security risks posed by artificial
+    intelligence (AI) agents.
+
+
+    "Some developers are using Full Disk Access in ways that could put users at risk,
+    exposing everything on their systems—including files, mail, messages, and even
+    browsing history – without users'' full knowledge'
+  status: inbox
+- id: rss-thehackernews-attackers-target-rejetto-hfs-flaw-that-enables-admin-session-forgery-and-rce
+  name: Attackers Target Rejetto HFS Flaw That Enables Admin Session Forgery and RCE
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: The Hacker News
+  source_url: https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html
+  source_tier: A
+  categories: *id021
+  snippet: 'A critical security flaw impacting Rejetto HTTP File Server (HFS) is witnessing
+    active exploitation attempts, according to VulnCheck.
+
+
+    The vulnerability in question is CVE-2026-61500 (CVSS score: 9.3), a case of session
+    forgery stemming from the use of a weak pseudo-random number generator (PRNG)
+    that can lead to a predictable key, which an attacker can then use to gain unauthorized
+    access and'
+  status: inbox
+- id: rss-thehackernews-new-netscaler-zero-day-exploited-in-targeted-attacks-can-knock-saml-deployments-
+  name: New NetScaler Zero-Day Exploited in Targeted Attacks Can Knock SAML Deployments
+    Offline
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: The Hacker News
+  source_url: https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html
+  source_tier: A
+  categories: *id021
+  snippet: 'Citrix has released security updates for a high-severity security flaw
+    in NetScaler ADC and Citrix NetScaler Gateway that has been exploited as part
+    of targeted zero-day attacks.
+
+
+    The vulnerability, tracked as CVE-2026-88779, carries a CVSS score of 8.7 out
+    of 10.0.
+
+
+    "CVE-2026-88779 is a memory overflow vulnerability in Citrix NetScaler ADC and
+    Citrix NetScaler Gateway that can lead to'
+  status: inbox
+- id: rss-thehackernews-shinyhunters-suspect-rey-reportedly-detained-in-jordan-helping-fbi-identify-grou
+  name: ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify
+    Group Members
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: The Hacker News
+  source_url: https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html
+  source_tier: A
+  categories: *id021
+  snippet: 'A suspected member of the ShinyHunters digital extortion group, who goes
+    by the online alias "Rey," has been allegedly detained by authorities in Jordan,
+    Reuters reported, citing three people familiar with the matter.
+
+
+    Rey, whose real name is Saif ‌al-Din Khader, is said to have been brought into
+    custody on September 29, 2026, and cooperating with the U.S. Federal Bureau of
+    Investigation (FBI)'
+  status: inbox
+- id: rss-thehackernews-china-aligned-ta419-targets-u-s-ai-policy-experts-with-microsoft-aitm-phishing
+  name: China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: The Hacker News
+  source_url: https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html
+  source_tier: A
+  categories: *id021
+  snippet: 'A new China-nexus cyber espionage group known as TA419 has been attributed
+    to multiple credential phishing campaigns targeting artificial intelligence (AI)
+    experts working for U.S. think tanks, universities, and legal sector organizations.
+
+
+    The campaigns have impersonated prominent economists and AI policymakers, as well
+    as a prominent Anthropic employee, to single out an AI policy expert at a'
+  status: inbox
+- id: rss-thehackernews-mi5-says-china-s-mss-funded-research-involving-100-u-k-linked-academics
+  name: MI5 Says China’s MSS Funded Research Involving 100+ U.K.-Linked Academics
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: The Hacker News
+  source_url: https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html
+  source_tier: A
+  categories: *id021
+  snippet: 'The U.K.''s domestic intelligence and security agency has warned that
+    more than 100 academics have helped China boost its intelligence gathering efforts
+    on behalf of Beijing''s state security service.
+
+
+    In a "Security Service Espionage Alert" issued on September 30, 2026, MI5 said
+    the "primary purpose of the China General Technology Research Institute (CGTRI)
+    中国通用技术研究院 is to fund research that'
+  status: inbox
+- id: rss-thehackernews-warlock-exploits-sharepoint-flaws-to-disable-security-tools-and-deploy-ransomwar
+  name: Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: The Hacker News
+  source_url: https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html
+  source_tier: A
+  categories: *id021
+  snippet: 'The suspected China-linked threat actor known as Warlock is still continuing
+    to weaponize Microsoft SharePoint vulnerabilities, likely both old and new, in
+    attacks targeting organizations in Portuguese- and Spanish-speaking countries.
+
+
+    The activity, observed by the Symantec and Carbon Black Threat Hunter Team, has
+    hit critical infrastructure, government, and education organizations.
+
+
+    "In the'
+  status: inbox
+- id: rss-thehackernews-the-state-of-cybersecurity-in-2026-key-segments-insights-and-innovations
+  name: The State of Cybersecurity in 2026: Key Segments, Insights, and Innovations
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: The Hacker News
+  source_url: https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html
+  source_tier: A
+  categories: *id021
+  snippet: 'Featuring:
+
+
+    Cybersecurity is being reshaped by the expansion of cloud infrastructure, AI,
+    distributed systems, and increasingly complex digital environments. As organizations
+    manage more identities, devices, data, and internet-facing infrastructure, security
+    is shifting toward continuous visibility, control, and the ability to respond
+    to risk at scale.
+
+
+    This report examines how core areas of'
+  status: inbox
+- id: rss-thehackernews-gitlab-patches-critical-9-9-ai-gateway-flaw-allowing-command-execution-on-self-h
+  name: GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on
+    Self-Hosted Servers
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: The Hacker News
+  source_url: https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html
+  source_tier: A
+  categories: *id021
+  snippet: 'A critical flaw in GitLab''s AI Gateway could let a logged-in user with
+    Duo Agent Platform access run commands on the gateway under certain conditions,
+    GitLab&nbsp;said in an advisory.
+
+
+    The gateway is the service that connects a GitLab instance to AI models, and only
+    organizations that host their own gateway need to act. The flaw is fixed in gateway
+    versions 19.2.4, 19.3.2, and 19.4.1.
+
+
+    The flaw'
+  status: inbox
+- id: rss-thehackernews-antino-backdoor-uses-outlook-and-onedrive-for-c2-in-china-nexus-espionage-campai
+  name: Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage
+    Campaign
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: The Hacker News
+  source_url: https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html
+  source_tier: A
+  categories: *id021
+  snippet: 'Government and policy organizations across Asia have become the target
+    of a new campaign orchestrated by a China-nexus threat actor.
+
+
+    The activity, which has targeted government and policy organizations in Taiwan,
+    India, the Philippines, Cambodia, Pakistan, Thailand, and Myanmar, involves the
+    deployment of a previously undocumented backdoor codenamed Antino. Cisco Talos
+    is tracking the cluster'
+  status: inbox
+- id: rss-thehackernews-dell-csm-flaws-enable-unauthenticated-admin-access-and-root-on-kubernetes-nodes
+  name: Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes
+    Nodes
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: The Hacker News
+  source_url: https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html
+  source_tier: A
+  categories: *id021
+  snippet: "Dell has released security updates to address multiple critical security\
+    \ flaws in Dell Container Storage Modules (CSM) that could be exploited by bad\
+    \ actors to take over susceptible systems.\n\nThe vulnerabilities are listed below\
+    \ -\n\n\n  CVE-2026-63688 (CVSS score: 10.0) - A missing authentication for critical\
+    \ function vulnerability in the csm-authorization-storage gRPC server that an"
+  status: inbox
+- id: rss-thehackernews-openai-parts-ways-with-three-safety-researchers-over-sensitive-information-misha
+  name: OpenAI Parts Ways With Three Safety Researchers Over Sensitive Information
+    Mishandling
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: The Hacker News
+  source_url: https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html
+  source_tier: A
+  categories: *id021
+  snippet: 'OpenAI has parted ways with three members of its safety team after they
+    leaked private information in violation of company policies, The Wall Street Journal
+    reported.
+
+
+    "We have parted ways with three individuals for violating our policies on accessing
+    and handling sensitive company information," a spokesperson for the company was
+    quoted as saying. "Our investigation confirmed that these'
+  status: inbox
+- id: rss-thehackernews-why-cisos-struggle-to-answer-the-board-s-three-hardest-questions-and-how-to-fix-
+  name: Why CISOs Struggle to Answer the Board's Three Hardest Questions, and How
+    to Fix the Report
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: The Hacker News
+  source_url: https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html
+  source_tier: A
+  categories: *id021
+  snippet: "The quarterly board meeting is two weeks out. The security team is pulling\
+    \ exports from the identity provider, the cloud posture tool, the vulnerability\
+    \ scanner, the SIEM and the EDR console. Someone is building a spreadsheet to\
+    \ reconcile them. Someone else is turning that spreadsheet into slides.\n\nThen\
+    \ a board member asks three questions:\n\n\n  How secure is the organization,\
+    \ overall?\n  What is"
+  status: inbox
+- id: rss-darkreading-need-for-speed-ai-driven-attacks-are-changing-security-strategies
+  name: 'Need for Speed: AI-Driven Attacks Are Changing Security Strategies'
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Dark Reading
+  source_url: https://www.darkreading.com/cyber-risk/ai-attacks-security-strategies
+  source_tier: A
+  categories: &id022
+  - detection_response
+  - automation_orchestration
+  - cloud_identity
+  snippet: AI-powered attacks are fast, relentless, and automated. How security teams
+    can keep up is top of mind, according to the latest Dark Reading reader poll.
+  status: inbox
+- id: rss-darkreading-remotethreat-bets-security-teams-need-to-test-what-happens-after-defenses-fail
+  name: RemoteThreat Bets Security Teams Need to Test What Happens After Defenses
+    Fail
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Dark Reading
+  source_url: https://www.darkreading.com/cybersecurity-operations/remotethreat-bets-security-teams-need-to-test-what-happens-after-defenses-fail
+  source_tier: A
+  categories: *id022
+  snippet: The offensive cyber operations startup looks to evolve red teaming beyond
+    traditional methods to simulate attackers' increasingly advanced capabilities.
+  status: inbox
+- id: rss-darkreading-kiteworks-amp-citrix-incidents-show-challenges-of-zero-day-response
+  name: Kiteworks &amp; Citrix Incidents Show Challenges of Zero-Day Response
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Dark Reading
+  source_url: https://www.darkreading.com/cybersecurity-operations/kiteworks-citrix-incidents-challenges-zero-day-response
+  source_tier: A
+  categories: *id022
+  snippet: One company told customers to power down its data-protection platform during
+    a nine-hour window, while the other remained mum on reported attacks prior to
+    releasing a patch for its product.
+  status: inbox
+- id: rss-darkreading-swift-banking-amp-government-middleware-enables-rce
+  name: SWIFT Banking &amp; Government Middleware Enables RCE
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Dark Reading
+  source_url: https://www.darkreading.com/cybersecurity-operations/swift-banking-govt-middleware-rce
+  source_tier: A
+  categories: *id022
+  snippet: Patch middleware vulnerabilities now to avoid hardware-based MFA exploits
+    in ultra-sensitive environments.
+  status: inbox
+- id: rss-darkreading-is-your-organization-ready-for-2027-s-ai-accountability-era
+  name: Is Your Organization Ready for 2027's AI Accountability Era?
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Dark Reading
+  source_url: https://www.darkreading.com/cybersecurity-operations/is-your-organization-ready-for-2027-s-ai-accountability-era-
+  source_tier: A
+  categories: *id022
+  snippet: Organizations may face an artificial intelligence (AI) reckoning over the
+    next year. Omdia and Gartner weigh in on how to tackle the governance, security,
+    and value challenges ahead.
+  status: inbox
+- id: rss-darkreading-is-it-fair-to-blame-rogue-ai-for-security-failures
+  name: Is It Fair to Blame 'Rogue' AI for Security Failures?
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Dark Reading
+  source_url: https://www.darkreading.com/insider-threats/blame-rogue-ai-security-failures
+  source_tier: A
+  categories: *id022
+  snippet: '&quot;Rogue AI&quot; terminology anthropomorphizes LLMs and shifts risk
+    responsibility from vendors. Defenders should treat agents as untrusted, nondeterministic
+    software systems, not sentient beings with malicious intent.'
+  status: inbox
+- id: rss-darkreading-vulnerability-backlogs-are-an-ownership-problem
+  name: Vulnerability Backlogs Are an Ownership Problem
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Dark Reading
+  source_url: https://www.darkreading.com/cybersecurity-operations/vulnerability-backlogs-ownership-problem
+  source_tier: A
+  categories: *id022
+  snippet: Organizations don't need better vulnerability scanners; they need to know
+    who owns their assets and has the authority and capacity to actually fix them.
+  status: inbox
+- id: rss-darkreading-malicious-linux-implants-mimic-asian-mail-security-products
+  name: Malicious Linux Implants Mimic Asian Mail Security Products
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Dark Reading
+  source_url: https://www.darkreading.com/threat-intelligence/malicious-linux-implants-mimic-asian-mail-security
+  source_tier: A
+  categories: *id022
+  snippet: A trio of newly discovered backdoors walk and quack like legitimate edge
+    solutions, so it's hard to tell they're not.
+  status: inbox
+- id: rss-darkreading-alleged-killsec-ransomware-mastermind-a-16-year-old
+  name: Alleged KillSec Ransomware Mastermind a 16-Year-Old
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Dark Reading
+  source_url: https://www.darkreading.com/cyberattacks-data-breaches/killsec-ransomware-mastermind-16-year-old
+  source_tier: A
+  categories: *id022
+  snippet: Law enforcement from multiple countries collaborated to disrupt a cybercrime
+    operation that has claimed some 500 victims worldwide in the past two years.
+  status: inbox
+- id: rss-darkreading-warlock-ransomware-hits-large-spanish-portuguese-orgs
+  name: Warlock Ransomware Hits Large Spanish, Portuguese Orgs
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Dark Reading
+  source_url: https://www.darkreading.com/cyberattacks-data-breaches/warlock-ransomware-spanish-portuguese
+  source_tier: A
+  categories: *id022
+  snippet: A year-old Chinese threat actor looks like a cybercrime gang, acts like
+    a state-associated APT, and attacks organizations in unexpected places.
+  status: inbox
+- id: rss-darkreading-malicious-custom-gpts-turn-chatgpt-into-rat-delivery-lure
+  name: Malicious Custom GPTs Turn ChatGPT Into RAT Delivery Lure
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Dark Reading
+  source_url: https://www.darkreading.com/cyberattacks-data-breaches/malicious-custom-gpts-chatgpt-rat-delivery-lure
+  source_tier: A
+  categories: *id022
+  snippet: In yet another ClickFix-style campaign, threat actors abuse legitimate
+    domains from OpenAI and Google to fool unsuspecting users.
+  status: inbox
+- id: rss-darkreading-trump-tech-giants-strike-voluntary-ai-safety-accord
+  name: Trump, Tech Giants Strike Voluntary AI Safety Accord
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Dark Reading
+  source_url: https://www.darkreading.com/cyber-risk/trump-tech-giants-strike-voluntary-ai-safety-accord
+  source_tier: A
+  categories: *id022
+  snippet: The new White House Accord on so-called &quot;Super Intelligence&quot;
+    calls on companies to implement greater controls and oversight over AI safety.
+  status: inbox
+- id: rss-darkreading-as-ai-reshapes-the-soc-career-ladder-satisfaction-rises-for-91-but-entry-gets-ha
+  name: As AI Reshapes the SOC Career Ladder, Satisfaction Rises for 91%, but Entry
+    Gets Harder for Nearly Half
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Dark Reading
+  source_url: https://www.darkreading.com/cybersecurity-careers/ai-reshapes-soc-career-ladder
+  source_tier: A
+  categories: *id022
+  snippet: 'New Swimlane research underscores a paradox: While AI detection and response
+    is essential to giving defenders an edge, one in four security pros say AI limits
+    their skill development.'
+  status: inbox
+- id: rss-darkreading-russia-s-star-blizzard-ditches-clickfix-to-widen-phishing-net
+  name: Russia's Star Blizzard Ditches ClickFix to Widen Phishing Net
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Dark Reading
+  source_url: https://www.darkreading.com/threat-intelligence/russia-star-blizzard-apt-ditches-clickfix-widen-phishing-net
+  source_tier: A
+  categories: *id022
+  snippet: The APT actor is using a new tactic, dubbed &quot;RedFlick,&quot; against
+    Ukrainian-linked targets such as NGOs, think tanks, and journalists to deploy
+    its CosmicPulse backdoor.
+  status: inbox
+- id: rss-darkreading-south-africa-seeks-help-after-cyberattack-targets-air-traffic-control
+  name: South Africa Seeks Help After Cyberattack Targets Air Traffic Control
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Dark Reading
+  source_url: https://www.darkreading.com/cyberattacks-data-breaches/south-africa-help-cyberattack-air-traffic-control
+  source_tier: A
+  categories: *id022
+  snippet: As aviation infrastructure suffers more cyberattacks, air traffic systems
+    are the latest target, with a ransomware toolkit installed on at least one operational
+    network.
+  status: inbox
+- id: rss-isc-stormcast-for-monday-october-5th-2026-https-isc-sans-edu-podcastdetail-10122
+  name: ISC Stormcast For Monday, October 5th, 2026 https://isc.sans.edu/podcastdetail/10122,
+    (Mon, Oct 5th)
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: SANS ISC Handler's Diary
+  source_url: https://isc.sans.edu/diary/rss/33398
+  source_tier: A
+  categories: &id023
+  - detection_response
+  - automation_orchestration
+  - vuln_exposure
+  snippet: (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial
+    3.0 United States License.
+  status: inbox
+- id: rss-isc-tty-logs-and-the-data-it-captures-sun-oct-4th
+  name: TTY Logs and the Data it Captures, (Sun, Oct 4th)
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: SANS ISC Handler's Diary
+  source_url: https://isc.sans.edu/diary/rss/33396
+  source_tier: A
+  categories: *id023
+  snippet: For an experiment, I created a script &#x5b;1&#x5d; that parses and send
+    the TTY logs collected from actors or bots activity that run various commands
+    after they successfully login the DShield sensor. Those TTY logs are sent daily
+    at the end of each day to the DShield SIEM &#x5b;2&#x5d; to be correlated with
+    all the data. &#xd;
+  status: inbox
+- id: rss-isc-user-agent-strings-curiosities-sun-oct-4th
+  name: User Agent Strings Curiosities, (Sun, Oct 4th)
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: SANS ISC Handler's Diary
+  source_url: https://isc.sans.edu/diary/rss/33394
+  source_tier: A
+  categories: *id023
+  snippet: Sometimes I have to smile, or my interest is triggered, when I review new
+    User Agent Strings in the honeypot logs.&#xd;
+  status: inbox
+- id: rss-isc-yara-x-1-21-0-release-sat-oct-3rd
+  name: YARA-X 1.21.0 Release, (Sat, Oct 3rd)
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: SANS ISC Handler's Diary
+  source_url: https://isc.sans.edu/diary/rss/33392
+  source_tier: A
+  categories: *id023
+  snippet: YARA-X&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;s 1.21.0 release brings 5
+    improvements and 4 bugfixes.&#xd;
+  status: inbox
+- id: rss-isc-stormcast-for-friday-october-2nd-2026-https-isc-sans-edu-podcastdetail-10120
+  name: ISC Stormcast For Friday, October 2nd, 2026 https://isc.sans.edu/podcastdetail/10120,
+    (Fri, Oct 2nd)
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: SANS ISC Handler's Diary
+  source_url: https://isc.sans.edu/diary/rss/33390
+  source_tier: A
+  categories: *id023
+  snippet: (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial
+    3.0 United States License.
+  status: inbox
+- id: rss-isc-screenconnect-client-ab-used-by-attackers-thu-oct-1st
+  name: ScreenConnect Client (Ab)used by Attackers, (Thu, Oct 1st)
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: SANS ISC Handler's Diary
+  source_url: https://isc.sans.edu/diary/rss/33388
+  source_tier: A
+  categories: *id023
+  snippet: Threat Actors do not always use top-notch techniques or very complex malware
+    to perform their attacks. Sometimes, they just abuse of existing applications...&#xd;
+  status: inbox
+- id: rss-isc-stormcast-for-thursday-october-1st-2026-https-isc-sans-edu-podcastdetail-101
+  name: ISC Stormcast For Thursday, October 1st, 2026 https://isc.sans.edu/podcastdetail/10118,
+    (Thu, Oct 1st)
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: SANS ISC Handler's Diary
+  source_url: https://isc.sans.edu/diary/rss/33386
+  source_tier: A
+  categories: *id023
+  snippet: (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial
+    3.0 United States License.
+  status: inbox
+- id: rss-isc-stormcast-for-wednesday-september-30th-2026-https-isc-sans-edu-podcastdetail
+  name: ISC Stormcast For Wednesday, September 30th, 2026 https://isc.sans.edu/podcastdetail/10116,
+    (Wed, Sep 30th)
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: SANS ISC Handler's Diary
+  source_url: https://isc.sans.edu/diary/rss/33384
+  source_tier: A
+  categories: *id023
+  snippet: (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial
+    3.0 United States License.
+  status: inbox
+- id: rss-isc-scans-for-wordfence-protected-websites-tue-sep-29th
+  name: Scans for Wordfence Protected Websites, (Tue, Sep 29th)
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: SANS ISC Handler's Diary
+  source_url: https://isc.sans.edu/diary/rss/33382
+  source_tier: A
+  categories: *id023
+  snippet: Starting yesterday, our sensors picked up a small number of scans for "wordfence-waf.php".
+    This particular script is used by Wordfence, a solution to protect WordPress sites.
+    During the Wordfence install, the wordpress-waf.php file will be created in the
+    site&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;s root directory &#x5b;1&#x5d;.&#xd;
+  status: inbox
+- id: rss-isc-stormcast-for-tuesday-september-29th-2026-https-isc-sans-edu-podcastdetail-1
+  name: ISC Stormcast For Tuesday, September 29th, 2026 https://isc.sans.edu/podcastdetail/10114,
+    (Tue, Sep 29th)
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: SANS ISC Handler's Diary
+  source_url: https://isc.sans.edu/diary/rss/33378
+  source_tier: A
+  categories: *id023
+  snippet: (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial
+    3.0 United States License.
+  status: inbox
+- id: rss-detectionengineering-a-september-break-for-detection-engineering-weekly
+  name: A September Break for Detection Engineering Weekly
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Detection Engineering Weekly (Substack)
+  source_url: https://www.detectionengineering.net/p/a-september-break-for-detection-engineering
+  source_tier: A
+  categories: &id024
+  - detection_response
+  - automation_orchestration
+  snippet: Dear readers,
+  status: inbox
+- id: rss-detectionengineering-dew-169-realistic-ai-soc-evaluation-scenarios-tricking-edrs-with-fake-telem
+  name: 'DEW #169 - Realistic AI SOC evaluation scenarios, tricking EDRs with fake
+    telemetry and Anthropic/OAI cyber eval guardrails'
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Detection Engineering Weekly (Substack)
+  source_url: https://www.detectionengineering.net/p/dew-169-realistic-ai-soc-evaluation
+  source_tier: A
+  categories: *id024
+  snippet: 'the first rule of a sandbox: no internet access. the second rule: bring
+    sand'
+  status: inbox
+- id: rss-cybersecuritydive-why-permissions-must-be-the-foundation-for-next-gen-identity-security
+  name: Why permissions must be the foundation for next-gen identity security
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Cybersecurity Dive
+  source_url: https://www.cybersecuritydive.com/spons/why-permissions-must-be-the-foundation-for-next-gen-identity-security/831732/
+  source_tier: A
+  categories: &id025
+  - detection_response
+  - cloud_identity
+  - data_ai
+  - automation_orchestration
+  snippet: Authentication isn't enough. Monitor access across humans, machines and
+    AI agents.
+  status: inbox
+- id: rss-cybersecuritydive-modernizing-data-security-with-dspm-ai-and-fewer-tools
+  name: Modernizing data security with DSPM, AI and fewer tools
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Cybersecurity Dive
+  source_url: https://www.cybersecuritydive.com/spons/modernizing-data-security-with-dspm-ai-and-fewer-tools/831578/
+  source_tier: A
+  categories: *id025
+  snippet: For organizations, the proper safeguards&mdash;such as controls or restrictions&mdash;must
+    be put in place.
+  status: inbox
+- id: rss-cybersecuritydive-defending-against-ai-fueled-cyberattacks-requires-focus-on-identity-data-gover
+  name: Defending against AI-fueled cyberattacks requires focus on identity, data
+    governance, Microsoft says
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Cybersecurity Dive
+  source_url: https://www.cybersecuritydive.com/news/ai-cyberattacks-automation-identity-data-microsoft-report/832020/
+  source_tier: A
+  categories: *id025
+  snippet: The company&rsquo;s latest report previews how AI is changing threat activity,
+    including by automating ransomware attacks.
+  status: inbox
+- id: rss-cybersecuritydive-fortinet-warns-that-critical-flaw-in-fortimail-is-facing-exploitation
+  name: Fortinet warns that critical flaw in FortiMail is facing exploitation
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Cybersecurity Dive
+  source_url: https://www.cybersecuritydive.com/news/fortinet-critical-flaw-fortimail-exploitation/832017/
+  source_tier: A
+  categories: *id025
+  snippet: Security researchers said that attackers can gain access to credentials,
+    stored mail and other connected systems.
+  status: inbox
+- id: rss-cybersecuritydive-soc-staffers-generally-pleased-with-ai-s-impact-but-worries-remain
+  name: SOC staffers generally pleased with AI’s impact, but worries remain
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Cybersecurity Dive
+  source_url: https://www.cybersecuritydive.com/news/ai-security-operations-centers-careers-skills-swimlane/831882/
+  source_tier: A
+  categories: *id025
+  snippet: AI is likely to eliminate some entry-level SOC roles, a survey found, It
+    is also creating opportunities to develop more strategic skills.
+  status: inbox
+- id: rss-cybersecuritydive-state-linked-actor-targets-us-ai-policy-experts-in-credential-phishing-campaig
+  name: State-linked actor targets US AI policy experts in credential phishing campaigns
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Cybersecurity Dive
+  source_url: https://www.cybersecuritydive.com/news/state-linked-actor-us-ai-policy-experts-credential-phishing/831887/
+  source_tier: A
+  categories: *id025
+  snippet: The China-linked espionage attacks were designed to gain insight into the
+    country&rsquo;s strategy and regulatory environment.
+  status: inbox
+- id: rss-cybersecuritydive-mass-exploitation-of-citrix-netscaler-what-we-currently-know
+  name: 'Mass exploitation of Citrix NetScaler: What we currently know'
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Cybersecurity Dive
+  source_url: https://www.cybersecuritydive.com/news/exploitation-citrix-netscaler-what-we-know/831780/
+  source_tier: A
+  categories: *id025
+  snippet: Suspected state-linked actors targeted critical vulnerabilities in the
+    widely used platform, causing widespread disruption across Europe and North America.
+  status: inbox
+- id: rss-cybersecuritydive-national-cyber-director-defends-private-sector-hacking-program-urges-focus-on-
+  name: National cyber director defends private-sector hacking program, urges focus
+    on security basics
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Cybersecurity Dive
+  source_url: https://www.cybersecuritydive.com/news/oncd-white-house-sean-cairncross-regulation-deterrence-ai/831768/
+  source_tier: A
+  categories: *id025
+  snippet: Letting businesses help the government deter cybercrime will benefit all
+    Americans, Sean Cairncross said.
+  status: inbox
+- id: rss-cybersecuritydive-citrix-netscaler-exploitation-began-days-before-public-notification
+  name: Citrix NetScaler exploitation began days before public notification
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Cybersecurity Dive
+  source_url: https://www.cybersecuritydive.com/news/citrix-netscaler-exploitation-days-before-notification/831634/
+  source_tier: A
+  categories: *id025
+  snippet: Customers need to check systems for compromise prior to patching, because
+    the security upgrade may not fully resolve an infected system.&nbsp;
+  status: inbox
+- id: rss-cybersecuritydive-dotted-line-how-construction-is-dealing-with-cybersecurity-in-the-age-of-ai
+  name: 'Dotted Line: How construction is dealing with cybersecurity in the age of
+    AI'
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Cybersecurity Dive
+  source_url: https://www.cybersecuritydive.com/news/construction-cybersecurity-AI/831637/
+  source_tier: A
+  categories: *id025
+  snippet: Contractors rank cybersecurity low on their priority lists. But lawyers
+    say being prepared is critical when the inevitable breach occurs.
+  status: inbox
+- id: rss-helpnetsecurity-fake-brand-discounts-on-social-media-prey-on-shoppers-fear-of-missing-out
+  name: Fake brand discounts on social media prey on shoppers’ fear of missing out
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Help Net Security
+  source_url: https://www.helpnetsecurity.com/2026/10/05/milk-dragon-phishing-fake-discounts/
+  source_tier: A
+  categories: &id026
+  - detection_response
+  - vuln_exposure
+  - cloud_identity
+  snippet: Cybercriminals are using fake discounts posted on Facebook and TikTok to
+    lure shoppers to phishing sites that steal their payment card details and one-time
+    passwords, Group-IB has warned. The phishing kit called Milk Dragon (also known
+    as NaiLong) has been active since October 2025, and is linked to 258 phishing
+    pages and victims in 66 countries. “Milk Dragon differentiates itself from the
+    conventional phishing playbook in a notable way,” GroupIB noted. Its operators
+    skip fake &#8230; <a href
+  status: inbox
+- id: rss-helpnetsecurity-ltm-launches-blueverse-agentraceiq-to-monitor-ai-agents-and-reverse-unintended-a
+  name: LTM launches BlueVerse AgenTraceIQ to monitor AI agents and reverse unintended
+    actions
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Help Net Security
+  source_url: https://www.helpnetsecurity.com/2026/10/05/ltm-blueverse-agentraceiq/
+  source_tier: A
+  categories: *id026
+  snippet: LTM has announced the launch of BlueVerse AgenTraceIQ, an offering designed
+    to help organizations securely adopt and scale agentic AI. Combining Rubrik Agent
+    Cloud with LTM&#8217;s AI governance and managed services expertise, the offering
+    enables organizations to monitor AI agents, establish guardrails, and rewind unintended
+    agent actions across business-critical environments. As part of Rubrik’s Project
+    Hourglass, LTM and other elite Global Systems Integrators partner with Rubrik,
+    the Secur
+  status: inbox
+- id: rss-helpnetsecurity-stellar-cyber-7-0-adds-measurable-workflows-for-ai-powered-socs
+  name: Stellar Cyber 7.0 adds measurable workflows for AI-powered SOCs
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Help Net Security
+  source_url: https://www.helpnetsecurity.com/2026/10/05/stellar-cyber-7-0/
+  source_tier: A
+  categories: *id026
+  snippet: Stellar Cyber has announced Stellar Cyber 7.0, a release that advances
+    the Human-Augmented Autonomous SOC from a vision for applying AI to security operations
+    into a practical operating model for running them. Stellar Cyber 7.0 unifies AI-powered
+    case triage, measurable SOC workflows, deeper investigative evidence, expanded
+    automated response and new APIs for operating security at scale. The result marks
+    significant progress from simply using AI to help analysts work faster. Stellar
+    Cyber 7.0
+  status: inbox
+- id: rss-helpnetsecurity-malwarebytes-scam-link-check-analyzes-urls-and-explains-potential-risks
+  name: Malwarebytes Scam Link Check analyzes URLs and explains potential risks
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Help Net Security
+  source_url: https://www.helpnetsecurity.com/2026/10/05/malwarebytes-scam-link-check/
+  source_tier: A
+  categories: *id026
+  snippet: Malwarebytes has launched the Malwarebytes Scam Link Check, a free web
+    tool that lets anyone check whether a website link is safe or dangerous before
+    clicking it. Users paste any suspicious URL, the kind that arrives by text, email,
+    chat, or social media, and the tool returns a safety result, along with the reasons
+    behind it and recommended next steps. Scams have overtaken many traditional crimes
+    in scale, with an estimated $442 billion lost to &#8230; <a href="https://www.helpnetsecurity.com
+  status: inbox
+- id: rss-helpnetsecurity-removemacai-turns-off-apple-intelligence-on-macos-27-and-deletes-its-models
+  name: RemoveMacAI turns off Apple Intelligence on macOS 27 and deletes its models
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Help Net Security
+  source_url: https://www.helpnetsecurity.com/2026/10/05/removemacai-turn-off-apple-intelligence/
+  source_tier: A
+  categories: *id026
+  snippet: A developer has released RemoveMacAI, a free command-line tool that turns
+    off Apple Intelligence on macOS 27 and deletes about 12 GB of downloaded AI models.
+    It requires a Mac with Apple silicon. macOS 27 doesn&#8217;t have a switch for
+    Apple Intelligence, and the models stay on disk after you disable the features.
+    If that matches your machine, you are holding 12 GB for software you switched
+    off. The tool also stops macOS from downloading &#8230; <a href="https://www.helpnetsecurity.com/2026/
+  status: inbox
+- id: rss-helpnetsecurity-out-of-band-exchange-server-update-fixes-high-severity-mailbox-access-bug-cve-20
+  name: Out-of-band Exchange Server update fixes high-severity mailbox access bug
+    (CVE-2026-96940)
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Help Net Security
+  source_url: https://www.helpnetsecurity.com/2026/10/05/exchange-server-vulnerability-cve-2026-96940/
+  source_tier: A
+  categories: *id026
+  snippet: Microsoft has pushed out an out-of-band security update for Exchange Server
+    that fixes a high-severity vulnerability (CVE-2026-96940) that may allow authenticated
+    attackers to read emails and attachments of other users in the same organization,
+    but &#8220;does not allow access across tenant boundaries.&#8221; CVE-2026-96940
+    was discovered internally and, according to the Exchange Server Team, they &#8220;are
+    not aware of active exploitation.&#8221; Nevertheless, Microsoft thinks that the
+    flaw
+  status: inbox
+- id: rss-helpnetsecurity-detained-shinyhunters-hacker-reportedly-helping-fbi-track-down-fellow-members
+  name: Detained ShinyHunters hacker reportedly helping FBI track down fellow members
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Help Net Security
+  source_url: https://www.helpnetsecurity.com/2026/10/05/shinyhunters-member-rey-detained-jordan-fbi/
+  source_tier: A
+  categories: *id026
+  snippet: A suspected ShinyHunters member known as Rey has been detained in Jordan
+    and is reportedly helping the FBI track down the rest of the group. Reuters reports
+    that Jordanian authorities detained Saif al-Din Khader, alias Rey, last week,
+    with two of its three sources placing the arrest on Tuesday. One source told the
+    publication that Khader is walking investigators through his electronic devices
+    and digital correspondence. &#8220;His cooperation is critical to ongoing efforts
+    to arrest &#8230; <
+  status: inbox
+- id: rss-helpnetsecurity-makerphone-2-a-diy-4g-phone-with-plug-in-camera-speaker-and-prototyping-board
+  name: 'MAKERphone 2: A DIY 4G phone with plug-in camera, speaker and prototyping
+    board'
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Help Net Security
+  source_url: https://www.helpnetsecurity.com/2026/10/05/makerphone-2-diy-4g-phone/
+  source_tier: A
+  categories: *id026
+  snippet: CircuitMess, a Croatian electronics kit maker, is selling MAKERphone 2.0,
+    a build-it-yourself 4G phone on Kickstarter that buyers program in MicroPython
+    or Arduino C++ and extend with plug-in hardware. Insert a SIM and it makes real
+    calls and sends real texts. For anyone who tests or tinkers with devices, that
+    is a cellular handset whose software you write yourself. CircuitMess also pitches
+    it to parents as a first phone for children, so some of the &#8230; <a href="https://www.helpnetsecurit
+  status: inbox
+- id: rss-helpnetsecurity-apple-tightens-macos-disk-access-as-ai-agents-become-more-powerful
+  name: Apple tightens macOS disk access as AI agents become more powerful
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Help Net Security
+  source_url: https://www.helpnetsecurity.com/2026/10/05/macos-full-disk-access-updates/
+  source_tier: A
+  categories: *id026
+  snippet: Apple plans to introduce additional controls for Full Disk Access in macOS,
+    citing growing privacy risks as AI agents become more capable and autonomous.
+    Users will need to take explicit action to grant apps this permission. The company
+    has not specified a rollout date or detailed how the controls will work. Apple’s
+    APIs include controls designed to protect users’ private data. Full Disk Access
+    largely bypasses these protections so backup apps can function properly. Apple
+    &#8230; <a href="htt
+  status: inbox
+- id: rss-helpnetsecurity-doxx-net-opens-agentic-defined-networking-public-beta-raises-38-million
+  name: doxx.net opens Agentic Defined Networking public beta, raises $38 million
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Help Net Security
+  source_url: https://www.helpnetsecurity.com/2026/10/05/doxx-net-agentic-defined-networking-platform/
+  source_tier: A
+  categories: *id026
+  snippet: doxx.net has launched the open beta of its Agentic Defined Networking (ADN)
+    platform, which lets people and their agents create their own private, secure
+    networks, communicate with no servers in the middle, and get started with no personal
+    information required. The platform gives agents an environment with defined connectivity
+    and built-in threat protection, helping prevent them from reaching known malicious
+    destinations while they browse and act on a user’s behalf. The company also announced
+  status: inbox
+- id: rss-reddit-security-update-guidance-for-netscaler-saml-authentication-deployment
+  name: 'Security Update: Guidance for NetScaler SAML Authentication Deployment'
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Reddit r/blueteamsec
+  source_url: https://www.reddit.com/r/blueteamsec/comments/1ww4oqv/security_update_guidance_for_netscaler_saml/
+  source_tier: A
+  categories: &id027
+  - detection_response
+  - automation_orchestration
+  snippet: '&#32; submitted by &#32;  /u/digicat   [link] &#32; [comments]'
+  status: inbox
+- id: rss-reddit-cto-at-ncsc-summary-week-ending-october-4th
+  name: 'CTO at NCSC Summary: week ending October 4th'
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Reddit r/blueteamsec
+  source_url: https://www.reddit.com/r/blueteamsec/comments/1wwhlwz/cto_at_ncsc_summary_week_ending_october_4th/
+  source_tier: A
+  categories: *id027
+  snippet: '&#32; submitted by &#32;  /u/digicat   [link] &#32; [comments]'
+  status: inbox
+- id: rss-reddit-i-m-building-opendrp-an-open-source-digital-risk-protection-platform-early-stage
+  name: I'm building OpenDRP – an open-source Digital Risk Protection platform (Early
+    stage MVP).
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Reddit r/blueteamsec
+  source_url: https://www.reddit.com/r/blueteamsec/comments/1wy0lz4/im_building_opendrp_an_opensource_digital_risk/
+  source_tier: A
+  categories: *id027
+  snippet: Hey everyone, I wanted to share a self-hosted, open-source project I’m
+    currently developing called OpenDRP. You can find the repository at https://github.com/OpenDRP/opendrp
+    and the main site at opendrp.dev. We have great open-source tools for Threat Intelligence,
+    like OpenCTI, and various EASM solutions, but the Digital Risk Protection space
+    is still heavily dominated by expensive enterprise SaaS products.
+  status: inbox
+- id: rss-reddit-automatic-transmission-an-empirical-study-of-data-privacy-in-the-connected-vehic
+  name: 'Automatic Transmission: An Empirical Study of Data Privacy in the Connected
+    Vehicle Ecosystem'
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Reddit r/blueteamsec
+  source_url: https://www.reddit.com/r/blueteamsec/comments/1wy54zn/automatic_transmission_an_empirical_study_of_data/
+  source_tier: A
+  categories: *id027
+  snippet: '&#32; submitted by &#32;  /u/digicat   [link] &#32; [comments]'
+  status: inbox
+- id: rss-reddit-deepseek-reasonix-how-a-poisoned-config-can-hijack-an-ai-coding-agent
+  name: 'DeepSeek-Reasonix: How a poisoned config can hijack an AI coding agent'
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Reddit r/blueteamsec
+  source_url: https://www.reddit.com/r/blueteamsec/comments/1wxrcp7/deepseekreasonix_how_a_poisoned_config_can_hijack/
+  source_tier: A
+  categories: *id027
+  snippet: '&#32; submitted by &#32;  /u/digicat   [link] &#32; [comments]'
+  status: inbox
+- id: rss-reddit-every-iranian-strike-on-uae-ports-and-refineries-was-paired-with-a-cyberattack
+  name: Every Iranian Strike on UAE Ports and Refineries Was Paired With a Cyberattack
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Reddit r/blueteamsec
+  source_url: https://www.reddit.com/r/blueteamsec/comments/1wxkb9z/every_iranian_strike_on_uae_ports_and_refineries/
+  source_tier: A
+  categories: *id027
+  snippet: '&#32; submitted by &#32;  /u/digicat   [link] &#32; [comments]'
+  status: inbox
+- id: rss-reddit-unifiedthreathunting-a-threat-hunting-process
+  name: 'UnifiedThreatHunting: A threat hunting process'
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Reddit r/blueteamsec
+  source_url: https://www.reddit.com/r/blueteamsec/comments/1wx97jy/unifiedthreathunting_a_threat_hunting_process/
+  source_tier: A
+  categories: *id027
+  snippet: '&#32; submitted by &#32;  /u/digicat   [link] &#32; [comments]'
+  status: inbox
+- id: rss-reddit-strangerdotnetthings-x509com-js-show-me-every-com-object-i-can-call-with-certuti
+  name: StrangerDOTNETThings/x509com.js - show me every COM object I can call with
+    certutil
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Reddit r/blueteamsec
+  source_url: https://www.reddit.com/r/blueteamsec/comments/1wxowsl/strangerdotnetthingsx509comjs_show_me_every_com/
+  source_tier: A
+  categories: *id027
+  snippet: '&#32; submitted by &#32;  /u/digicat   [link] &#32; [comments]'
+  status: inbox
+- id: rss-reddit-netscaler-ctx697096-checker-am-i-fixed-was-i-hacked-read-only-checker-for-citrix
+  name: 'netscaler-ctx697096-checker: Am I fixed? Was I hacked? Read-only checker
+    for Citrix NetScaler CTX697096 (CVE-2026-88771–88778): build, all 8 CVE preconditions,
+    Enhanced ISN, upgrade risks, SAML status, plus --ioc sweep with every public IoC
+    (webshells, implants, backdoor ad'
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Reddit r/blueteamsec
+  source_url: https://www.reddit.com/r/blueteamsec/comments/1wx90od/netscalerctx697096checker_am_i_fixed_was_i_hacked/
+  source_tier: A
+  categories: *id027
+  snippet: '&#32; submitted by &#32;  /u/digicat   [link] &#32; [comments]'
+  status: inbox
+- id: rss-reddit-debian-alert-dsa-6528-1-1-000-cves-patched
+  name: Debian alert DSA-6528-1 - ~1,000 CVEs patched
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Reddit r/blueteamsec
+  source_url: https://www.reddit.com/r/blueteamsec/comments/1wxbvtp/debian_alert_dsa65281_1000_cves_patched/
+  source_tier: A
+  categories: *id027
+  snippet: '&#32; submitted by &#32;  /u/digicat   [link] &#32; [comments]'
+  status: inbox
+- id: rss-reddit-n0xis-ai-first-reverse-engineering-toolkit-static-analysis-ssa-decompiler-live-m
+  name: 'N0xis: AI-first reverse-engineering toolkit: static analysis, SSA decompiler,
+    live memory, provenance. Source-available (PolyForm Noncommercial).'
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Reddit r/blueteamsec
+  source_url: https://www.reddit.com/r/blueteamsec/comments/1wxa9d6/n0xis_aifirst_reverseengineering_toolkit_static/
+  source_tier: A
+  categories: *id027
+  snippet: '&#32; submitted by &#32;  /u/digicat   [link] &#32; [comments]'
+  status: inbox
+- id: rss-reddit-apex-flash-an-open-weights-model-for-security-research-post-trained-on-real-vuln
+  name: Apex Flash - an open-weights model for security research, post-trained on
+    real vulnerabilities from our proprietary dataset.
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Reddit r/blueteamsec
+  source_url: https://www.reddit.com/r/blueteamsec/comments/1wxnkeg/apex_flash_an_openweights_model_for_security/
+  source_tier: A
+  categories: *id027
+  snippet: '&#32; submitted by &#32;  /u/digicat   [link] &#32; [comments]'
+  status: inbox
+- id: rss-reddit-lockjaw-rust-based-c2-framework
+  name: 'lockjaw: Rust based C2 Framework'
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Reddit r/blueteamsec
+  source_url: https://www.reddit.com/r/blueteamsec/comments/1wx9hl4/lockjaw_rust_based_c2_framework/
+  source_tier: A
+  categories: *id027
+  snippet: '&#32; submitted by &#32;  /u/digicat   [link] &#32; [comments]'
+  status: inbox
+- id: rss-reddit-adm-zip-lpe-poc-cve-2026-102282-local-privilege-escalation-via-suid-sgid-preserv
+  name: 'adm-zip_LPE-PoC: CVE-2026-102282: Local Privilege Escalation via SUID/SGID
+    preservation during archive extraction'
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Reddit r/blueteamsec
+  source_url: https://www.reddit.com/r/blueteamsec/comments/1wx9i6c/admzip_lpepoc_cve2026102282_local_privilege/
+  source_tier: A
+  categories: *id027
+  snippet: '&#32; submitted by &#32;  /u/digicat   [link] &#32; [comments]'
+  status: inbox
+- id: rss-reddit-android-projector-c2-malware-breakdown-of-a-c2-network-of-chinese-beamers-silent
+  name: 'Android-Projector-C2-Malware: Breakdown of a c2-network of chinese beamers
+    - SilentSDK-Analysis'
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Reddit r/blueteamsec
+  source_url: https://www.reddit.com/r/blueteamsec/comments/1wxagij/androidprojectorc2malware_breakdown_of_a/
+  source_tier: A
+  categories: *id027
+  snippet: '&#32; submitted by &#32;  /u/digicat   [link] &#32; [comments]'
+  status: inbox
+- id: rss-ventureinsecurity-fighting-ai-slop-with-human-insight
+  name: Fighting AI slop with human insight
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Venture in Security
+  source_url: https://ventureinsecurity.net/p/fighting-ai-slop-with-human-insight
+  source_tier: A
+  categories:
+  - detection_response
+  - data_ai
+  - automation_orchestration
+  snippet: I had to step away from Venture in Security for ~2 months. I am back with
+    some big announcements about the future of this blog.
+  status: inbox
+- id: rss-thedfirreport-bengalseo-part-1-anatomy-of-the-operation
+  name: 'BengalSEO Part 1: Anatomy of the Operation'
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: The DFIR Report
+  source_url: https://thedfirreport.com/2026/08/24/bengalseo-part-1-anatomy-of-the-operation/
+  source_tier: A
+  categories:
+  - detection_response
+  - vuln_exposure
+  snippet: 'Key Takeaways The DFIR Report Offerings Check out our Products here and
+    our Services here. Want a demo, more information on our services, pricing or just
+    want to chat? Get in Touch Contact us&#160;today for pricing or a demo! Case Summary
+    In March 2026, our team identified an SEO poisoning campaign leading to malware
+    deployment [&#8230;]
+
+    The post BengalSEO Part 1: Anatomy of the Operation appe'
+  status: inbox
+- id: rss-unit42-threat-brief-netscaler-zero-days-cve-2026-88771-and-cve-2026-88772-exploited-in-
+  name: 'Threat Brief: NetScaler Zero Days CVE-2026-88771 and CVE-2026-88772 Exploited
+    in the Wild (Updated September 30)'
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Unit 42 (Palo Alto Networks)
+  source_url: https://unit42.paloaltonetworks.com/netscaler-zero-days-exploited/
+  source_tier: B
+  categories: &id028
+  - detection_response
+  - cloud_identity
+  - vuln_exposure
+  snippet: "Unit 42 is aware of possible 0-day activity against NetScaler devices.\
+    \ Citrix reports CVE-2026-88771, CVE-2026-88772 have been exploited in the wild.\
+    \ \nThe post Threat Brief: NetScaler Zero Days CVE-2026-88771 and CVE-2026-88772\
+    \ Exploited in the Wild (Updated September 30) appeared first on Unit 42."
+  status: inbox
+- id: rss-unit42-opertraitors-how-kubernetes-operators-betray-your-security-posture
+  name: 'OperTraitors: How Kubernetes Operators Betray Your Security Posture'
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Unit 42 (Palo Alto Networks)
+  source_url: https://unit42.paloaltonetworks.com/agentic-ai-kubernetes-operator-risks/
+  source_tier: B
+  categories: *id028
+  snippet: 'We introduce OperTraitor, a tool to audit privileges of Kubernetes operators,
+    identify excessive RBAC risks, and secure non-human identities.
+
+    The post OperTraitors: How Kubernetes Operators Betray Your Security Posture appeared
+    first on Unit 42.'
+  status: inbox
+- id: rss-unit42-3-consulting-myths-debunked-by-unit-42-experts
+  name: 3 Consulting Myths Debunked by Unit 42 Experts
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Unit 42 (Palo Alto Networks)
+  source_url: https://unit42.paloaltonetworks.com/3-consulting-myths-debunked-by-unit-42-experts/
+  source_tier: B
+  categories: *id028
+  snippet: 'Unit 42 security experts address critical cybersecurity misconceptions,
+    offering practical insights to help your organization reinforce its enterprise
+    defenses.
+
+    The post 3 Consulting Myths Debunked by Unit 42 Experts appeared first on Unit
+    42.'
+  status: inbox
+- id: rss-unit42-from-exposure-to-lockdown-how-aws-neutralizes-compromised-iam-credentials-throug
+  name: 'From Exposure to Lockdown: How AWS Neutralizes Compromised IAM Credentials
+    through Managed Policies'
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Unit 42 (Palo Alto Networks)
+  source_url: https://unit42.paloaltonetworks.com/detecting-exposed-aws-iam-credentials/
+  source_tier: B
+  categories: *id028
+  snippet: 'We explore how AWS neutralizes exposed IAM credentials using managed policies,
+    detailing GitHub secret scanning and CloudTrail monitoring strategies.
+
+    The post From Exposure to Lockdown: How AWS Neutralizes Compromised IAM Credentials
+    through Managed Policies appeared first on Unit 42.'
+  status: inbox
+- id: rss-unit42-a-vault-with-a-heap-view-the-uncomfortable-space-between-agentcore-harness-and-i
+  name: 'A Vault with a Heap-View: The Uncomfortable Space Between AgentCore Harness
+    and Identity'
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Unit 42 (Palo Alto Networks)
+  source_url: https://unit42.paloaltonetworks.com/securing-aws-agentcore-harness-credentials/
+  source_tier: B
+  categories: *id028
+  snippet: 'Analysis of how default configurations in AWS AgentCore Harness allow
+    prompt injection to exfiltrate credentials, and key steps to secure your agents.
+
+    The post A Vault with a Heap-View: The Uncomfortable Space Between AgentCore Harness
+    and Identity appeared first on Unit 42.'
+  status: inbox
+- id: rss-unit42-inside-the-modern-soc-defending-the-cross-environment-pivot
+  name: 'Inside the Modern SOC: Defending the Cross-Environment Pivot'
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Unit 42 (Palo Alto Networks)
+  source_url: https://unit42.paloaltonetworks.com/soc-cross-environment-pivot/
+  source_tier: B
+  categories: *id028
+  snippet: 'Cross-environment attacks demand a new approach to security operations.
+    Learn how Unit 42 Managed XSIAM helps SOC teams investigate complete attack paths.
+
+    The post Inside the Modern SOC: Defending the Cross-Environment Pivot appeared
+    first on Unit 42.'
+  status: inbox
+- id: rss-unit42-atomic-macos-amos-stealer-activity
+  name: Atomic macOS (AMOS) Stealer Activity
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Unit 42 (Palo Alto Networks)
+  source_url: https://unit42.paloaltonetworks.com/atomic-macos-amos-stealer-activity/
+  source_tier: B
+  categories: *id028
+  snippet: 'Modern macOS malware uses deceptive setup guides to steal credentials
+    and sensitive user data. Learn how to identify and block these threats.
+
+    The post Atomic macOS (AMOS) Stealer Activity appeared first on Unit 42.'
+  status: inbox
+- id: rss-unit42-unmasking-cloud-identities-from-behavioral-clustering-to-automated-detection
+  name: 'Unmasking Cloud Identities: From Behavioral Clustering to Automated Detection'
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Unit 42 (Palo Alto Networks)
+  source_url: https://unit42.paloaltonetworks.com/behavioral-clustering-map-to-cloud-identities/
+  source_tier: B
+  categories: *id028
+  snippet: 'We designed a behavioral clustering model to map cloud identity roles
+    from audit logs, enabling continuous threat detection using standard SQL queries.
+
+    The post Unmasking Cloud Identities: From Behavioral Clustering to Automated Detection
+    appeared first on Unit 42.'
+  status: inbox
+- id: rss-unit42-the-machine-with-many-faces-post-exploitation-identity-misuse-in-spiffe-spire
+  name: 'The Machine With Many Faces: Post-Exploitation Identity Misuse in SPIFFE/SPIRE'
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Unit 42 (Palo Alto Networks)
+  source_url: https://unit42.paloaltonetworks.com/kubernetes-spiffe-spire-identity-spoofing/
+  source_tier: B
+  categories: *id028
+  snippet: 'Learn how root access on a compromised K8s node allows attackers to utilize
+    SPIFFE/SPIRE metadata to spoof and harvest co-located workload identities.
+
+    The post The Machine With Many Faces: Post-Exploitation Identity Misuse in SPIFFE/SPIRE
+    appeared first on Unit 42.'
+  status: inbox
+- id: rss-unit42-untracked-nightmares-the-threats-hiding-behind-commodity-infrastructure
+  name: 'Untracked Nightmares: The Threats Hiding Behind Commodity Infrastructure'
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Unit 42 (Palo Alto Networks)
+  source_url: https://unit42.paloaltonetworks.com/ppi-network-malware-campaign-analysis/
+  source_tier: B
+  categories: *id028
+  snippet: 'An investigation into how cybercriminals used YouTube gaming lures and
+    SEO poisoning to deliver multi-payload malware to enterprise networks.
+
+    The post Untracked Nightmares: The Threats Hiding Behind Commodity Infrastructure
+    appeared first on Unit 42.'
+  status: inbox
+- id: rss-unit42-attackers-expose-ongoing-ai-tool-use-targeting-organizations-in-latin-america
+  name: Attackers Expose Ongoing AI Tool Use Targeting Organizations in Latin America
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Unit 42 (Palo Alto Networks)
+  source_url: https://unit42.paloaltonetworks.com/ai-tool-use-targeting-latam-orgs/
+  source_tier: B
+  categories: *id028
+  snippet: 'Explore how attackers targeting Latin American entities use AI for data
+    exfiltration and how basic OpSec errors allow defenders to disrupt operations.
+
+    The post Attackers Expose Ongoing AI Tool Use Targeting Organizations in Latin
+    America appeared first on Unit 42.'
+  status: inbox
+- id: rss-unit42-an-ai-assisted-cyber-attack-inside-a-unit-42-investigation
+  name: 'An AI-Assisted Cyber Attack: Inside a Unit 42 Investigation'
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Unit 42 (Palo Alto Networks)
+  source_url: https://unit42.paloaltonetworks.com/ai-assisted-cyber-attack-inside-a-unit-42-investigation/
+  source_tier: B
+  categories: *id028
+  snippet: 'Using autonomous AI agents, an attacker breached an enterprise network
+    in a matter of hours. Understand how to address and defend against agentic attacks.
+
+    The post An AI-Assisted Cyber Attack: Inside a Unit 42 Investigation appeared
+    first on Unit 42.'
+  status: inbox
+- id: rss-blog-give-yourself-room-to-be-human
+  name: Give yourself room to be human
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Cisco Talos Intelligence
+  source_url: https://blog.talosintelligence.com/give-yourself-room-to-be-human/
+  source_tier: B
+  categories: &id029
+  - detection_response
+  - vuln_exposure
+  snippet: In this week’s edition, Amy reflects on the importance of prioritizing
+    family and personal well-being over the pressure to remain constantly productive.
+  status: inbox
+- id: rss-blog-the-fine-art-of-frustrating-the-adversary
+  name: The Fine Art of Frustrating the Adversary
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Cisco Talos Intelligence
+  source_url: https://blog.talosintelligence.com/the-fine-art-of-frustrating-the-adversary/
+  source_tier: B
+  categories: *id029
+  snippet: What really frustrates an adversary? Eight Cisco Talos researchers share
+    practical ways to make their next move slower and riskier. From deception and
+    behavioral detection to breaking attack dependencies and resisting manufactured
+    urgency.
+  status: inbox
+- id: rss-blog-china-nexus-uat-11587-targets-government-and-policy-organizations-across-asia-wi
+  name: China-nexus UAT-11587 targets government and policy organizations across Asia
+    with Antino backdoor
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Cisco Talos Intelligence
+  source_url: https://blog.talosintelligence.com/china-nexus-uat-11587-targets-government-and-policy-organizations-across-asia-with-antino-backdoor/
+  source_tier: B
+  categories: *id029
+  snippet: Cisco Talos uncovered a cluster of activity we track as UAT-11587 targeting
+    government and policy organizations across Asia, including in Taiwan, India, the
+    Philippines, and Cambodia, to deliver a previously undocumented backdoor referred
+    to as “Antino” in developer artifacts.
+  status: inbox
+- id: rss-blog-securing-the-keys-to-the-kingdom-announcing-executive-threat-detection
+  name: 'Securing the keys to the kingdom: Announcing Executive Threat Detection'
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Cisco Talos Intelligence
+  source_url: https://blog.talosintelligence.com/securing-the-keys-to-the-kingdom-announcing-executive-threat-detection/
+  source_tier: B
+  categories: *id029
+  snippet: This new proactive service joins the suite of retainer offerings to provide
+    dedicated, intelligence-led hunting specifically for your organization’s most
+    high-value IT assets.
+  status: inbox
+- id: rss-blog-trust-and-the-enticing-consultancy-offer
+  name: Trust and the enticing consultancy offer
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Cisco Talos Intelligence
+  source_url: https://blog.talosintelligence.com/trust-and-the-enticing-consultancy-offer/
+  source_tier: B
+  categories: *id029
+  snippet: In this week’s newsletter Martin muses over a very suspicious elicitation
+    over social media and the true value of trust within the cyber ecosystem. Hubris
+    might be the real vulnerability that the cyber industry must worry about.
+  status: inbox
+- id: rss-blog-the-closed-quorum-inside-the-first-reported-autonomous-ai-c2-implant
+  name: 'The Closed Quorum: Inside the first reported autonomous AI C2 implant'
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Cisco Talos Intelligence
+  source_url: https://blog.talosintelligence.com/the-closed-quorum-inside-the-first-reported-autonomous-ai-c2-implant/
+  source_tier: B
+  categories: *id029
+  snippet: CLOSEDQUORUM, a malware binary discovered through Cisco Talos’ CAIRN project,
+    exhibits fully autonomous command and control (C2). It represents a shift in effort
+    displacement for attackers, in which expanding portions of the attack chain can
+    be executed without operator involvement.
+  status: inbox
+- id: rss-blog-introducing-cairn-frontier-tracking-for-ai-integrated-malware
+  name: 'Introducing CAIRN: Frontier tracking for AI-integrated malware'
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Cisco Talos Intelligence
+  source_url: https://blog.talosintelligence.com/introducing-cairn-frontier-tracking-for-ai-integrated-malware/
+  source_tier: B
+  categories: *id029
+  snippet: Talos is releasing CAIRN, a research toolkit for hunting, classifying,
+    and tracking emerging AI-integrated malware.
+  status: inbox
+- id: rss-blog-should-you-care-about-an-ai-slowdown
+  name: Should you care about an “AI slowdown?”
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Cisco Talos Intelligence
+  source_url: https://blog.talosintelligence.com/should-you-care-about-an-ai-slowdown/
+  source_tier: B
+  categories: *id029
+  snippet: In this week's Threat Source, David talks about why focusing on your security
+    basics is still your best bet, even in a world with rapid AI advancements.
+  status: inbox
+- id: rss-blog-ransomware-incidents-in-japan-in-the-first-half-of-2026-investigation-of-the-gen
+  name: 'Ransomware incidents in Japan in the first half of 2026: Investigation of
+    The Gentlemen’s infrastructure and evidence of Qilin''s AI use'
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Cisco Talos Intelligence
+  source_url: https://blog.talosintelligence.com/ransomware-incidents-in-japan-in-the-first-half-of-2026/
+  source_tier: B
+  categories: *id029
+  snippet: Ransomware incidents in Japan rose 4.7% year over year. The Gentlemen was
+    the most active group, with leak-site listings more than doubling from January
+    to July. Qilin ranked second and appeared to use AI, while SMEs with capital under
+    JPY 1 billion represented 80% of victims.
+  status: inbox
+- id: rss-blog-securing-the-unpatchable-in-an-age-of-ai-driven-vulnerabilities
+  name: Securing the unpatchable in an age of AI-driven vulnerabilities
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Cisco Talos Intelligence
+  source_url: https://blog.talosintelligence.com/securing-the-unpatchable-in-an-age-of-ai-driven-vulnerabilities/
+  source_tier: B
+  categories: *id029
+  snippet: Advances in AI technology will continue to identify vulnerabilities that
+    in some circumstances are difficult, or effectively impossible, to patch. Appropriate
+    network segmentation, rigorous visibility, and the deployment of NGFW/IPS combinations
+    can provide a powerful compensatory layer.
+  status: inbox
+- id: rss-blog-we-ve-got-one-word-for-it-and-it-s-usually-the-wrong-one
+  name: We've got one word for it, and it's usually the wrong one
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Cisco Talos Intelligence
+  source_url: https://blog.talosintelligence.com/weve-got-one-word-for-it-and-its-usually-the-wrong-one/
+  source_tier: B
+  categories: *id029
+  snippet: In this week's Threat Source newsletter, Joe explores why the word "burnout"
+    often fails to capture the true toll of working in the cybersecurity industry
+    and why we need better language to address it.
+  status: inbox
+- id: rss-blog-active-exploitation-of-cisco-secure-firewall-management-center-vulnerabilities
+  name: Active exploitation of Cisco Secure Firewall Management Center vulnerabilities
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Cisco Talos Intelligence
+  source_url: https://blog.talosintelligence.com/fmc-ongoing-exploitation/
+  source_tier: B
+  categories: *id029
+  snippet: Cisco Talos is actively tracking the exploitation of two vulnerabilities
+    in Cisco’s Secure Firewall Management Center (FMC) Software.
+  status: inbox
+- id: rss-blog-microsoft-patch-tuesday-for-september-2026-snort-rules-and-prominent-vulnerabili
+  name: Microsoft Patch Tuesday for September 2026 — Snort rules and prominent vulnerabilities
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Cisco Talos Intelligence
+  source_url: https://blog.talosintelligence.com/microsoft-patch-tuesday-for-september-2026/
+  source_tier: B
+  categories: *id029
+  snippet: Microsoft has released its monthly security update for September 2026,
+    which includes 973 vulnerabilities affecting a range of products, including 113
+    that Microsoft marked as "critical."
+  status: inbox
+- id: rss-blog-clearfake-webdav-infection-chain-delivers-amatera-stealer-zigcryptostealer-and-n
+  name: ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer,
+    and NetSupport Manager
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Cisco Talos Intelligence
+  source_url: https://blog.talosintelligence.com/clearfake-webdav-infection-chain/
+  source_tier: B
+  categories: *id029
+  snippet: We assess with moderate confidence that the attacks are not targeted at
+    a particular organization, but are a part of a cryptocurrency and credentials-stealing
+    operation using the Amatera stealer as the primary payload.
+  status: inbox
+- id: rss-blog-clickfix-moves-into-the-browser-cryptocurrency-theft-with-google-hosted-c2
+  name: 'ClickFix moves into the browser: Cryptocurrency theft with Google-hosted
+    C2'
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Cisco Talos Intelligence
+  source_url: https://blog.talosintelligence.com/clickfix-moves-into-the-browser/
+  source_tier: B
+  categories: *id029
+  snippet: Cisco Talos is tracking a cryptocurrency-stealing campaign that abuses
+    the Google Visualization API for command and control (C2), retrieving obfuscated
+    JavaScript from a publicly published Google Sheets document and injecting it into
+    the victim's browser session.
+  status: inbox
+- id: rss-youtube-black-hat-stories-connections-that-last
+  name: Black Hat Stories | Connections That Last
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Black Hat (YouTube)
+  source_url: https://www.youtube.com/shorts/FGSAf8vzCB8
+  source_tier: B
+  categories: &id030
+  - detection_response
+  - automation_orchestration
+  - data_ai
+  snippet: Lynn shares how Black Hat brings the cybersecurity community together year
+    after year, creating lasting connections and bringing the community to life.
+  status: inbox
+- id: rss-youtube-black-hat-stories-tony-lee-black-hat-review-board-member
+  name: Black Hat Stories | Tony Lee, Black Hat Review Board Member
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Black Hat (YouTube)
+  source_url: https://www.youtube.com/shorts/TjZ4WK8QKiw
+  source_tier: B
+  categories: *id030
+  snippet: ''
+  status: inbox
+- id: rss-youtube-black-hat-stories-tony-lee-vp-of-operations-at-hackerone
+  name: Black Hat Stories | Tony Lee, VP of Operations at HackerOne
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Black Hat (YouTube)
+  source_url: https://www.youtube.com/shorts/X1hKoX_C8Wc
+  source_tier: B
+  categories: *id030
+  snippet: ''
+  status: inbox
+- id: rss-youtube-black-hat-stories-tony-lee-black-hat-review-board-member-and-vp-of-operations-at
+  name: Black Hat Stories | Tony Lee, Black Hat Review Board Member and VP of Operations
+    at HackerOne
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Black Hat (YouTube)
+  source_url: https://www.youtube.com/shorts/PutUavTtETk
+  source_tier: B
+  categories: *id030
+  snippet: ''
+  status: inbox
+- id: rss-youtube-black-hat-stories-executive-director-at-women-in-cybersecurity-wicys
+  name: Black Hat Stories | Executive Director at Women in Cybersecurity (WiCyS)
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Black Hat (YouTube)
+  source_url: https://www.youtube.com/shorts/ar0xeVxtER0
+  source_tier: B
+  categories: *id030
+  snippet: Lynn shares why Black Hat is a valuable place to learn, connect, and prepare
+    for the future of cybersecurity.
+  status: inbox
+- id: rss-youtube-black-hat-stories-lynn-dohm-women-in-cybersecurity-wicys
+  name: Black Hat Stories | Lynn Dohm, Women in Cybersecurity (WiCyS)
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Black Hat (YouTube)
+  source_url: https://www.youtube.com/shorts/uGQoZ4cB4hY
+  source_tier: B
+  categories: *id030
+  snippet: Lynn shares why Black Hat continues to be a place for learning, connection,
+    and community.
+  status: inbox
+- id: rss-youtube-black-hat-stories-ryan-isabella-barnett
+  name: Black Hat Stories | Ryan & Isabella Barnett
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Black Hat (YouTube)
+  source_url: https://www.youtube.com/shorts/uQhAv68GjGE
+  source_tier: B
+  categories: *id030
+  snippet: From conducting research together to presenting at Black Hat, discover
+    how collaboration and shared experiences make the conference memorable.
+  status: inbox
+- id: rss-youtube-black-hat-stories-the-black-hat-experience
+  name: Black Hat Stories | The Black Hat Experience
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Black Hat (YouTube)
+  source_url: https://www.youtube.com/shorts/nzUs5QhYExY
+  source_tier: B
+  categories: *id030
+  snippet: From new connections to meaningful conversations, discover what makes the
+    Black Hat experience unique.
+  status: inbox
+- id: rss-youtube-ryan-isabella-barnett-akamai-black-hat-stories
+  name: Ryan & Isabella Barnett, Akamai | Black Hat Stories
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Black Hat (YouTube)
+  source_url: https://www.youtube.com/shorts/lCbjqj9KIQM
+  source_tier: B
+  categories: *id030
+  snippet: 'Black Hat is where the #cybersecurity community comes together to share
+    ideas, tackle challenges, and learn from one another. Hear from Ryan and Izzy
+    as they share their #BlackHat experience.'
+  status: inbox
+- id: rss-youtube-black-hat-stories-ryan-isabella-barnett-akamai
+  name: Black Hat Stories | Ryan & Isabella Barnett, Akamai
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Black Hat (YouTube)
+  source_url: https://www.youtube.com/shorts/p-XAEc3Hc2s
+  source_tier: B
+  categories: *id030
+  snippet: Ryan and Isabella Barnett from Akamai talk about how Black Hat's cutting-edge
+    research helps them stay one step ahead.
+  status: inbox
+- id: rss-youtube-black-hat-stories-founder-and-creator-of-black-hat
+  name: Black Hat Stories | Founder and Creator of Black Hat
+  discovered_at: '2026-10-05'
+  source: rss
+  source_name: Black Hat (YouTube)
+  source_url: https://www.youtube.com/shorts/MP757qc0rbw
+  source_tier: B
+  categories: *id030
+  snippet: Cybersecurity is constantly evolving. 🔐 Hear from Jeff Moss on the realities
+    shaping the industry today.
+  status: inbox
+- id: github-github-sekoia-io-documentation
+  name: SEKOIA-IO/documentation
+  discovered_at: '2026-10-05'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/SEKOIA-IO/documentation
+  source_tier: B
+  categories: &id031
+  - detection_response
+  snippet: SEKOIA.IO Documentation - The Intelligence-Driven SaaS SIEM
+  metadata:
+    stars: 58
+    language: JavaScript
+    updated_at: '2026-10-05T13:44:26Z'
+  status: inbox
+- id: github-github-vigil-soc-vigil
+  name: Vigil-SOC/vigil
+  discovered_at: '2026-10-05'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/Vigil-SOC/vigil
+  source_tier: B
+  categories: *id031
+  snippet: 'Vigil: The leading open source AI SOC. Apache 2.0. Runs against your own
+    LLM, local or remote. '
+  metadata:
+    stars: 343
+    language: Python
+    updated_at: '2026-10-05T13:47:42Z'
+  status: inbox
+- id: github-github-karib0u-rustinel
+  name: Karib0u/rustinel
+  discovered_at: '2026-10-05'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/Karib0u/rustinel
+  source_tier: B
+  categories: *id031
+  snippet: Endpoint detection for Windows, Linux, and macOS. Sigma, YARA, and IOC
+    rules on native telemetry. Written in Rust. No cloud account required.
+  metadata:
+    stars: 498
+    language: Rust
+    updated_at: '2026-10-05T12:27:32Z'
+  status: inbox
+- id: github-github-gebruder-wirken
+  name: gebruder/wirken
+  discovered_at: '2026-10-05'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/gebruder/wirken
+  source_tier: B
+  categories: *id031
+  snippet: The enterprise gateway for autonomous agents. Identity management, per-channel
+    isolation, credential vault, per-session tamper-evident audit log.
+  metadata:
+    stars: 188
+    language: Rust
+    updated_at: '2026-10-05T10:45:32Z'
+  status: inbox
+- id: github-github-grafana-pysigma-backend-loki
+  name: grafana/pySigma-backend-loki
+  discovered_at: '2026-10-05'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/grafana/pySigma-backend-loki
+  source_tier: B
+  categories: *id031
+  snippet: pySigma backend for generating Grafana Loki/LogQL rules
+  metadata:
+    stars: 58
+    language: Python
+    updated_at: '2026-10-05T10:31:11Z'
+  status: inbox
+- id: github-github-cossas-soarca
+  name: COSSAS/SOARCA
+  discovered_at: '2026-10-05'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/COSSAS/SOARCA
+  source_tier: B
+  categories:
+  - automation_orchestration
+  snippet: SOARCA - The Open Source CACAO-based Security Orchestrator!
+  metadata:
+    stars: 108
+    language: Go
+    updated_at: '2026-09-28T15:59:25Z'
+  status: inbox
+- id: github-github-ebarti-cortex-xdr-client
+  name: ebarti/cortex-xdr-client
+  discovered_at: '2026-10-05'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/ebarti/cortex-xdr-client
+  source_tier: B
+  categories:
+  - detection_response
+  snippet: A python-based API client for Cortex XDR API.
+  metadata:
+    stars: 27
+    language: Python
+    updated_at: '2026-10-03T09:08:25Z'
+  status: inbox
+- id: github-github-kunai-project-kunai
+  name: kunai-project/kunai
+  discovered_at: '2026-10-05'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/kunai-project/kunai
+  source_tier: B
+  categories: &id032
+  - detection_response
+  snippet: Threat-hunting tool for Linux
+  metadata:
+    stars: 1092
+    language: Rust
+    updated_at: '2026-10-05T14:12:44Z'
+  status: inbox
+- id: github-github-h3llka1ser-soc-assistant-guide
+  name: H3llKa1ser/SOC-Assistant-Guide
+  discovered_at: '2026-10-05'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/H3llKa1ser/SOC-Assistant-Guide
+  source_tier: B
+  categories: *id032
+  snippet: A Security Operations playbook to assist blue teamers from day-to-day tasks
+    to Digital Forensics and Incident Response (DFIR) activities.
+  metadata:
+    stars: 32
+    language: null
+    updated_at: '2026-10-05T14:12:39Z'
+  status: inbox
+- id: github-github-sublime-security-sublime-rules
+  name: sublime-security/sublime-rules
+  discovered_at: '2026-10-05'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/sublime-security/sublime-rules
+  source_tier: B
+  categories: *id032
+  snippet: Sublime rules for email attack detection, prevention, and threat hunting.
+  metadata:
+    stars: 374
+    language: YAML
+    updated_at: '2026-10-05T14:08:57Z'
+  status: inbox
+- id: github-github-misp-misp
+  name: MISP/MISP
+  discovered_at: '2026-10-05'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/MISP/MISP
+  source_tier: B
+  categories: *id032
+  snippet: MISP (core software) - Open Source Threat Intelligence and Sharing Platform
+  metadata:
+    stars: 6568
+    language: PHP
+    updated_at: '2026-10-05T14:13:07Z'
+  status: inbox
+- id: github-github-intelowlproject-intelowl
+  name: intelowlproject/IntelOwl
+  discovered_at: '2026-10-05'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/intelowlproject/IntelOwl
+  source_tier: B
+  categories: *id032
+  snippet: 'IntelOwl: manage your Threat Intelligence at scale'
+  metadata:
+    stars: 4736
+    language: Python
+    updated_at: '2026-10-05T13:47:36Z'
+  status: inbox
+- id: github-github-owasp-openshield
+  name: OWASP/openshield
+  discovered_at: '2026-10-05'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/OWASP/openshield
+  source_tier: B
+  categories: &id033
+  - cloud_identity
+  snippet: Open source CSPM for Azure - scan for misconfigurations and quantum-unsafe
+    cryptography, map findings to CIS/NIST/ISO27001/SOC2, and fix them with one command
+  metadata:
+    stars: 58
+    language: Python
+    updated_at: '2026-10-04T01:19:16Z'
+  status: inbox
+- id: github-github-somethingnew2-0-simplecspm
+  name: somethingnew2-0/SimpleCSPM
+  discovered_at: '2026-10-05'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/somethingnew2-0/SimpleCSPM
+  source_tier: B
+  categories: *id033
+  snippet: GCP CSPM using Google Sheets
+  metadata:
+    stars: 38
+    language: JavaScript
+    updated_at: '2026-09-25T18:24:11Z'
+  status: inbox
+- id: github-github-aquasecurity-cloudsploit
+  name: aquasecurity/cloudsploit
+  discovered_at: '2026-10-05'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/aquasecurity/cloudsploit
+  source_tier: B
+  categories: *id033
+  snippet: Cloud Security Posture Management (CSPM)
+  metadata:
+    stars: 3777
+    language: JavaScript
+    updated_at: '2026-09-30T19:29:45Z'
+  status: inbox
+- id: github-github-nothingnesses-agent-images
+  name: nothingnesses/agent-images
+  discovered_at: '2026-10-05'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/nothingnesses/agent-images
+  source_tier: B
+  categories: &id034
+  - data_ai
+  snippet: Sandboxed OCI container images for AI coding agents, built reproducibly
+    with Nix.
+  metadata:
+    stars: 46
+    language: Shell
+    updated_at: '2026-10-05T14:13:27Z'
+  status: inbox
+- id: github-github-google-mantis
+  name: google/mantis
+  discovered_at: '2026-10-05'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/google/mantis
+  source_tier: B
+  categories: *id034
+  snippet: A modular, stack-agnostic toolkit for AI coding agents to autonomously
+    find, reproduce, and patch vulnerabilities.
+  metadata:
+    stars: 2318
+    language: Python
+    updated_at: '2026-10-05T14:12:04Z'
+  status: inbox
+- id: github-github-smart-mcp-proxy-mcpproxy-go
+  name: smart-mcp-proxy/mcpproxy-go
+  discovered_at: '2026-10-05'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/smart-mcp-proxy/mcpproxy-go
+  source_tier: B
+  categories: *id034
+  snippet: Supercharge AI Agents, Safely
+  metadata:
+    stars: 383
+    language: Go
+    updated_at: '2026-10-05T14:10:31Z'
+  status: inbox
+- id: github-github-cowork-os-cowork-os
+  name: CoWork-OS/CoWork-OS
+  discovered_at: '2026-10-05'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/CoWork-OS/CoWork-OS
+  source_tier: B
+  categories: *id034
+  snippet: Local-first personal agentic OS and everything app for coding, knowledge
+    work, web design, automations, and artifacts.
+  metadata:
+    stars: 470
+    language: TypeScript
+    updated_at: '2026-10-05T13:51:22Z'
+  status: inbox
+- id: github-github-iamthefrogy-frogscope
+  name: iamthefrogy/frogscope
+  discovered_at: '2026-10-05'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/iamthefrogy/frogscope
+  source_tier: B
+  categories:
+  - vuln_exposure
+  snippet: Full external application attack surface management and exposure management.
+  metadata:
+    stars: 15
+    language: Python
+    updated_at: '2026-09-05T18:35:42Z'
+  status: inbox
+- id: github-github-gadievron-raptor
+  name: gadievron/raptor
+  discovered_at: '2026-10-05'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/gadievron/raptor
+  source_tier: B
+  categories: &id035
+  - automation_orchestration
+  snippet: Raptor turns Claude Code into a general-purpose AI offensive/defensive
+    security agent. By using Claude.md and creating rules, sub-agents, and skills,
+    and orchestrating security tool usage, we configure the agent for adversarial
+    thinking, and perform research or attack/defense operations.
+  metadata:
+    stars: 3858
+    language: Python
+    updated_at: '2026-10-05T12:51:53Z'
+  status: inbox
+- id: github-github-perrylink-dsh-skill-pack-security
+  name: PerryLink/dsh-skill-pack-security
+  discovered_at: '2026-10-05'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/PerryLink/dsh-skill-pack-security
+  source_tier: B
+  categories: *id035
+  snippet: 'Security-audit skill pack + plugin_vet supply-chain gate for DeepSeek
+    Harness (dsh): 8 bilingual agent skills (secret scan, dependency audit, supply-chain
+    review, prompt-injection review, audit orchestration, threat modeling, vuln intel,
+    incident response) plus the plugin_vet automated pre-install scanner. Apache-2.0.'
+  metadata:
+    stars: 19
+    language: TypeScript
+    updated_at: '2026-10-05T11:58:32Z'
+  status: inbox
+- id: github-github-janssenproject-jans
+  name: JanssenProject/jans
+  discovered_at: '2026-10-05'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/JanssenProject/jans
+  source_tier: B
+  categories: *id035
+  snippet: 'The Janssen Project is a home for open source IAM components, featuring
+    Auth Server (OAuth/OpenID), Agama low-code identity orchestration, and the Cedarling
+    policy decision point. The "Janssen Server" distributions bundle IAM components
+    under one control plane. '
+  metadata:
+    stars: 652
+    language: Java
+    updated_at: '2026-10-05T11:30:56Z'
+  status: inbox
+- id: github-github-dapr-dapr-agents
+  name: dapr/dapr-agents
+  discovered_at: '2026-10-05'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/dapr/dapr-agents
+  source_tier: B
+  categories: *id035
+  snippet: Build autonomous, resilient and observable AI agents with built-in workflow
+    orchestration, security, statefulness and telemetry.
+  metadata:
+    stars: 754
+    language: Python
+    updated_at: '2026-10-05T10:04:46Z'
+  status: inbox
+- id: github-github-kritt-ai-open-kritt
+  name: Kritt-ai/open-kritt
+  discovered_at: '2026-10-05'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/Kritt-ai/open-kritt
+  source_tier: B
+  categories: *id035
+  snippet: Open-source, self-hosted AI vulnerability research tool that orchestrates
+    agents to find and validate security issues in code.
+  metadata:
+    stars: 2212
+    language: JavaScript
+    updated_at: '2026-10-05T13:19:08Z'
+  status: inbox
+- id: github-github-xalgorix-xalgorix
+  name: xalgorix/xalgorix
+  discovered_at: '2026-10-05'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/xalgorix/xalgorix
+  source_tier: B
+  categories: *id035
+  snippet: Autonomous AI pentesting agents — real-time reconnaissance, vulnerability
+    detection, and exploitation orchestration. Go + TypeScript.
+  metadata:
+    stars: 1170
+    language: Go
+    updated_at: '2026-10-05T08:47:41Z'
+  status: inbox
+- id: github-github-cyborg-garden-swarm-map
+  name: cyborg-garden/swarm-map
+  discovered_at: '2026-10-05'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/cyborg-garden/swarm-map
+  source_tier: B
+  categories: *id035
+  snippet: Multiplayer admin and orchestrator platform for heterogeneous agent runtimes
+    — Hermes (container-per-agent) and Letta (memory-first agents on a shared server)
+    in one control plane, with multi-tenant security, group approval, and audit.
+  metadata:
+    stars: 24
+    language: TypeScript
+    updated_at: '2026-10-05T04:09:21Z'
+  status: inbox
+- id: hn-lab-a-society-of-autonomous-researchers
+  name: A Society of Autonomous Researchers
+  discovered_at: '2026-10-05'
+  source: hackernews
+  source_name: Hacker News
+  source_url: https://lab.cloud/society/
+  source_tier: A
+  categories:
+  - data_ai
+  - automation_orchestration
+  snippet: ''
+  metadata:
+    points: 3
+    num_comments: 0
+  status: inbox
+- id: hn-hollywoodreporter-hollywood-ceos-are-spending-millions-on-bodyguards-as-threats-soar
+  name: Hollywood CEOs Are Spending Millions on Bodyguards as Threats Soar
+  discovered_at: '2026-10-05'
+  source: hackernews
+  source_name: Hacker News
+  source_url: https://www.hollywoodreporter.com/business/business-news/hollywood-ceo-security-costs-soar-threats-1236693944/
+  source_tier: A
+  categories:
+  - automation_orchestration
+  snippet: ''
+  metadata:
+    points: 5
+    num_comments: 1
+  status: inbox
