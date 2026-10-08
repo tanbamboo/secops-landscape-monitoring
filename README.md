@@ -74,7 +74,7 @@ scripts/         # discover.py, triage.py, validate_report.py
 
 ## Scheduling
 
-GitHub Actions are not used for this project. Run discovery and briefs locally:
+GitHub Actions are not used for this project. Run discovery and briefs locally, or via Cursor Automation:
 
 ```powershell
 .venv\Scripts\activate
@@ -82,8 +82,8 @@ python scripts/discover.py
 python scripts/generate_brief.py --write
 ```
 
-### Daily SecOps brief (07:30 UTC+8)
+### Weekly SecOps brief (Mondays 07:30 UTC+8)
 
 - Full briefs: [`briefs/`](briefs/) (≤5 startups/technologies per issue)
 - Outline generator: `python scripts/generate_brief.py --write`
-- Optional: schedule via Cursor Automation (see [`briefs/README.md`](briefs/README.md))
+- Automation: Cursor Automation weekly schedule (see [`briefs/README.md`](briefs/README.md))

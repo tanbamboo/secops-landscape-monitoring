@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate a daily SecOps landscape brief outline from the topic registry."""
+"""Generate a weekly SecOps landscape brief outline from the topic registry."""
 
 from __future__ import annotations
 
@@ -33,7 +33,7 @@ def pick_topics(limit: int = MAX_TOPICS) -> list[dict]:
 
 def render_outline(topics: list[dict], today: str) -> str:
     lines = [
-        f"# SecOps Landscape 每日简报（大纲）",
+        "# SecOps Landscape 每周简报（大纲）",
         "",
         f"**日期：** {today}  ",
         f"**状态：** 待 Agent 深化撰写",
@@ -41,7 +41,7 @@ def render_outline(topics: list[dict], today: str) -> str:
         "> 运行 `python scripts/generate_brief.py --write` 生成大纲；"
         "由 Cursor Agent 补充深度介绍后保存为完整简报。",
         "",
-        "## 今日候选（按 triage score）",
+        "## 本周候选（按 triage score）",
         "",
     ]
     for i, t in enumerate(topics, 1):
@@ -67,7 +67,7 @@ def render_outline(topics: list[dict], today: str) -> str:
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description="Generate daily SecOps brief outline")
+    parser = argparse.ArgumentParser(description="Generate weekly SecOps brief outline")
     parser.add_argument(
         "--write",
         action="store_true",
