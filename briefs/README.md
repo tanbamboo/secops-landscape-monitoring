@@ -20,7 +20,8 @@ python scripts/generate_brief.py --write
 
 ## 自动化
 
-- **GitHub Actions:** [`.github/workflows/daily-brief.yml`](../.github/workflows/daily-brief.yml) 每日 UTC 23:30（= 北京时间次日 07:30）生成大纲并开 PR。
-- **Cursor Automation（推荐）：** 定时触发 Agent，提示词示例：
+GitHub Actions 已移除。推荐用 **Cursor Automation** 定时触发 Agent，提示词示例：
 
-  > 阅读 `briefs/` 最新大纲与 `topics/registry.yaml` 前 5 名未发布候选，撰写今日 SecOps landscape 简报（中文，不超过 5 项深度介绍），保存为 `briefs/YYYY-MM-DD-secops-landscape.md` 并 commit push。
+> 阅读 `briefs/` 最新大纲与 `topics/registry.yaml` 前 5 名未发布候选，撰写今日 SecOps landscape 简报（中文，不超过 5 项深度介绍），保存为 `briefs/YYYY-MM-DD-secops-landscape.md` 并 commit push。
+
+本地也可先生成大纲：`python scripts/generate_brief.py --write`

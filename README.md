@@ -74,25 +74,16 @@ scripts/         # discover.py, triage.py, validate_report.py
 
 ## Scheduling
 
-A GitHub Actions workflow ([`.github/workflows/discover.yml`](.github/workflows/discover.yml)) runs discovery weekly (Mondays 06:00 UTC) or on manual trigger. When `topics/inbox.yaml` changes, it opens a PR automatically.
+GitHub Actions are not used for this project. Run discovery and briefs locally:
 
-### Enable auto-PR (one-time, repo admin)
-
-1. Open **https://github.com/tanbamboo/secops-landscape-monitoring**
-2. **Settings** → **Actions** → **General**
-3. Scroll to **Workflow permissions**
-4. Select **Read and write permissions**
-5. Check **Allow GitHub Actions to create and approve pull requests**
-6. Click **Save**
-
-If the repo is under an organization, an org owner may need to allow this under **Organization Settings → Actions → General** first.
-
-After saving, re-run **Actions → Weekly Discovery → Run workflow**. A PR titled “Weekly SecOps discovery inbox update” should appear when there are new inbox items.
-
-**Local alternative:** `python scripts/discover.py` before each research session.
+```powershell
+.venv\Scripts\activate
+python scripts/discover.py
+python scripts/generate_brief.py --write
+```
 
 ### Daily SecOps brief (07:30 UTC+8)
 
 - Full briefs: [`briefs/`](briefs/) (≤5 startups/technologies per issue)
 - Outline generator: `python scripts/generate_brief.py --write`
-- GitHub Actions: [`.github/workflows/daily-brief.yml`](.github/workflows/daily-brief.yml) creates a daily outline PR at 23:30 UTC
+- Optional: schedule via Cursor Automation (see [`briefs/README.md`](briefs/README.md))
