@@ -5698,3 +5698,1613 @@ items:
     language: Go
     updated_at: '2026-10-11T15:55:11Z'
   status: inbox
+- id: rss-securityweek-former-unit-8200-officers-raise-34-million-for-agentic-secops-startup-mave
+  name: Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: SecurityWeek
+  source_url: https://www.securityweek.com/former-unit-8200-officers-raise-34-million-for-agentic-secops-startup-mave/
+  source_tier: A
+  categories: &id049
+  - detection_response
+  - cloud_identity
+  - data_ai
+  snippet: 'Founded in 2025 by Unit 8200 alumni, Tel Aviv-based Mave uses AI agents
+    to investigate alerts across existing security stacks.
+
+    The post Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup
+    Mave appeared first on SecurityWeek.'
+  status: inbox
+- id: rss-securityweek-in-other-news-tor-exit-relays-hijacked-banks-spot-rogue-ai-agents-self-rebuildin
+  name: 'In Other News: Tor Exit Relays Hijacked, Banks Spot Rogue AI Agents, Self-Rebuilding
+    macOS Ransomware'
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: SecurityWeek
+  source_url: https://www.securityweek.com/in-other-news-tor-exit-relays-hijacked-banks-spot-rogue-ai-agents-self-rebuilding-macos-ransomware/
+  source_tier: A
+  categories: *id049
+  snippet: 'Noteworthy stories that might have slipped under the radar: Russia’s APT28
+    hit NATO defense firms, PingCAP source code stolen, ShinyHunters negotiator probe.
+
+    The post In Other News: Tor Exit Relays Hijacked, Banks Spot Rogue AI Agents,
+    Self-Rebuilding macOS Ransomware appeared first on SecurityWeek.'
+  status: inbox
+- id: rss-securityweek-mirai-botnet-operators-join-php2shell-attacks-as-aslr-bypass-exploits-emerge
+  name: Mirai Botnet Operators Join PHP2Shell Attacks as ASLR Bypass Exploits Emerge
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: SecurityWeek
+  source_url: https://www.securityweek.com/mirai-botnet-operators-join-php2shell-attacks-as-aslr-bypass-exploits-emerge/
+  source_tier: A
+  categories: *id049
+  snippet: 'Researchers tie PHP2Shell attempts to a Mirai botnet and show an ASLR
+    bypass, but no successful compromise has been confirmed yet.
+
+    The post Mirai Botnet Operators Join PHP2Shell Attacks as ASLR Bypass Exploits
+    Emerge appeared first on SecurityWeek.'
+  status: inbox
+- id: rss-securityweek-china-apt-uses-ai-pentest-tool-artex-in-connectwise-attacks
+  name: China APT Uses AI Pentest Tool Artex in ConnectWise Attacks
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: SecurityWeek
+  source_url: https://www.securityweek.com/china-apt-uses-ai-pentest-tool-artex-in-connectwise-attacks/
+  source_tier: A
+  categories: *id049
+  snippet: 'The state-sponsored hackers targeted hundreds of organizations and gained
+    privileged access to some environments.
+
+    The post China APT Uses AI Pentest Tool Artex in ConnectWise Attacks appeared
+    first on SecurityWeek.'
+  status: inbox
+- id: rss-securityweek-attackers-exploit-third-arista-vco-zero-day-in-four-months
+  name: Attackers Exploit Third Arista VCO Zero-Day in Four Months
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: SecurityWeek
+  source_url: https://www.securityweek.com/attackers-exploit-third-velocloud-orchestrator-zero-day-in-four-months/
+  source_tier: A
+  categories: *id049
+  snippet: 'The critical-severity SQL injection flaw allows attackers to access privileged
+    internal functionality and gain operator privileges.
+
+    The post Attackers Exploit Third Arista VCO Zero-Day in Four Months appeared first
+    on SecurityWeek.'
+  status: inbox
+- id: rss-securityweek-11-million-impacted-by-capcom-data-breach
+  name: 11 Million Impacted by Capcom Data Breach
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: SecurityWeek
+  source_url: https://www.securityweek.com/11-million-impacted-by-capcom-data-breach/
+  source_tier: A
+  categories: *id049
+  snippet: 'The hackers stole 11 million email addresses from CAPCOM ID and changed
+    the login passwords for 196 accounts.
+
+    The post 11 Million Impacted by Capcom Data Breach appeared first on SecurityWeek.'
+  status: inbox
+- id: rss-securityweek-quest-diagnostics-data-breach-exposed-certain-patient-records
+  name: Quest Diagnostics Data Breach Exposed ‘Certain Patient Records’
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: SecurityWeek
+  source_url: https://www.securityweek.com/quest-diagnostics-reports-cyber-breach-affecting-certain-patient-records/
+  source_tier: A
+  categories: *id049
+  snippet: 'In a regulatory filing, Quest Diagnostics reported unauthorized access
+    to its Quanum Lab Services Manager, a platform where certain clients can place
+    test orders.
+
+    The post Quest Diagnostics Data Breach Exposed &#8216;Certain Patient Records&#8217;
+    appeared first on SecurityWeek.'
+  status: inbox
+- id: rss-securityweek-litellm-compromised-in-fresh-supply-chain-attack
+  name: LiteLLM Compromised in Fresh Supply Chain Attack
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: SecurityWeek
+  source_url: https://www.securityweek.com/litellm-compromised-in-fresh-supply-chain-attack/
+  source_tier: A
+  categories: *id049
+  snippet: 'Hackers used compromised GitHub CLI OAuth tokens to push and approve malicious
+    packages on PyPI and Docker.
+
+    The post LiteLLM Compromised in Fresh Supply Chain Attack appeared first on SecurityWeek.'
+  status: inbox
+- id: rss-securityweek-atlassian-patches-75-flaws-in-data-center-and-server-products
+  name: Atlassian Patches 75 Flaws in Data Center and Server Products
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: SecurityWeek
+  source_url: https://www.securityweek.com/atlassian-patches-75-third-party-flaws-in-data-center-and-server-products/
+  source_tier: A
+  categories: *id049
+  snippet: 'Atlassian’s October bulletin lists 176 vulnerability entries, including
+    14 critical-severity issues, all in third-party components.
+
+    The post Atlassian Patches 75 Flaws in Data Center and Server Products appeared
+    first on SecurityWeek.'
+  status: inbox
+- id: rss-securityweek-iran-s-prince-of-persia-apt-hosts-c-c-in-us-for-first-time-since-2016
+  name: Iran’s Prince of Persia APT Hosts C&C in US for First Time Since 2016
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: SecurityWeek
+  source_url: https://www.securityweek.com/irans-prince-of-persia-apt-hosts-cc-in-us-for-first-time-since-2016/
+  source_tier: A
+  categories: *id049
+  snippet: 'After a three-month lull, Prince of Persia hid a Tornado C&#038;C server
+    on US shared hosting, its first US-based server since 2016.
+
+    The post Iran&#8217;s Prince of Persia APT Hosts C&#038;C in US for First Time
+    Since 2016 appeared first on SecurityWeek.'
+  status: inbox
+- id: rss-thehackernews-unpatched-tailscale-ssh-flaws-could-let-a-hacked-device-reach-root-on-other-serv
+  name: Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other
+    Servers
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: The Hacker News
+  source_url: https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html
+  source_tier: A
+  categories: &id050
+  - detection_response
+  - vuln_exposure
+  - cloud_identity
+  snippet: 'A single hacked device on a Tailscale network can be used to gain root
+    access to other servers it can reach, according to a security researcher who published
+    the findings this week.
+
+
+    The attack requires two things: Tailscale SSH set up to allow port forwarding,
+    and an attacker who already controls one device that the network''s access rules
+    permit to connect to the target.
+
+
+    The findings were'
+  status: inbox
+- id: rss-thehackernews-php2shell-exploitation-hits-government-entity-amid-global-scanning-and-signs-of-
+  name: PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs
+    of AI-Assisted Hacking
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: The Hacker News
+  source_url: https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html
+  source_tier: A
+  categories: *id050
+  snippet: 'Threat actors have been observed using agentic artificial intelligence
+    (AI) platforms for post-exploitation activity following the abuse of the PHP2Shell
+    vulnerabilities tracked as CVE-2026-109618 and CVE-2026-109619.
+
+
+    "In one case, the attackers targeted a government entity in Europe and within
+    two hours of the initial exploitation they had successfully accessed password
+    hashes and multi-factor'
+  status: inbox
+- id: rss-thehackernews-openai-ai-agents-demonstrate-vm-escapes-and-secret-cross-sandbox-communication
+  name: OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: The Hacker News
+  source_url: https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html
+  source_tier: A
+  categories: *id050
+  snippet: 'OpenAI has announced plans to conduct frontier model training with no
+    live internet access, as it resumes reinforcement learning (RL) training and internal
+    inference of its most advanced AI models.
+
+
+    "Based on the current state of alignment research, monitoring systems, and the
+    security of internet infrastructure, we believe the responsible approach is to
+    conduct frontier model training with no'
+  status: inbox
+- id: rss-thehackernews-brotli-decoder-flaw-behind-node-js-rce-also-affects-bun-python-and-other-widely-
+  name: Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other
+    Widely Used Software
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: The Hacker News
+  source_url: https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html
+  source_tier: A
+  categories: *id050
+  snippet: 'A memory-corruption flaw in Google''s Brotli decoder sits in many programs
+    that unpack Brotli-compressed data, among them Bun, the Python&nbsp;Brotli&nbsp;and&nbsp;brotlicffi&nbsp;packages,
+    and Envoy proxies set up to decompress Brotli.
+
+
+    Tracked as&nbsp;CVE-2026-111497, the flaw allows crafted compressed data to overwrite
+    past the end of a buffer and corrupt a program''s memory, potentially'
+  status: inbox
+- id: rss-thehackernews-leaked-litellm-master-key-let-attackers-steal-github-tokens-and-hijack-release-p
+  name: Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release
+    Pipeline
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: The Hacker News
+  source_url: https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html
+  source_tier: A
+  categories: *id050
+  snippet: 'LiteLLM on Friday revealed that an Agent Platform master key accidentally
+    published to a public GitHub repository in late May 2026 ultimately allowed the
+    threat actor to push a malicious version of the popular Python package.
+
+
+    "On May 27, 2026, a configuration file was committed to the public LiteLLM-Labs/lite-harness
+    repository which inadvertently contained the master key to a deployment of'
+  status: inbox
+- id: rss-thehackernews-google-says-gmail-and-photos-data-shared-with-ai-search-could-be-used-for-target
+  name: Google Says Gmail and Photos Data Shared With AI Search Could Be Used for
+    Targeted Ads
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: The Hacker News
+  source_url: https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html
+  source_tier: A
+  categories: *id050
+  snippet: 'Google has updated its privacy policy to spell out that using personalized
+    artificial intelligence (AI) features in Search or Gemini could allow the company
+    to serve targeted ads to users based on their activity on other connected Google
+    services.
+
+
+    "You may choose to allow certain Google services, including services like Search
+    or Gemini Apps, to access data from other Google services you use,'
+  status: inbox
+- id: rss-thehackernews-researchers-push-over-2-million-updates-to-remotely-disable-popcorn-time-updater
+  name: Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater
+    That Could Fuel a Botnet
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: The Hacker News
+  source_url: https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html
+  source_tier: A
+  categories: *id050
+  snippet: 'Between November 2025 and March 2026, the Dutch security firm Eye Security
+    pushed more than 2 million updates to computers it did not own to switch off a
+    background updater that it said could have allowed an outsider to take over the
+    machine.
+
+
+    The updater belongs to Time4Popcorn, an abandoned copy of Popcorn Time, a free
+    app that streamed pirated films and TV over BitTorrent.
+
+
+    Popcorn Time was'
+  status: inbox
+- id: rss-thehackernews-cisa-flags-two-actively-exploited-critical-flaws-in-collabora-online-and-arista-
+  name: CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista
+    VeloCloud
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: The Hacker News
+  source_url: https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html
+  source_tier: A
+  categories: *id050
+  snippet: "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday\
+    \ added two vulnerabilities impacting Collabora Online Built-in CODE Server and\
+    \ Arista VeloCloud Orchestrator (VCO) to its Known Exploited Vulnerabilities (KEV),\
+    \ citing reports of active exploitation in the wild.\n\nThe critical-severity\
+    \ vulnerabilities are listed below -\n\n\n  CVE-2026-110447 (CVSS score: 9.2)\
+    \ - An operating"
+  status: inbox
+- id: rss-thehackernews-blackx-uefi-bootkit-bypasses-secure-boot-on-patched-windows-systems-missing-revo
+  name: BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing
+    Revocations
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: The Hacker News
+  source_url: https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html
+  source_tier: A
+  categories: *id050
+  snippet: 'Diplomatic organizations in Central Asia have been targeted by a sophisticated
+    new Unified Extensible Firmware Interface (UEFI) bootkit called BlackX.
+
+
+    The activity, which singled out diplomatic entities in Tajikistan, Uzbekistan,
+    and Turkmenistan in early 2026, is suspected to be orchestrated by a China-linked
+    state-sponsored hacking group known as APT41, Kaspersky said in a technical report'
+  status: inbox
+- id: rss-thehackernews-ruby-fixes-three-regex-engine-bugs-responsible-for-four-critical-gitlab-rce-flaw
+  name: Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE
+    Flaws
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: The Hacker News
+  source_url: https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html
+  source_tier: A
+  categories: *id050
+  snippet: 'Ruby has released versions 4.0.9, 3.4.12, and 3.3.13 to fix three bugs
+    in Onigmo, the regular expression engine built into the language. The bugs lie
+    behind four critical security flaws that GitLab patched over the past month.
+
+
+    GitLab found that a specially crafted pattern could corrupt memory while Ruby
+    compiles it, potentially leading to code execution on its own servers.
+
+
+    Ruby says any'
+  status: inbox
+- id: rss-thehackernews-exposed-infrastructure-reveals-how-ransomware-affiliates-used-ai-agents-to-execu
+  name: Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to
+    Execute Intrusions
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: The Hacker News
+  source_url: https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html
+  source_tier: A
+  categories: *id050
+  snippet: 'Cybersecurity researchers have discovered an artificial intelligence (AI)-driven
+    intrusion ecosystem run by affiliates of the INC and The Gentlemen ransomware
+    groups.
+
+
+    Central to the operation is an "Autonomous Red Team Kill Chain Framework" referred
+    to as Phantom. The threat actor is assessed to be Russian-speaking and functions
+    both as an intrusion and data-extortion operator, as well as an'
+  status: inbox
+- id: rss-thehackernews-hackers-breach-enterprise-firewalls-and-vpns-exposing-over-70-000-credentials
+  name: Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: The Hacker News
+  source_url: https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html
+  source_tier: A
+  categories: *id050
+  snippet: 'Cybersecurity researchers have disclosed details of a large-scale campaign
+    that has targeted exposed network edge devices such as Fortinet FortiGate and
+    Palo Alto Networks GlobalProtect firewalls.
+
+
+    "Artifacts from this investigation also indicate that operators in this campaign
+    have obtained access to numerous organizations worldwide, and have attempted to
+    further compromise some victims,'
+  status: inbox
+- id: rss-thehackernews-php-warns-of-another-unpatched-rce-risk-two-days-after-emergency-php2shell-patch
+  name: PHP Warns of Another Unpatched RCE Risk Two Days After Emergency PHP2Shell
+    Patches
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: The Hacker News
+  source_url: https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html
+  source_tier: A
+  categories: *id050
+  snippet: 'PHP has warned of another way an attacker could run code on a web server,
+    two days after it shipped emergency fixes for the critical PHP2Shell flaws.
+
+
+    The new issue, assigned CVE-2026-115560, affects only web applications configured
+    in an unusual way, and PHP considers it an unlikely risk.The project is not issuing
+    an emergency fix for it. Instead, it recommends turning off a feature called'
+  status: inbox
+- id: rss-thehackernews-russia-linked-hackers-used-new-mesh-network-backdoor-in-destructive-ukraine-atta
+  name: Russia-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine
+    Attack
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: The Hacker News
+  source_url: https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html
+  source_tier: A
+  categories: *id050
+  snippet: 'The Russian state-sponsored hacking group Sandworm teamed up with another
+    threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics
+    company last year.
+
+
+    According to ESET, the attack involved UAC-0099 (aka Earth Sirrush) obtaining
+    initial access to the target on July 16, 2025, via a spear-phishing email bearing
+    a malware-laced attachment that led to the deployment of'
+  status: inbox
+- id: rss-thehackernews-critical-flaw-in-python-s-popular-pillow-image-library-allows-code-execution-via
+  name: Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution
+    via a Crafted Image
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: The Hacker News
+  source_url: https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html
+  source_tier: A
+  categories: *id050
+  snippet: 'Pillow, the most widely used image library for Python, can be made to
+    run operating system commands on a server by specifying the name of a file it
+    is told to open.
+
+
+    The flaw,&nbsp;CVE-2026-112900, is in the way Pillow handles EPS images, which
+    it opens by passing the file''s name to Ghostscript, a separate program it runs
+    to turn the image into pixels, without checking the name first.'
+  status: inbox
+- id: rss-darkreading-trust-is-not-what-it-seems-and-fraudsters-are-counting-on-it
+  name: Trust Is Not What It Seems — And Fraudsters Are Counting on It
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: Dark Reading
+  source_url: https://www.darkreading.com/cyber-risk/trust-is-not-what-it-seems-and-fraudsters-are-counting-on-it
+  source_tier: A
+  categories: &id051
+  - detection_response
+  - automation_orchestration
+  - cloud_identity
+  snippet: Threat actors don't need to rely on malware to breach organizations anymore.
+    They're simply calling help desks and politely asking for access, with a little
+    help from artificial intelligence.
+  status: inbox
+- id: rss-darkreading-exposed-to-php2shell-cyber-experts-weigh-in-with-advice
+  name: Exposed to PHP2Shell? Cyber Experts Weigh in With Advice
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: Dark Reading
+  source_url: https://www.darkreading.com/application-security/exposed-php2shell-cyber-experts-advice
+  source_tier: A
+  categories: *id051
+  snippet: Fixing the critical PHP flaws is not as simple as clicking &quot;Update.&quot;
+    Here's how to assess your risk, and what you can do to protect yourself.
+  status: inbox
+- id: rss-darkreading-ai-tools-are-generating-massive-attacks-for-little-cost
+  name: AI Tools Are Generating Massive Attacks for Little Cost
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: Dark Reading
+  source_url: https://www.darkreading.com/cybersecurity-operations/ai-tools-massive-attacks-little-cost
+  source_tier: A
+  categories: *id051
+  snippet: One campaign targets 105 sites using open-weight models; in another, public
+    models gained full domain control for $12. Cyber-defense will have to change.
+  status: inbox
+- id: rss-darkreading-why-caribbean-threats-cascade-into-global-cyber-risk
+  name: Why Caribbean Threats Cascade Into Global Cyber-Risk
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: Dark Reading
+  source_url: https://www.darkreading.com/cyber-risk/why-caribbean-threats-cascade-global-cyber-risk
+  source_tier: A
+  categories: *id051
+  snippet: The region is demonstrating what happens when exploits accelerate but assurance
+    does not.
+  status: inbox
+- id: rss-darkreading-cyber-insurance-s-new-reality-underwriting-isn-t-enough
+  name: 'Cyber Insurance''s New Reality: Underwriting Isn''t Enough'
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: Dark Reading
+  source_url: https://www.darkreading.com/cyber-risk/cyber-insurances-underwriting-isnt-enough
+  source_tier: A
+  categories: *id051
+  snippet: Rising AI, social engineering, and cloud risks are pushing carriers beyond
+    risk transfer and deeper into cybersecurity itself.
+  status: inbox
+- id: rss-darkreading-ai-agents-as-insider-threats-inside-microsoft-s-bet-on-a-unified-security-stack
+  name: 'AI Agents as Insider Threats: Inside Microsoft''s Bet on a Unified Security
+    Stack'
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: Dark Reading
+  source_url: https://www.darkreading.com/cybersecurity-operations/ai-agents-insider-threats-inside-microsoft-unified-security-stack
+  source_tier: A
+  categories: *id051
+  snippet: Microsoft's Project Perception adds Guardian Agents to monitor and contain
+    anomalous AI agents, but experts warn that policing unpredictable agents with
+    other agents may compound — not contain — the risk.
+  status: inbox
+- id: rss-darkreading-state-bank-of-india-suffers-a-customer-pii-data-leak
+  name: State Bank of India Suffers a Customer PII Data Leak
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: Dark Reading
+  source_url: https://www.darkreading.com/cyberattacks-data-breaches/state-bank-india-customer-pii-data-leak
+  source_tier: A
+  categories: *id051
+  snippet: Relatively small data breaches in India can turn quite serious, thanks
+    to a sophisticated underground market for trading PII.
+  status: inbox
+- id: rss-darkreading-microsoft-links-storm-0940-to-connectwise-supply-chain-attack
+  name: Microsoft Links Storm-0940 to ConnectWise Supply Chain Attack
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: Dark Reading
+  source_url: https://www.darkreading.com/cyberattacks-data-breaches/microsoft-storm-0940-connectwise-supply-chain-attack
+  source_tier: A
+  categories: *id051
+  snippet: The China-linked actor used an AI-enabled penetration-testing tool to automate
+    and accelerate its attack on more than 2,200 tenants.
+  status: inbox
+- id: rss-darkreading-what-we-missed-feds-lasso-texas-laptop-farms
+  name: 'What We Missed: Feds Lasso Texas Laptop Farms'
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: Dark Reading
+  source_url: https://www.darkreading.com/insider-threats/texas-laptop-farms-north-korean-it-workers
+  source_tier: A
+  categories: *id051
+  snippet: In this video, Dark Reading editors discuss some of the news they didn't
+    get a chance to cover, from busting up North Korea's stateside infrastructure
+    in &quot;Operation Lonestar Justice&quot; to Staples' gift card bonanza.
+  status: inbox
+- id: rss-darkreading-les-supermarch-s-de-l-ue-paient-d-un-firmware-de-r-frig-rateur-non-mis-jour
+  name: Les supermarchés de l'UE paient d'un firmware de réfrigérateur non mis à jour
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: Dark Reading
+  source_url: https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware-french
+  source_tier: A
+  categories: *id051
+  snippet: Des centaines de magasins ont subi des pertes se chiffrant en millions
+    d'euros parce qu'ils avaient fait appel à des tiers pour gérer le micrologiciel
+    OT obsolète qui pilotait leurs systèmes de climatisation.
+  status: inbox
+- id: rss-darkreading-as-ai-risks-grow-insurers-split-on-covering-the-damage
+  name: As AI Risks Grow, Insurers Split on Covering the Damage
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: Dark Reading
+  source_url: https://www.darkreading.com/cyber-risk/cyber-insurance-covering-ai-damage
+  source_tier: A
+  categories: *id051
+  snippet: Some build specialized agentic AI coverage, while major carriers quietly
+    exclude it — leaving enterprises exposed without their knowledge.
+  status: inbox
+- id: rss-darkreading-uae-transitions-50-of-government-services-to-agentic-ai
+  name: UAE Transitions 50% of Government Services to Agentic AI
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: Dark Reading
+  source_url: https://www.darkreading.com/cybersecurity-operations/uae-transitions-50-government-services-agentic-ai
+  source_tier: A
+  categories: *id051
+  snippet: The United Arab Emirates says it's creating a foundation of security and
+    safety as it transforms its public service footprint.
+  status: inbox
+- id: rss-darkreading-tidb-breach-exposes-flawed-cloud-security-assumptions
+  name: TiDB Breach Exposes Flawed Cloud Security Assumptions
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: Dark Reading
+  source_url: https://www.darkreading.com/cloud-security/tidb-breach-flawed-cloud-security
+  source_tier: A
+  categories: *id051
+  snippet: Cloud providers may be storing sensitive customer data, without either
+    party knowing it. But when a provider is breached, the unseen information comes
+    to light.
+  status: inbox
+- id: rss-darkreading-marvell-microsoft-amp-oracle-work-to-standardize-data-center-hardware-security
+  name: Marvell, Microsoft &amp; Oracle Work to Standardize Data Center Hardware Security
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: Dark Reading
+  source_url: https://www.darkreading.com/cloud-security/marvell-microsoft-oracle-standardize-data-center-hardware-security
+  source_tier: A
+  categories: *id051
+  snippet: The effort is aimed at standardizing a NIST FIPS 140-3 Level 3 integrated
+    HSM for cloud and hyperscale data center infrastructure.
+  status: inbox
+- id: rss-darkreading-cloud-security-alliance-survey-finds-data-loss-prevention-often-detects-data-los
+  name: Cloud Security Alliance Survey Finds Data Loss Prevention Often Detects Data
+    Loss Only After It Happens
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: Dark Reading
+  source_url: https://www.darkreading.com/cloud-security/cloud-security-alliance-survey-data-loss-prevention-detects-data-loss
+  source_tier: A
+  categories: *id051
+  snippet: Research finds that, among respondents experiencing data loss, only 16%
+    said DLP blocked their most significant incidents before data left the organization.
+  status: inbox
+- id: rss-isc-yara-x-1-22-0-release-sun-oct-25th
+  name: YARA-X 1.22.0 Release, (Sun, Oct 25th)
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: SANS ISC Handler's Diary
+  source_url: https://isc.sans.edu/diary/rss/33454
+  source_tier: A
+  categories: &id052
+  - detection_response
+  - automation_orchestration
+  - vuln_exposure
+  snippet: YARA-X&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;s 1.22.0 release brings 11
+    improvements and 9 bugfixes.&#xd;
+  status: inbox
+- id: rss-isc-reliable-x3f-php2shell-exploitability-fri-oct-23rd
+  name: (Reliable)&#x3f; php2shell exploitability, (Fri, Oct 23rd)
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: SANS ISC Handler's Diary
+  source_url: https://isc.sans.edu/diary/rss/33452
+  source_tier: A
+  categories: *id052
+  snippet: Yesterday everyone was running around like crazy (me included :) because
+    of the php2shell vulnerability.&#xd;
+  status: inbox
+- id: rss-isc-php-vulnerability-wrap-up-fri-oct-23rd
+  name: PHP Vulnerability Wrap-Up, (Fri, Oct 23rd)
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: SANS ISC Handler's Diary
+  source_url: https://isc.sans.edu/diary/rss/33450
+  source_tier: A
+  categories: *id052
+  snippet: This morning, we returned to Infocon Green. As usual, we are raising the
+    Infocon to alert you to emerging situations requiring immediate attention. PHP
+    fit that description. By now, you either know about it, or you probably never
+    will, so it is time to go back to "business as usual".&#xd;
+  status: inbox
+- id: rss-isc-stormcast-for-friday-october-23rd-2026-https-isc-sans-edu-podcastdetail-1014
+  name: ISC Stormcast For Friday, October 23rd, 2026 https://isc.sans.edu/podcastdetail/10148,
+    (Fri, Oct 23rd)
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: SANS ISC Handler's Diary
+  source_url: https://isc.sans.edu/diary/rss/33448
+  source_tier: A
+  categories: *id052
+  snippet: (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial
+    3.0 United States License.
+  status: inbox
+- id: rss-isc-stormcast-for-thursday-october-22nd-2026-https-isc-sans-edu-podcastdetail-10
+  name: ISC Stormcast For Thursday, October 22nd, 2026 https://isc.sans.edu/podcastdetail/10146,
+    (Thu, Oct 22nd)
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: SANS ISC Handler's Diary
+  source_url: https://isc.sans.edu/diary/rss/33446
+  source_tier: A
+  categories: *id052
+  snippet: (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial
+    3.0 United States License.
+  status: inbox
+- id: rss-isc-critical-php-vulnerability-cve-2026-109618-cve-2026-109619-x5b-infocon-yellow-x5
+  name: Critical PHP Vulnerability (CVE-2026-109618, CVE-2026-109619) &#x5b;infocon
+    yellow&#x5d;, (Wed, Oct 21st)
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: SANS ISC Handler's Diary
+  source_url: https://isc.sans.edu/diary/rss/33440
+  source_tier: A
+  categories: *id052
+  snippet: PHP.net announced that it will release a critical update today. We decided
+    to change the infoCon to YELLOW due to the widespread use of PHP, the expected
+    severity of the flaw (CVSS 9.4), and the availability of early PoC exploits before
+    the patch became available. &#xd;
+  status: inbox
+- id: rss-isc-stormcast-for-wednesday-october-21st-2026-https-isc-sans-edu-podcastdetail-1
+  name: ISC Stormcast For Wednesday, October 21st, 2026 https://isc.sans.edu/podcastdetail/10144,
+    (Wed, Oct 21st)
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: SANS ISC Handler's Diary
+  source_url: https://isc.sans.edu/diary/rss/33438
+  source_tier: A
+  categories: *id052
+  snippet: (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial
+    3.0 United States License.
+  status: inbox
+- id: rss-isc-stormcast-for-tuesday-october-20th-2026-https-isc-sans-edu-podcastdetail-101
+  name: ISC Stormcast For Tuesday, October 20th, 2026 https://isc.sans.edu/podcastdetail/10142,
+    (Tue, Oct 20th)
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: SANS ISC Handler's Diary
+  source_url: https://isc.sans.edu/diary/rss/33436
+  source_tier: A
+  categories: *id052
+  snippet: (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial
+    3.0 United States License.
+  status: inbox
+- id: rss-isc-orphaned-vba-projects-inside-dwg-files-yara-rule-sun-oct-18th
+  name: 'Orphaned VBA Projects Inside DWG Files: YARA Rule, (Sun, Oct 18th)'
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: SANS ISC Handler's Diary
+  source_url: https://isc.sans.edu/diary/rss/33434
+  source_tier: A
+  categories: *id052
+  snippet: Here is the YARA rule I used to detect "Orphaned VBA Projects Inside DWG
+    Files".&#xd;
+  status: inbox
+- id: rss-isc-stormcast-for-friday-october-16th-2026-https-isc-sans-edu-podcastdetail-1014
+  name: ISC Stormcast For Friday, October 16th, 2026 https://isc.sans.edu/podcastdetail/10140,
+    (Fri, Oct 16th)
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: SANS ISC Handler's Diary
+  source_url: https://isc.sans.edu/diary/rss/33432
+  source_tier: A
+  categories: *id052
+  snippet: (c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial
+    3.0 United States License.
+  status: inbox
+- id: rss-detectionengineering-dew-171-threat-emulation-context-onboarding-a-security-agent-lol-php
+  name: 'DEW #171 - Threat Emulation Context, Onboarding a Security Agent & lol php'
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: Detection Engineering Weekly (Substack)
+  source_url: https://www.detectionengineering.net/p/dew-171-threat-emulation-context
+  source_tier: A
+  categories: &id053
+  - detection_response
+  - automation_orchestration
+  snippet: Memory vulns are BACK
+  status: inbox
+- id: rss-detectionengineering-what-are-security-logs-part-1
+  name: What are Security Logs? Part 1
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: Detection Engineering Weekly (Substack)
+  source_url: https://www.detectionengineering.net/p/what-are-security-logs-part-1
+  source_tier: A
+  categories: *id053
+  snippet: A timestamped record of somebody else&#8217;s choices
+  status: inbox
+- id: rss-cybersecuritydive-php-exploitation-moves-at-slower-than-expected-pace-but-millions-remain-at-ris
+  name: PHP exploitation moves at slower-than-expected pace, but millions remain at
+    risk
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: Cybersecurity Dive
+  source_url: https://www.cybersecuritydive.com/news/php-exploitation-slower-than-expected/833855/
+  source_tier: A
+  categories: &id054
+  - detection_response
+  - cloud_identity
+  - data_ai
+  - automation_orchestration
+  snippet: Security researchers flag botnet activity, but successful compromises have
+    yet to break through.
+  status: inbox
+- id: rss-cybersecuritydive-large-businesses-cybersecurity-insurance-claims-are-now-less-frequent-but-more
+  name: Large businesses’ cybersecurity insurance claims are now less frequent but
+    more expensive
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: Cybersecurity Dive
+  source_url: https://www.cybersecuritydive.com/news/cybersecurity-insurance-market-ai-supply-chain/833841/
+  source_tier: A
+  categories: *id054
+  snippet: AI-powered attacks and hidden supply-chain weaknesses are making insurers&rsquo;
+    work more difficult, according to a new report.
+  status: inbox
+- id: rss-cybersecuritydive-china-nexus-actor-linked-to-attack-on-connectwise-cloud-backup
+  name: China-nexus actor linked to attack on ConnectWise Cloud Backup
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: Cybersecurity Dive
+  source_url: https://www.cybersecuritydive.com/news/china-nexus-actor-attack-connectwise-cloud-backup/833727/
+  source_tier: A
+  categories: *id054
+  snippet: Researchers said the hackers employed a powerful AI tool to accelerate
+    and scale the attacks against hundreds of Microsoft 365 users.
+  status: inbox
+- id: rss-cybersecuritydive-agentic-ai-helps-hackers-level-up-even-without-detailed-instructions
+  name: Agentic AI helps hackers level up, even without detailed instructions
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: Cybersecurity Dive
+  source_url: https://www.cybersecuritydive.com/news/agentic-ai-cyberattacks-harnesses-crowdstrike/833714/
+  source_tier: A
+  categories: *id054
+  snippet: Low-skilled hackers are likely to become a lot more dangerous over the
+    next 12 months, CrowdStrike warned.
+  status: inbox
+- id: rss-cybersecuritydive-weak-encryption-certificates-could-have-let-hackers-easily-spoof-websites
+  name: Weak encryption certificates could have let hackers easily spoof websites
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: Cybersecurity Dive
+  source_url: https://www.cybersecuritydive.com/news/website-encryption-security-certificates-emudhra-incident/833622/
+  source_tier: A
+  categories: *id054
+  snippet: Major web browsers blocked the eMudhra TLS certificates to prevent them
+    from being weaponized.
+  status: inbox
+- id: rss-cybersecuritydive-fbi-cisa-warn-that-safepay-ransomware-poses-threat-to-critical-infrastructure
+  name: FBI, CISA warn that SafePay ransomware poses threat to critical infrastructure
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: Cybersecurity Dive
+  source_url: https://www.cybersecuritydive.com/news/fbi-cisa-warn-safepay-ransomware-threat-critical-infrastructure/833589/
+  source_tier: A
+  categories: *id054
+  snippet: The group has been linked to a 2025 attack targeting technology firm Ingram
+    Micro.
+  status: inbox
+- id: rss-cybersecuritydive-critical-php-vulnerabilities-expose-most-websites-to-potential-compromise
+  name: Critical PHP vulnerabilities expose most websites to potential compromise
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: Cybersecurity Dive
+  source_url: https://www.cybersecuritydive.com/news/php-website-vulnerabilities/833580/
+  source_tier: A
+  categories: *id054
+  snippet: Government agencies urged organizations to take their sites offline until
+    they could be fixed.
+  status: inbox
+- id: rss-cybersecuritydive-russia-linked-hackers-broke-into-nato-shipbuilder-in-latest-espionage-campaign
+  name: Russia-linked hackers broke into NATO shipbuilder in latest espionage campaign
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: Cybersecurity Dive
+  source_url: https://www.cybersecuritydive.com/news/russia-nato-hacking-shipbuilder-critical-infrastructure/833509/
+  source_tier: A
+  categories: *id054
+  snippet: Symantec, which discovered the operation, urged companies to scan their
+    networks for signs of compromise.
+  status: inbox
+- id: rss-cybersecuritydive-ransomware-groups-expand-targeting-of-palo-alto-networks-vulnerability
+  name: Ransomware groups expand targeting of Palo Alto Networks vulnerability
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: Cybersecurity Dive
+  source_url: https://www.cybersecuritydive.com/news/ransomware-targeting-palo-alto-networks-vulnerability/833474/
+  source_tier: A
+  categories: *id054
+  snippet: Multiple threat actors have exploited a high-severity flaw in the company&rsquo;s
+    GlobalProtect portal.
+  status: inbox
+- id: rss-cybersecuritydive-ai-security-hiring-focuses-on-red-teaming-soc-orchestration-and-governance
+  name: AI security hiring focuses on red-teaming, SOC orchestration and governance
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: Cybersecurity Dive
+  source_url: https://www.cybersecuritydive.com/news/ai-security-jobs-hiring-sans-tracker/833465/
+  source_tier: A
+  categories: *id054
+  snippet: Roles mitigating AI deepfakes and overseeing post-quantum encryption rollouts
+    are on the horizon, according to the SANS Institute.
+  status: inbox
+- id: rss-helpnetsecurity-week-in-review-php-vulnerabilities-patched-exploited-palo-alto-globalprotect-vpn
+  name: 'Week in review: PHP vulnerabilities patched, exploited Palo Alto GlobalProtect
+    VPN flaw'
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: Help Net Security
+  source_url: https://www.helpnetsecurity.com/2026/10/25/week-in-review-php-vulnerabilities-patched-exploited-palo-alto-globalprotect-vpn-flaw/
+  source_tier: A
+  categories: &id055
+  - detection_response
+  - vuln_exposure
+  - cloud_identity
+  snippet: 'Here’s an overview of some of last week’s most interesting news, articles,
+    interviews and videos: A critical PHP security release is coming today, so get
+    ready to update! The PHP security team has announced an urgent security release
+    for Wednesday, 21 October 2026 at 14:00 UTC. The release fixes two vulnerabilities,
+    each rated 9.2 (Critical) under CVSS v4.0. The project will publish those details,
+    along with the patched version numbers, when the release goes out. &#8230; <a
+    href="https://www.'
+  status: inbox
+- id: rss-helpnetsecurity-uk-proposes-14-year-jail-terms-for-subsea-cable-saboteurs
+  name: UK proposes 14-year jail terms for subsea cable saboteurs
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: Help Net Security
+  source_url: https://www.helpnetsecurity.com/2026/10/23/uk-undersea-cable-sabotage-sentences/
+  source_tier: A
+  categories: *id055
+  snippet: Damaging a cable on the seabed off the UK coast could soon cost someone
+    14 years of their life behind bars, under plans the British government published
+    this week. The proposal comes from a White Paper by the Department for Digital,
+    Culture, Media and Sport that would update laws protecting undersea cables and
+    pipelines, some of which date back 140 years. The plans include unlimited fines
+    for ship owners whose vessels damage the infrastructure, new &#8230; <a href="https://www.helpnetsecurity
+  status: inbox
+- id: rss-helpnetsecurity-microsoft-365-accounts-compromised-at-79-organizations-no-passwords-needed
+  name: Microsoft 365 accounts compromised at 79 organizations, no passwords needed
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: Help Net Security
+  source_url: https://www.helpnetsecurity.com/2026/10/23/microsoft-365-accounts-stolen-sessions/
+  source_tier: A
+  categories: *id055
+  snippet: An attacker who spent ten weeks replaying stolen Microsoft 365 sign-in
+    sessions broke into email accounts at 79 organizations and used hidden inbox rules
+    to keep victims from seeing parts of their own mail, according to Huntress. The
+    researchers tracked the campaign between July 14 and September 22, 2026, counting
+    497 successful sign-ins and more than 200,000 failed login attempts. The stolen
+    sessions were replayed from servers at 1337 Services GmbH, a hosting provider
+    incorporated &#8230; <a
+  status: inbox
+- id: rss-helpnetsecurity-capcom-data-breach-exposes-11-7-million-account-records
+  name: Capcom data breach exposes 11.7 million account records
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: Help Net Security
+  source_url: https://www.helpnetsecurity.com/2026/10/23/capcom-id-data-breach-11-million-records-exposed/
+  source_tier: A
+  categories: *id055
+  snippet: Players who signed up for Capcom&#8217;s online account service may want
+    to look twice at emails that seem to come from the company. The company has disclosed
+    that a third party gained unauthorized access to customer information linked to
+    CAPCOM ID, the account people use to sign in to the company&#8217;s web services
+    and to play some of its games online. It detected suspicious activity on October
+    19 and confirmed the intrusion the same day. &#8230; <a href="https://www.helpnetsecurity.com/20
+  status: inbox
+- id: rss-helpnetsecurity-hackers-hijack-exposed-ai-models-to-launch-cyberattacks-at-victims-expense
+  name: Hackers hijack exposed AI models to launch cyberattacks at victims’ expense
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: Help Net Security
+  source_url: https://www.helpnetsecurity.com/2026/10/23/llmjacking-agent-hijacks-exposed-ai-models/
+  source_tier: A
+  categories: *id055
+  snippet: An attack tool built around AI goes looking for AI models that anyone on
+    the internet can reach, then uses them to plan break-ins while the model&#8217;s
+    owner pays for the computing power. Symantec captured the agent&#8217;s instruction
+    set this summer through a honeypot posing as an unprotected AI service, researchers
+    Priti More and Susmit Yenkar wrote. Its operators sent their entire working prompt
+    to the decoy, expecting a live model on the other end &#8230; <a href="https://www.helpnetse
+  status: inbox
+- id: rss-helpnetsecurity-google-opens-its-cloud-to-rival-openai-promises-business-data-won-t-train-models
+  name: Google opens its cloud to rival OpenAI, promises business data won’t train
+    models
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: Help Net Security
+  source_url: https://www.helpnetsecurity.com/2026/10/23/google-cloud-openai-models-private-preview/
+  source_tier: A
+  categories: *id055
+  snippet: Google Cloud is adding OpenAI models to its platform, initially through
+    a private preview for selected business customers. The launch includes GPT-6 Astra,
+    GPT-6.1 Sol and GPT-6 Luna. Google positions them as options for demanding work,
+    lower-cost professional tasks and everyday use that requires fast responses. More
+    choice, one bill Businesses will purchase access through Google Cloud Marketplace.
+    Usage will appear on a single Google Cloud invoice and count toward existing cloud
+    spending com
+  status: inbox
+- id: rss-helpnetsecurity-drone-program-compliance-what-a-cto-says-most-agencies-get-wrong
+  name: 'Drone program compliance: What a CTO says most agencies get wrong'
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: Help Net Security
+  source_url: https://www.helpnetsecurity.com/2026/10/23/nick-donarski-rotorlab-drone-program-compliance/
+  source_tier: A
+  categories: *id055
+  snippet: In this interview with Help Net Security, Nick Donarski, CTO at RotorLab,
+    explains what councils, records clerks, insurers, and auditors expect from a public
+    safety drone program, and where most programs fall short. He covers chain of custody
+    for flight logs and video, how to publish drone activity without exposing sensitive
+    operations, and common mistakes in open records handling. Drawing on his cybersecurity
+    background, he points to risks in ground control software and spreadsheet logs.
+    &#8
+  status: inbox
+- id: rss-helpnetsecurity-ai-is-taking-cybersecurity-jobs-at-junior-and-experienced-levels-alike
+  name: AI is taking cybersecurity jobs at junior and experienced levels alike
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: Help Net Security
+  source_url: https://www.helpnetsecurity.com/2026/10/23/barracuda-cybersecurity-career-development-report/
+  source_tier: A
+  categories: *id055
+  snippet: 'Organizations are cutting cybersecurity roles as they adopt AI, even while
+    reporting shortages of the expertise needed to manage threats, according to Barracuda’s
+    Cybersecurity Skills Gap Report. 56% have experienced professional workforce reductions
+    linked to AI, evenly divided between entry-level and higher-level roles.
+
+    The post AI is taking cybersecurity jobs at junior and experie'
+  status: inbox
+- id: rss-helpnetsecurity-new-infosec-products-of-the-week-october-23-2026
+  name: 'New infosec products of the week: October 23, 2026'
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: Help Net Security
+  source_url: https://www.helpnetsecurity.com/2026/10/23/new-infosec-products-of-the-week-october-23-2026/
+  source_tier: A
+  categories: *id055
+  snippet: Here’s a look at the most interesting products from the past week, featuring
+    releases from AppGate, IDENTOS, Sweet Security, and ThreatModeler. Sweet Security
+    adds one-click protection for vulnerable cloud workloads Sweet Security has announced
+    the release of Virtual Patching, a new capability that protects running cloud
+    and AI applications from specific vulnerabilities the moment they are identified.
+    Security teams can enforce protection in one click while engineering develops,
+    tests, and de
+  status: inbox
+- id: rss-helpnetsecurity-litellm-hit-by-second-supply-chain-attack-this-year-users-urged-to-rotate-creden
+  name: LiteLLM hit by second supply chain attack this year, users urged to rotate
+    credentials
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: Help Net Security
+  source_url: https://www.helpnetsecurity.com/2026/10/22/litellm-compromised-supply-chain-attack-pypi-docker/
+  source_tier: A
+  categories: *id055
+  snippet: A malicious release of LiteLLM pushed to PyPI and Docker registries on
+    Wednesday carried malware built to harvest cloud logins, developer secrets and
+    API keys for AI services from anyone who installed it. “LiteLLM got compromised…
+    again,” security researcher Kevin Beaumont wrote on Mastodon. In August, Hudson
+    Rock analyzed a 153GB archive stolen during an earlier LiteLLM supply chain attack,
+    in March, and linked it to 2,488 corporate domains, including AWS, Samsung, Cisco
+    and Salesforce, &#82
+  status: inbox
+- id: rss-reddit-cto-at-ncsc-summary-week-ending-october-25th
+  name: 'CTO at NCSC Summary: week ending October 25th'
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: Reddit r/blueteamsec
+  source_url: https://www.reddit.com/r/blueteamsec/comments/1xeinrq/cto_at_ncsc_summary_week_ending_october_25th/
+  source_tier: A
+  categories: &id056
+  - detection_response
+  - automation_orchestration
+  snippet: '&#32; submitted by &#32;  /u/digicat   [link] &#32; [comments]'
+  status: inbox
+- id: rss-reddit-cve-2026-111497-node2shell-detection-opportunities
+  name: CVE-2026-111497, node2shell Detection Opportunities
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: Reddit r/blueteamsec
+  source_url: https://www.reddit.com/r/blueteamsec/comments/1xfalfa/cve2026111497_node2shell_detection_opportunities/
+  source_tier: A
+  categories: *id056
+  snippet: '&#32; submitted by &#32;  /u/digicat   [link] &#32; [comments]'
+  status: inbox
+- id: rss-reddit-wake-and-break-wake-and-break-a-psp-exploit-for-amd-navi31-rx-7900-that-makes-th
+  name: 'wake-and-break: Wake and Break: a PSP exploit for AMD navi31 (RX 7900) that
+    makes the card accept unsigned IP firmware. Not persistent: a cold power cycle
+    restores stock.'
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: Reddit r/blueteamsec
+  source_url: https://www.reddit.com/r/blueteamsec/comments/1xfe91g/wakeandbreak_wake_and_break_a_psp_exploit_for_amd/
+  source_tier: A
+  categories: *id056
+  snippet: '&#32; submitted by &#32;  /u/digicat   [link] &#32; [comments]'
+  status: inbox
+- id: rss-reddit-php2shell-scanner-high-fidelity-scanner-for-php2shell-cve-2026-109618-and-cve-20
+  name: 'php2shell-scanner: High fidelity scanner for php2shell (CVE-2026-109618 and
+    CVE-2026-109619)'
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: Reddit r/blueteamsec
+  source_url: https://www.reddit.com/r/blueteamsec/comments/1xf2qlz/php2shellscanner_high_fidelity_scanner_for/
+  source_tier: A
+  categories: *id056
+  snippet: '&#32; submitted by &#32;  /u/digicat   [link] &#32; [comments]'
+  status: inbox
+- id: rss-reddit-php2shell-exploitation-observed-packet-to-process-rce-evidence
+  name: 'PHP2Shell exploitation observed: packet-to-process RCE evidence'
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: Reddit r/blueteamsec
+  source_url: https://www.reddit.com/r/blueteamsec/comments/1xew3kh/php2shell_exploitation_observed_packettoprocess/
+  source_tier: A
+  categories: *id056
+  snippet: '&#32; submitted by &#32;  /u/digicat   [link] &#32; [comments]'
+  status: inbox
+- id: rss-reddit-whfb-pincapture-this-project-captures-the-pin-by-placing-a-cpu-hardware-breakpoi
+  name: 'WHFB-PinCapture: This project captures the PIN by placing a CPU hardware
+    breakpoint on the function that packages the typed PIN inside LogonUI.exe'
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: Reddit r/blueteamsec
+  source_url: https://www.reddit.com/r/blueteamsec/comments/1xf7hux/whfbpincapture_this_project_captures_the_pin_by/
+  source_tier: A
+  categories: *id056
+  snippet: '&#32; submitted by &#32;  /u/digicat   [link] &#32; [comments]'
+  status: inbox
+- id: rss-reddit-how-context-bombs-derail-offensive-ai
+  name: How Context Bombs derail offensive AI
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: Reddit r/blueteamsec
+  source_url: https://www.reddit.com/r/blueteamsec/comments/1xf4n6k/how_context_bombs_derail_offensive_ai/
+  source_tier: A
+  categories: *id056
+  snippet: '&#32; submitted by &#32;  /u/digicat   [link] &#32; [comments]'
+  status: inbox
+- id: rss-reddit-someone-is-already-building-a-target-list-of-brotli-capable-hosts-for-node2shell
+  name: Someone is already building a target list of Brotli-capable hosts for node2shell
+    / HTTP2Shell / Broccoli2Shell (CVE-2026-111497)
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: Reddit r/blueteamsec
+  source_url: https://www.reddit.com/r/blueteamsec/comments/1xfa5rc/someone_is_already_building_a_target_list_of/
+  source_tier: A
+  categories: *id056
+  snippet: One bug, with three names (because of course it does) - Node2Shell, HTTP2Shell,
+    and Broccoli2Shell... Anyway,  A public checker (node2shell-check/1.0, out of
+    AS44620 / Turkey) is already hitting sensors cataloguing which hosts decompress
+    Brotli at all. Unlike PHP2Shell earlier this week - working RCE chain exists.
+    ELLIO reprod
+  status: inbox
+- id: rss-reddit-add-emudhra-option-to-mitmproxy
+  name: Add `--emudhra` option to mitmproxy
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: Reddit r/blueteamsec
+  source_url: https://www.reddit.com/r/blueteamsec/comments/1xexs3f/add_emudhra_option_to_mitmproxy/
+  source_tier: A
+  categories: *id056
+  snippet: '&#32; submitted by &#32;  /u/digicat   [link] &#32; [comments]'
+  status: inbox
+- id: rss-reddit-seizing-ip-addresses-without-compromising-registry-neutrality
+  name: Seizing IP addresses without compromising registry neutrality
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: Reddit r/blueteamsec
+  source_url: https://www.reddit.com/r/blueteamsec/comments/1xf2m1u/seizing_ip_addresses_without_compromising/
+  source_tier: A
+  categories: *id056
+  snippet: '&#32; submitted by &#32;  /u/digicat   [link] &#32; [comments]'
+  status: inbox
+- id: rss-reddit-tailworm-the-design-choices-of-the-open-source-tailscale-and-headscale-software-
+  name: Tailworm - "The design choices of the open source tailscale and headscale
+    software have created an environment ripe for risk"
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: Reddit r/blueteamsec
+  source_url: https://www.reddit.com/r/blueteamsec/comments/1xf2f04/tailworm_the_design_choices_of_the_open_source/
+  source_tier: A
+  categories: *id056
+  snippet: '&#32; submitted by &#32;  /u/digicat   [link] &#32; [comments]'
+  status: inbox
+- id: rss-reddit-from-boot-key-to-plaintext-how-windows-lsa-secrets-are-deciphered-from-the-regis
+  name: 'From Boot Key to Plaintext: How Windows LSA Secrets Are Deciphered from the
+    Registry'
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: Reddit r/blueteamsec
+  source_url: https://www.reddit.com/r/blueteamsec/comments/1xf7dlz/from_boot_key_to_plaintext_how_windows_lsa/
+  source_tier: A
+  categories: *id056
+  snippet: '&#32; submitted by &#32;  /u/digicat   [link] &#32; [comments]'
+  status: inbox
+- id: rss-reddit-local-shellcode-execution-via-setupiteratecabinetw
+  name: Local Shellcode Execution via SetupIterateCabinetW
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: Reddit r/blueteamsec
+  source_url: https://www.reddit.com/r/blueteamsec/comments/1xf7b86/local_shellcode_execution_via_setupiteratecabinetw/
+  source_tier: A
+  categories: *id056
+  snippet: '&#32; submitted by &#32;  /u/digicat   [link] &#32; [comments]'
+  status: inbox
+- id: rss-reddit-parameterized-net-memory-shell-generator-red-team-security-testing-jmg-equivalen
+  name: Parameterized .NET memory shell generator | Red team / security testing |
+    JMG equivalent for .NET
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: Reddit r/blueteamsec
+  source_url: https://www.reddit.com/r/blueteamsec/comments/1xf6xdx/parameterized_net_memory_shell_generator_red_team/
+  source_tier: A
+  categories: *id056
+  snippet: '&#32; submitted by &#32;  /u/digicat   [link] &#32; [comments]'
+  status: inbox
+- id: rss-ventureinsecurity-from-firefighters-to-building-inspectors-rethinking-the-cyber-market
+  name: 'From firefighters to building inspectors: rethinking the cyber market'
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: Venture in Security
+  source_url: https://ventureinsecurity.net/p/from-firefighters-to-building-inspectors
+  source_tier: A
+  categories:
+  - detection_response
+  - data_ai
+  - automation_orchestration
+  snippet: When attackers can start fires faster than we can put them out, we have
+    no choice but to spend time making buildings harder to burn
+  status: inbox
+- id: rss-unit42-threat-brief-critical-vulnerabilities-in-php-cve-2026-109618-cve-2026-109619-upd
+  name: 'Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619
+    (Updated October 25)'
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: Unit 42 (Palo Alto Networks)
+  source_url: https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/
+  source_tier: B
+  categories: &id057
+  - detection_response
+  - cloud_identity
+  - vuln_exposure
+  snippet: 'CVE-2026-109618 and CVE-2026-109619 are Critical vulnerabilities in PHP,
+    a scripting language used globally for web servers and CMS systems.
+
+    The post Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619
+    (Updated October 25) appeared first on Unit 42.'
+  status: inbox
+- id: rss-unit42-emudhra-intermediate-ca-certificates-compromised
+  name: EMudhra Intermediate CA Certificates Compromised
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: Unit 42 (Palo Alto Networks)
+  source_url: https://unit42.paloaltonetworks.com/emudhra-certificate-compromise/
+  source_tier: B
+  categories: *id057
+  snippet: 'Eight compromised eMudhra intermediate CA private keys risk unauthorized
+    TLS signing and MitM interception. Read our analysis and containment guide.
+
+    The post EMudhra Intermediate CA Certificates Compromised appeared first on Unit
+    42.'
+  status: inbox
+- id: rss-unit42-the-current-landscape-of-oauth-attacks
+  name: The Current Landscape of OAuth Attacks
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: Unit 42 (Palo Alto Networks)
+  source_url: https://unit42.paloaltonetworks.com/current-landscape-oauth-attacks/
+  source_tier: B
+  categories: *id057
+  snippet: 'Unit 42 explores modern OAuth threats and actionable steps organizations
+    can take to protect their environments.
+
+    The post The Current Landscape of OAuth Attacks appeared first on Unit 42.'
+  status: inbox
+- id: rss-unit42-next-exploit-opportunities-how-a-threat-actor-used-ai-to-help-plan-and-execute-m
+  name: '“Next Exploit Opportunities”: How a Threat Actor Used AI to Help Plan and
+    Execute Multiple Types of Cybercrime Activities'
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: Unit 42 (Palo Alto Networks)
+  source_url: https://unit42.paloaltonetworks.com/ai-assisted-cybercrime-analysis/
+  source_tier: B
+  categories: *id057
+  snippet: 'An investigation into a threat actor bypassing AI safety controls to coordinate
+    credential theft, VoIP fraud planning, and database exfiltration.
+
+    The post “Next Exploit Opportunities”: How a Threat Actor Used AI to Help Plan
+    and Execute Multiple Types of Cybercrime Activities appeared first on Unit 42.'
+  status: inbox
+- id: rss-unit42-active-exploitation-of-may-2026-pan-os-cve-2026-0257-updated-october-20
+  name: Active Exploitation of May 2026 PAN-OS CVE-2026-0257 (Updated October 20)
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: Unit 42 (Palo Alto Networks)
+  source_url: https://unit42.paloaltonetworks.com/active-exploitation-of-pan-os-cve-2026-0257/
+  source_tier: B
+  categories: *id057
+  snippet: 'Ransomware operators including Spikey Scorpius (aka Qilin) and Tarnished
+    Scorpius (aka Inc) are exploiting PAN-OS vulnerability CVE-2026-0257.
+
+    The post Active Exploitation of May 2026 PAN-OS CVE-2026-0257 (Updated October
+    20) appeared first on Unit 42.'
+  status: inbox
+- id: rss-unit42-top-5-initial-access-threat-vectors-observed-by-unit-42-in-september-2026
+  name: Top 5 Initial Access Threat Vectors Observed by Unit 42 in September 2026
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: Unit 42 (Palo Alto Networks)
+  source_url: https://unit42.paloaltonetworks.com/top-5-initial-access-vectors-september-2026/
+  source_tier: B
+  categories: *id057
+  snippet: 'Unit 42 details the top initial access vectors adversaries use to breach
+    organizations, led by edge exploits, credential abuse and phishing
+
+    The post Top 5 Initial Access Threat Vectors Observed by Unit 42 in September
+    2026 appeared first on Unit 42.'
+  status: inbox
+- id: rss-unit42-ai-powered-espionage-campaign-targets-government-linux-infrastructure
+  name: AI-Powered Espionage Campaign Targets Government Linux Infrastructure
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: Unit 42 (Palo Alto Networks)
+  source_url: https://unit42.paloaltonetworks.com/ai-campaign-targets-linux-infrastructure/
+  source_tier: B
+  categories: *id057
+  snippet: 'Our analysis an AI-powered espionage campaign targeting government Linux
+    infrastructure with custom malware, web shells, and advanced credential theft.
+
+    The post AI-Powered Espionage Campaign Targets Government Linux Infrastructure
+    appeared first on Unit 42.'
+  status: inbox
+- id: rss-unit42-unit-42-uncovers-peerstitch-a-stealthy-fortigate-implant
+  name: Unit 42 Uncovers PEERSTITCH, a Stealthy FortiGate Implant
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: Unit 42 (Palo Alto Networks)
+  source_url: https://unit42.paloaltonetworks.com/fortimanager-cve-2024-47575-peerstitch-malware/
+  source_tier: B
+  categories: *id057
+  snippet: 'We investigated an intrusion where attackers exploited CVE-2024-47575
+    to target 500+ firewalls and deploy PEERSTITCH, a memory-resident ARM64 malware.
+
+    The post Unit 42 Uncovers PEERSTITCH, a Stealthy FortiGate Implant appeared first
+    on Unit 42.'
+  status: inbox
+- id: rss-unit42-the-noise-inside-the-network-how-an-unsophisticated-attack-exposed-a-third-party
+  name: 'The Noise Inside the Network: How an Unsophisticated Attack Exposed a Third-Party
+    Risk'
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: Unit 42 (Palo Alto Networks)
+  source_url: https://unit42.paloaltonetworks.com/noise-inside-network-third-party-risk/
+  source_tier: B
+  categories: *id057
+  snippet: 'Unit 42 dissects a cyberattack targeting a European bank''s IT infrastructure,
+    delivering concrete defense strategies to help organizations detect and counter
+    comparable threats.
+
+    The post The Noise Inside the Network: How an Unsophisticated Attack Exposed a
+    Third-Party Risk appeared first on Unit 42.'
+  status: inbox
+- id: rss-blog-i-had-plans-for-that-second
+  name: I had plans for that second
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: Cisco Talos Intelligence
+  source_url: https://blog.talosintelligence.com/i-had-plans-for-that-second/
+  source_tier: B
+  categories: &id058
+  - detection_response
+  - vuln_exposure
+  snippet: The Earth is speeding up, the leap second is being abolished, oh, and there's
+    critical vulnerabilities in PHP.
+  status: inbox
+- id: rss-blog-compromised-emudhra-intermediate-certificates
+  name: Compromised eMudhra intermediate certificates
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: Cisco Talos Intelligence
+  source_url: https://blog.talosintelligence.com/compromised-intermediate-certificates/
+  source_tier: B
+  categories: *id058
+  snippet: Cisco Talos is aware of eight intermediate certificates belonging to the
+    intermediate certificate authority, eMudhra.
+  status: inbox
+- id: rss-blog-two-critical-rces-in-php-core
+  name: Two critical RCEs in PHP core
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: Cisco Talos Intelligence
+  source_url: https://blog.talosintelligence.com/two-critical-rces-in-php-core/
+  source_tier: B
+  categories: *id058
+  snippet: Two critical remote code execution vulnerabilities in PHP core could have
+    implications across its wider ecosystem. Talos has published a blog to explain
+    what we know so far, and details the Snort coverage available, including rules
+    in the Community Ruleset.
+  status: inbox
+- id: rss-blog-parasitizing-trust-how-legitimate-infrastructure-becomes-a-delivery-pipeline-for
+  name: 'Parasitizing trust: How legitimate infrastructure becomes a delivery pipeline
+    for attackers'
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: Cisco Talos Intelligence
+  source_url: https://blog.talosintelligence.com/parasitizing-trust-how-legitimate-infrastructure-becomes-a-delivery-pipeline-for-attackers/
+  source_tier: B
+  categories: *id058
+  snippet: Adversaries are turning the tools businesses trust into delivery mechanisms
+    for malicious activity. Cisco Talos observed abuse of more than 25 legitimate
+    platforms over the past year, exploiting the built-in trust of collaboration,
+    file-sharing, payment and other services to reach their targets.
+  status: inbox
+- id: rss-blog-there-s-only-so-much-code-the-rise-in-vulnerability-numbers
+  name: 'There''s only so much code: the rise in vulnerability numbers'
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: Cisco Talos Intelligence
+  source_url: https://blog.talosintelligence.com/theres-only-so-much-code-the-rise-in-vulnerability-numbers/
+  source_tier: B
+  categories: *id058
+  snippet: The September Microsoft Patch Tuesday release included 975 vulnerability
+    advisories. This month, 1,415 vulnerabilities were just dropped. Compared to a
+    pre-June average of 100 a month, that increase is staggering. Where did they come
+    from? And what does the future look like?
+  status: inbox
+- id: rss-blog-the-q3-vulnerability-pulse-discovery-exploitation
+  name: 'The Q3 Vulnerability Pulse: Discovery ≠ Exploitation'
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: Cisco Talos Intelligence
+  source_url: https://blog.talosintelligence.com/the-q3-vulnerability-pulse-discovery-exploitation/
+  source_tier: B
+  categories: *id058
+  snippet: Is the cybersecurity world really facing a "Bugmageddon?" Thor breaks down
+    the latest CVE and KEV trends in the latest Threat Source newsletter.
+  status: inbox
+- id: rss-blog-break-the-silence-kazakhstan-nexus-uat-6275-targets-cis-government-organizations
+  name: 'Break the silence: Kazakhstan-nexus UAT-6275 targets CIS government organizations'
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: Cisco Talos Intelligence
+  source_url: https://blog.talosintelligence.com/break-the-silence-kazakhstan-nexus-uat-6275-targets-cis-government-organizations/
+  source_tier: B
+  categories: *id058
+  snippet: Talos and Recorded Future identified UAT-6275 activity targeting government
+    organizations across the Commonwealth of Independent States. Recovered artifacts
+    show additional interest in water resources and energy.
+  status: inbox
+- id: rss-blog-microsoft-patch-tuesday-for-october-2026-snort-rules-and-prominent-vulnerabiliti
+  name: Microsoft Patch Tuesday for October 2026 — Snort rules and prominent vulnerabilities
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: Cisco Talos Intelligence
+  source_url: https://blog.talosintelligence.com/microsoft-patch-tuesday-for-october-2026/
+  source_tier: B
+  categories: *id058
+  snippet: Microsoft has released its monthly security update for October 2026, which
+    includes 1415 vulnerabilities affecting a range of products, including 85 that
+    Microsoft marked as "critical."
+  status: inbox
+- id: rss-youtube-black-hat-stories-island-io
+  name: Black Hat Stories | Island.io
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: Black Hat (YouTube)
+  source_url: https://www.youtube.com/shorts/eO0FZm_xeSo
+  source_tier: B
+  categories: &id059
+  - detection_response
+  - automation_orchestration
+  - data_ai
+  snippet: "Hear Chris Gaun reflect on his experience as a first-time exhibitor at\
+    \ Black Hat. \n\nReady to be part of the conversation? Become a Black Hat sponsor:\
+    \ https://messages.blackhat.com/request-info"
+  status: inbox
+- id: rss-youtube-black-hat-stories-first-time-exhibitor
+  name: Black Hat Stories | First Time Exhibitor
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: Black Hat (YouTube)
+  source_url: https://www.youtube.com/shorts/NAPi2gWNZP4
+  source_tier: B
+  categories: *id059
+  snippet: "On this episode, Chris Gaun, VP of Product Marketing at Island.io, shares\
+    \ his experience exhibiting at Black Hat for the first time. \n\nReady to be part\
+    \ of the conversation? Become a Black Hat sponsor: https://messages.blackhat.com/request-info"
+  status: inbox
+- id: rss-youtube-black-hat-stories-chris-gaun-vp-of-product-marketing-at-island-io
+  name: Black Hat Stories | Chris Gaun, VP of Product Marketing at Island.io
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: Black Hat (YouTube)
+  source_url: https://www.youtube.com/shorts/V8Uku6dk5d0
+  source_tier: B
+  categories: *id059
+  snippet: "Chris reflects on what sets Black Hat apart and why it remains a must-attend\
+    \ event for the cybersecurity community. \n\nReady to be part of the conversation?\
+    \ Become a Black Hat sponsor: https://messages.blackhat.com/request-info"
+  status: inbox
+- id: rss-youtube-black-hat-stories-learn-from-the-legends
+  name: Black Hat Stories | Learn From the Legends
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: Black Hat (YouTube)
+  source_url: https://www.youtube.com/shorts/xrfiOisaxtQ
+  source_tier: B
+  categories: *id059
+  snippet: Taylor shares how Black Hat is one of the few places where attendees can
+    connect with some of cybersecurity's most influential figures and learn from their
+    experiences.
+  status: inbox
+- id: rss-youtube-black-hat-stories-taylor-margot
+  name: Black Hat Stories | Taylor Margot
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: Black Hat (YouTube)
+  source_url: https://www.youtube.com/shorts/XLgStBd41bA
+  source_tier: B
+  categories: *id059
+  snippet: Taylor shares why the excitement, connections, and conversations at Black
+    Hat create an experience that’s difficult to replicate.
+  status: inbox
+- id: rss-youtube-the-rsa-conference-community-speaks-the-place-to-learn
+  name: 'The RSA Conference Community Speaks: The Place to Learn'
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: RSAC (YouTube)
+  source_url: https://www.youtube.com/shorts/BjEnnDjaj2E
+  source_tier: B
+  categories: &id060
+  - detection_response
+  - cloud_identity
+  - data_ai
+  - automation_orchestration
+  snippet: 'Cybersecurity professionals convene at RSA Conference for learning, growing,
+    and sharing. Hear the RSA Conference community speak to what the Conference means
+    to them and why they attend.
+
+
+    Learn More & Register for RSA Conference 2027:
+
+    www.rsaconference.com/usa'
+  status: inbox
+- id: rss-youtube-the-rsa-conference-community-speaks-security-is-about-the-people
+  name: 'The RSA Conference Community Speaks: Security is About the People'
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: RSAC (YouTube)
+  source_url: https://www.youtube.com/shorts/o3ZCxwuRbA4
+  source_tier: B
+  categories: *id060
+  snippet: 'Cybersecurity professionals convene at RSA Conference for learning, growing,
+    and sharing. Hear the RSA Conference community speak to what the Conference means
+    to them and why they attend.
+
+
+    Learn More & Register for RSA Conference 2027:
+
+    www.rsaconference.com/usa'
+  status: inbox
+- id: rss-youtube-the-rsa-conference-community-speaks-facing-cybersecurity-challenges-together
+  name: 'The RSA Conference Community Speaks: Facing Cybersecurity Challenges Together'
+  discovered_at: '2026-10-25'
+  source: rss
+  source_name: RSAC (YouTube)
+  source_url: https://www.youtube.com/shorts/ou9Y0NjIJnk
+  source_tier: B
+  categories: *id060
+  snippet: 'Cybersecurity professionals convene at RSA Conference for learning, growing,
+    and sharing. Hear the RSA Conference community speak to what the Conference means
+    to them and why they attend.
+
+
+    Learn More & Register for RSA Conference 2027:
+
+    www.rsaconference.com/usa'
+  status: inbox
+- id: github-github-aixisstudio-snitch
+  name: aixisstudio/Snitch
+  discovered_at: '2026-10-25'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/aixisstudio/Snitch
+  source_tier: B
+  categories: &id061
+  - detection_response
+  snippet: Real-time network monitor + outbound firewall — see & block every connection.
+    Privacy-first, local-first, Rust fleet agent, SIEM exports, 8 languages. / Moniteur
+    réseau temps réel + pare-feu sortant, agent de flotte Rust, exports SIEM. 100
+    % local.
+  metadata:
+    stars: 570
+    language: Python
+    updated_at: '2026-10-25T22:29:13Z'
+  status: inbox
+- id: github-github-call518-logsentinelai
+  name: call518/LogSentinelAI
+  discovered_at: '2026-10-25'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/call518/LogSentinelAI
+  source_tier: B
+  categories: *id061
+  snippet: 'LLM-powered security log analyzer: detect threats & anomalies with zero
+    regex — just declare a Pydantic schema. Real-time Telegram alerts, SIEM-ready
+    with Elasticsearch/Kibana. Supports OpenAI, Ollama, vLLM.'
+  metadata:
+    stars: 67
+    language: Python
+    updated_at: '2026-10-24T06:51:40Z'
+  status: inbox
+- id: github-github-ibmresilient-resilient-python-api
+  name: ibmresilient/resilient-python-api
+  discovered_at: '2026-10-25'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/ibmresilient/resilient-python-api
+  source_tier: B
+  categories: &id062
+  - automation_orchestration
+  snippet: Python Library for the IBM SOAR REST API, a Python SDK for developing Apps
+    for IBM SOAR and more...
+  metadata:
+    stars: 42
+    language: Python
+    updated_at: '2026-10-20T17:39:55Z'
+  status: inbox
+- id: github-github-dandye-adk-runbooks
+  name: dandye/adk_runbooks
+  discovered_at: '2026-10-25'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/dandye/adk_runbooks
+  source_tier: B
+  categories: *id062
+  snippet: ''
+  metadata:
+    stars: 87
+    language: Python
+    updated_at: '2026-10-23T03:09:50Z'
+  status: inbox
+- id: github-github-noobishsvk-fm-dx-webserver
+  name: NoobishSVK/fm-dx-webserver
+  discovered_at: '2026-10-25'
+  source: github
+  source_name: GitHub
+  source_url: https://github.com/NoobishSVK/fm-dx-webserver
+  source_tier: B
+  categories:
+  - detection_response
+  snippet: FM-DX Webserver is a cross-platform web server designed for FM DXers who
+    want to control their radio receivers through a web interface.
+  metadata:
+    stars: 105
+    language: JavaScript
+    updated_at: '2026-10-22T09:37:47Z'
+  status: inbox
